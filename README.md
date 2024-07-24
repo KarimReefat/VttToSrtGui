@@ -1,9 +1,18 @@
-using the work of lbrayner in https://github.com/lbrayner/vtt-to-srt repository i make this gtk gui for the the the script to convert vtt into srt files.
-to use it install html2text , pysrt & webvtt-py by using pip :
+using the work of jsonzilla in https://github.com/jsonzilla/vtt_to_srt2 repository i make this gtk gui for the the the script to convert vtt into srt files.
 
-pip3 install html2text pysrt webvtt-py 
+i use gtk 2 and Gtk 3 to build this gui 
 
-then run from the terminal in linux or msys2 in windows 
+to run this gui from msys on windows use :
 
-./gui
+./gui3
+
+for Gtk 3 and python 3
+
+./gui2
+
+for Gtk 2 and python 2
+
+
+
+
 
