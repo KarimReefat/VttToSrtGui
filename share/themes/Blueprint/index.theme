@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Blueprint
+Comment=Java Desktop System Release 3 default theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=blueprint
+IconTheme=blueprint
+MetacityTheme=blueprint

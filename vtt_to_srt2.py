@@ -151,7 +151,7 @@ class VttToStr:
             filename = filename.split(os.sep)[-1]
             with open(filename, "w") as file:
                 file.writelines(str(data.encode(encoding_format)))
-        print("file created {0}\n".format(filename))
+        # print("file created {0}\n".format(filename))
 
     def read_file(self, filename, encoding_format = "utf-8"):
         """Read a file text
@@ -162,7 +162,7 @@ class VttToStr:
         content = ''
         
         with io.open(filename, mode="r", encoding=encoding_format) as file:
-            print("file being read: {0}\n".format(filename))
+            #vprint("file being read: {0}\n".format(filename))
             content = file.read()
         return content
 

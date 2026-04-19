@@ -1,4 +1,14 @@
-import gi, os
+import os
+
+#$env:LIB = "C:\gtk-build\gtk\x64\release\lib;" + $env:LIB
+#$env:INCLUDE = "C:\gtk-build\gtk\x64\release\include;C:\gtk-build\gtk\x64\release\include\cairo;C:\gtk-build\gtk\x64\release\include\glib-2.0;C:\gtk-build\gtk\x64\release\include\gobject-introspection-1.0;C:\gtk-build\gtk\x64\release\lib\glib-2.0\include;" + $env:INCLUDE
+
+os.environ['Path'] = os.environ['Path'] + r"C:\gtk\bin;" 
+os.environ['LIB'] = r"C:\gtk\lib;"
+os.environ['INCLUDE'] = r"C:\gtk\include;C:\gtk\include\cairo;C:\gtk\include\glib-2.0;C:\gtk\include\gobject-introspection-1.0;C:\gtk\lib\glib-2.0\include;" 
+
+
+import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gdk, GLib
 from gi.repository.GdkPixbuf import Pixbuf
@@ -11,8 +21,8 @@ from vtt_to_srt3 import ConvertFile, ConvertDirectories
 
 from pathlib import Path
 
-from webvtt import WebVTT
-from pysrt.srtitem import SubRipItem, SubRipTime
+#from webvtt import WebVTT
+#from pysrt.srtitem import SubRipItem, SubRipTime
 
 # by growing the recrusion limti to 1500 we will get bypassing the recurison error of reaching the 
 # maximum recrusion depth while dealling the folders with big tree path.
@@ -33,7 +43,10 @@ class MyWindow(Gtk.Window):
         self.status_bar_text = ""
         self.tree_store = Gtk.TreeStore(Pixbuf, str, bool, bool, str)       
         
-        self.set_icon_from_file('./icon.ico')
+        for f in Pixbuf.get_formats():
+            print(f.get_name())
+            
+        self.set_icon_from_file('./icon.png')
         self.props.window_position = Gtk.WindowPosition.CENTER
         self.props.resizable = True
         self.connect('destroy', Gtk.main_quit)

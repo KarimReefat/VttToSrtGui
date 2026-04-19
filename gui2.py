@@ -1,9 +1,10 @@
+
+import time
+
 import pygtk
 pygtk.require('2.0')
 
 import gtk, pango, gobject
-
-gobject.threads_init()
 
 from gtk.gdk import Pixbuf
 
@@ -19,6 +20,11 @@ from os.path import abspath, dirname, join
 
 sys.setrecursionlimit(3500)
 
+#gobject.threads_init()
+
+gtk.gdk.threads_init()
+
+
 class MyWindow(gtk.Window):
 
     def __init__(self):
@@ -28,11 +34,13 @@ class MyWindow(gtk.Window):
         self.total_files = 0
         self.completed_files = 0
         self.failed_files = 0
-        self.failed_files_path = []
+        #self.failed_files_path = []
+        #self.current_failed_file = ""
         self.items = []
         self.status_bar_text = ""
         self.tree_store = gtk.TreeStore(Pixbuf, str, bool, bool, str)
 
+        self.set_icon_from_file('./icon.ico')
         self.props.window_position = gtk.WIN_POS_CENTER
         self.props.title = 'VTT To SRT'
         self.props.resizable = True
@@ -56,10 +64,30 @@ class MyWindow(gtk.Window):
         self.test_button_2.connect('clicked', self.disable_widgets)
 
         self.files_frame = gtk.Frame(label = 'Files To Convert')
+
+        
+        self.box = gtk.HBox(spacing=5, homogeneous=True)
+        self.box.props.border_width = 5
+        self.box.pack_start(self.tree_view_setup(self.tree_store), False)
+
+
+        self.failed_files_frame = gtk.Frame(label = 'Failed Files')
+        #self.result_label = gtk.Label("Result")
+        self.result_text = gtk.TextView()
+        self.result_buffer = gtk.TextBuffer()
+        self.result_text.set_buffer(self.result_buffer)
+
+        self.failed_files_frame.add(self.result_text)
+        
+        self.box.pack_start(self.failed_files_frame, False)
+        
+        #self.result_label.hide()
+        #self.result_label.set_visible(False)
         
         scrolled_win = gtk.ScrolledWindow(None, None)
-        scrolled_win.add(self.tree_view_setup(self.tree_store))
-        scrolled_win.set_size_request(450, 250)
+        scrolled_win.add_with_viewport(self.box)
+        scrolled_win.set_size_request(750, 350)
+        
 
         self.files_frame.add(scrolled_win)
 
@@ -149,33 +177,39 @@ class MyWindow(gtk.Window):
 
         self.completed_files = 0
         self.failed_files = 0
+        #self.failed_files_path = []
+        self.result_buffer.set_text("")
         self.update_status_bar()
 
         self.ee = threading.Event()
-
+        
         thread = threading.Thread(target=lambda: self.traverse_treestore(self.tree_store.get_iter_first()))
-
         thread.start()
-
-        from time import time 
-        start = time()
-
-        def update():
+        
+        def update():            
             if float(self.num) / self.total_files < 1:
                 self.ee.wait()
-                self.progressbar.set_fraction(float(self.num) / self.total_files)
+                self.progressbar.set_fraction(float(self.num) / self.total_files)                
                 self.update_status_bar()
                 self.ee.clear()
-                if thread.is_alive():
-                    return True
-                else:
-                    return False
-        
+            
+            self.update_status_bar()
+            if thread.is_alive():
+                return True
+            else:                
+                return False
+    
         gobject.idle_add(update)
-
         self.progressbar.set_fraction(0)
         self.update_status_bar()
 
+    # add this function to the main gtk thread to run and update the failed files textview.
+    def failed_files_update(self, failed_file_num, failed_file):                            
+        end_iter = self.result_buffer.get_end_iter()
+        self.result_buffer.insert(end_iter, str(failed_file_num) + "- " + failed_file.lstrip( "\\\\?\\" ))
+        end_iter = self.result_buffer.get_end_iter()
+        self.result_buffer.insert(end_iter, "\n")
+                            
     def traverse_treestore(self, treeiter):
         
         parent = self.tree_store.iter_parent(treeiter)
@@ -184,27 +218,38 @@ class MyWindow(gtk.Window):
             if self.tree_store.iter_has_child(treeiter):
                 self.tree_store[treeiter][2] = False
                 childiter = self.tree_store.iter_children(treeiter)
-                self.traverse_treestore(childiter)
+                self.traverse_treestore(childiter)                
             else:
-                file = self.tree_store[treeiter][1]
+                file_ = self.tree_store[treeiter][1]                
                 save_path = self.tree_store[treeiter][4]
                 if self.tree_store[treeiter][2]:
                     try:
-                        self.convert_vtt2srt(file, save_path)
+                        self.convert_vtt2srt(file_, save_path)
                         self.tree_store[treeiter][2] = False
                         self.completed_files += 1   
                     except:
                         self.failed_files += 1
-                        self.failed_files_path.append(file)
-                        self.tree_store[treeiter][3] = True
-                        self.tree_store[parent][3] = True
+                        self.tree_store[treeiter][2] = True
+
+                        # calling this function to the main gtk thread to run and update the failed files textview.
+                        gtk.threads_enter()
+                        self.failed_files_update(self.failed_files, file_)
+                        gtk.threads_leave()  
+                        
+                        
+                        #self.failed_files_path.append(file)
+
+                        
+                        #self.tree_store[treeiter][3] = True
+                        #self.tree_store[parent][3] = True
                 self.num += 1
                 self.ee.set()
             treeiter = self.tree_store.iter_next(treeiter)
             
-    def convert_vtt2srt(self, file, save_path=None):
+            
+    def convert_vtt2srt(self, file_, save_path=None):
         
-        convert_file = ConvertFile(file, "utf-8")
+        convert_file = ConvertFile(file_, "utf-8")
         convert_file.convert()  
 
     def enable_widgets(self, widget):
@@ -238,7 +283,7 @@ class MyWindow(gtk.Window):
 
     def on_delete_button_clicked(self, widget):
         # remove files or folders from the tree.
-    
+        
         selection = self.tree.get_selection()
         rows = selection.get_selected_rows()
 
@@ -247,6 +292,8 @@ class MyWindow(gtk.Window):
             for row in rows[1]:
                 removed_iter_list.append(self.tree_store[row].iter)
 
+            print(removed_iter_list)
+            
             for iter in removed_iter_list:
                 parent = self.tree_store.iter_parent(iter)
                 item = self.tree_store[iter][1]
@@ -258,7 +305,9 @@ class MyWindow(gtk.Window):
                     self.loop_over_child_iter(iter_child, self.remove_childs)
                 
                 self.tree_store.remove(iter)
-                
+
+            print(parent)
+            
             # This part will remove parent directory if it's empty
             while parent:
                 if not self.tree_store.iter_has_child(parent):
@@ -273,6 +322,7 @@ class MyWindow(gtk.Window):
         self.total_files = len(self.items)
         self.completed_files = 0
         self.failed_files = 0
+        self.result_buffer.set_text("")
         self.update_status_bar()
         self.progressbar.set_fraction(0)
 
@@ -346,7 +396,7 @@ class MyWindow(gtk.Window):
 
         response_id = self.dialog.run()
 
-        self.e = threading.Event()
+        #self.e = threading.Event()
 
         filenames = self.dialog.get_filenames()
 
@@ -373,10 +423,10 @@ class MyWindow(gtk.Window):
             self.dialog.destroy()
 
         self.progressbar.set_fraction(0.1)
-        self.a = 1
+        #self.a = 1
 
         def update():
-            self.a += 1
+            #self.a += 1
             self.progressbar.pulse()
             self.update_status_bar()
             if thread.is_alive():
@@ -506,17 +556,21 @@ class MyWindow(gtk.Window):
         
     def set_style(self):
     
-        provider = gtk.CssProvider()
+        gtk.rc_parse("./share/themes/Glider/gtk-2.0/gtkrc")
 
-        provider.load_from_path(join("./share/themes/Haiku/gtk-3.0/gtk.css"))
-
-        screen = Gdk.Display.get_default_screen(Gdk.Display.get_default())
-
-        gtk.StyleContext.add_provider_for_screen(screen, provider,
-            600) #GTK_STYLE_PROVIDER_PRIORITY_APPLICATION
+        
 
 
 win = MyWindow()
 gtk.rc_reset_styles(gtk.settings_get_for_screen(win.get_screen()))
+# win.set_style()
+
 win.show_all()
+      
+gtk.gdk.threads_enter()
+
 gtk.main()
+
+gtk.gdk.threads_leave()
+    
+
