@@ -72,8 +72,10 @@ class MyWindow(gtk.Window):
 
 
         self.failed_files_frame = gtk.Frame(label = 'Failed Files')
-        #self.result_label = gtk.Label("Result")
         self.result_text = gtk.TextView()
+        # color the failed files in the text view with red . 
+        self.result_text.modify_text(gtk.STATE_NORMAL, gtk.gdk.Color('red'))
+        
         self.result_buffer = gtk.TextBuffer()
         self.result_text.set_buffer(self.result_buffer)
 
@@ -218,7 +220,7 @@ class MyWindow(gtk.Window):
             if self.tree_store.iter_has_child(treeiter):
                 self.tree_store[treeiter][2] = False
                 childiter = self.tree_store.iter_children(treeiter)
-                self.traverse_treestore(childiter)                
+                self.traverse_treestore(childiter)
             else:
                 file_ = self.tree_store[treeiter][1]                
                 save_path = self.tree_store[treeiter][4]
@@ -226,22 +228,32 @@ class MyWindow(gtk.Window):
                     try:
                         self.convert_vtt2srt(file_, save_path)
                         self.tree_store[treeiter][2] = False
-                        self.completed_files += 1   
+                        self.completed_files += 1  
                     except:
+                        
                         self.failed_files += 1
-                        self.tree_store[treeiter][2] = True
 
                         # calling this function to the main gtk thread to run and update the failed files textview.
                         gtk.threads_enter()
                         self.failed_files_update(self.failed_files, file_)
                         gtk.threads_leave()  
                         
-                        
                         #self.failed_files_path.append(file)
 
+                        # change the status of the file to appear as not converted
+                        self.tree_store[treeiter][3] = True
+
+                        # this code will make the parent folder as not converted
+                        # up to all parent folders until the first parent folder.
+
+                        parent = self.tree_store.iter_parent(treeiter)
                         
-                        #self.tree_store[treeiter][3] = True
-                        #self.tree_store[parent][3] = True
+                        while len(self.tree_store.get_path(parent)) >= 1 :
+                            self.tree_store[parent][3]= True
+                            parent = self.tree_store.iter_parent(parent)
+                            if parent == None:
+                                break
+     
                 self.num += 1
                 self.ee.set()
             treeiter = self.tree_store.iter_next(treeiter)
@@ -268,7 +280,7 @@ class MyWindow(gtk.Window):
         
     def loop_over_child_iter(self, treeiter, callback, value=None):
         # This function take treeiter and iterate over all it's childrens and excute the call back on every treeiter child.
-
+        
         while treeiter is not None:
             callback(treeiter, value)
             if self.tree_store.iter_has_child(treeiter):
@@ -485,12 +497,12 @@ class MyWindow(gtk.Window):
         renderer_convert = gtk.CellRendererToggle()
         renderer_convert.connect('toggled', self.on_cell_toggled)
 
-        column_convert = gtk.TreeViewColumn("Convert", renderer_convert, active=2)
+        column_convert = gtk.TreeViewColumn("Convert", renderer_convert, active=2, inconsistent=3)
         column_convert.props.resizable = True
     
         renderer_save_dir = gtk.CellRendererText()
         
-        column_save = gtk.TreeViewColumn("Save Dir", renderer_save_dir, text=3)
+        column_save = gtk.TreeViewColumn("Save Dir", renderer_save_dir, text=4)
         column_save.props.resizable = True
         column_save.set_cell_data_func(renderer_save_dir, lambda column, cell, model, iter, data=None:
             cell.set_property('text', self.tree_store[iter][4].lstrip( "\\\\?\\" ) ) )
@@ -508,8 +520,27 @@ class MyWindow(gtk.Window):
         return self.tree
 
     def on_cell_toggled(self, widget, path):
-        self.tree_store[path][2] = not self.tree_store[path][2]
 
+        #self.tree_store[path][2] = not self.tree_store[path][2]
+
+        # the convert cell toggled callback function.
+        
+        treeiter = self.tree_store[path].iter
+        
+        # disable inconsistent property of the toggle cell renderer.    
+        self.tree_store[treeiter][3] = False
+        
+        convert_value = self.tree_store[treeiter][2] = not self.tree_store[treeiter][2]
+
+        if self.tree_store.iter_has_child(treeiter):        
+            # take treeiter and reverse the the value of the convert cell of it.
+
+            treeiter = self.tree_store.iter_children(treeiter)
+
+            self.loop_over_child_iter(treeiter,
+                lambda treeiter, value=None: self.tree_store.set(treeiter, 2, convert_value, 3, False) )
+            
+            
     def on_save_dir_edit_started(self, renderer, cell, path):
 
         treeiter = self.tree_store.get_iter(path)

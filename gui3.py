@@ -413,6 +413,7 @@ class MyWindow(Gtk.Window):
             callback(treeiter, value)
             if self.tree_store.iter_has_child(treeiter):
                 childiter = self.tree_store.iter_children(treeiter)
+                print(f"----- {value}")
                 self.loop_over_child_iter(childiter, callback, value)
             treeiter = self.tree_store.iter_next(treeiter)
     
@@ -474,10 +475,15 @@ class MyWindow(Gtk.Window):
         if self.tree_store.iter_has_child(treeiter):        
             # take treeiter and reverse the the value of the convert cell of it.
 
+            print(convert_value)
+            print(type(convert_value))
+            
             treeiter = self.tree_store.iter_children(treeiter)
+            #self.loop_over_child_iter(treeiter, 
+            #    lambda treeiter, value=None: self.tree_store.set(treeiter, [2, 3], [convert_value, False]) )
+
             self.loop_over_child_iter(treeiter, 
                 lambda treeiter, value=None: self.tree_store.set(treeiter, [2, 3], [convert_value, False]) )
-
 
     def on_row_activated(self, widget, path, column):
         # on double click the row change it's parent path.
