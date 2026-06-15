@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['gui2.py'],
-             pathex=['D:\\New\\Projects\\subtest\\Repos\\VttToSrtGui'],
+             pathex=['D:\\new\\Projects\\subtest\\Repos\\VttToSrtGui'],
              binaries=[],
              datas=[('./icon.ico', '.')],
              hiddenimports=[],

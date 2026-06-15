@@ -51,20 +51,15 @@ class MyWindow(gtk.Window):
 
         self.add_button.connect("clicked", self.on_add_button_clicked)
 
-        self.delete_button = gtk.Button(label="Delete" ) #, stock=gtk.STOCK_REMOVE)
+        self.delete_button = gtk.Button(label="Delete" ) 
         self.delete_button.connect('clicked', self.on_delete_button_clicked)
+        self.disable_widgets(self.delete_button)
 
         self.convert_button = gtk.Button(label = "Convert", stock=gtk.STOCK_CONVERT)
         self.convert_button.connect('clicked', self.on_convert_button_clicked)
-
-        self.test_button_1 = gtk.Button(label = 'Test 1')
-        self.test_button_1.connect('clicked', self.enable_widgets)
-
-        self.test_button_2 = gtk.Button(label = 'Test 2')
-        self.test_button_2.connect('clicked', self.disable_widgets)
+        self.disable_widgets(self.convert_button)
 
         self.files_frame = gtk.Frame(label = 'Files To Convert')
-
         
         self.box = gtk.HBox(spacing=5, homogeneous=True)
         self.box.props.border_width = 5
@@ -82,15 +77,11 @@ class MyWindow(gtk.Window):
         self.failed_files_frame.add(self.result_text)
         
         self.box.pack_start(self.failed_files_frame, False)
-        
-        #self.result_label.hide()
-        #self.result_label.set_visible(False)
-        
+               
         scrolled_win = gtk.ScrolledWindow(None, None)
         scrolled_win.add_with_viewport(self.box)
         scrolled_win.set_size_request(750, 350)
         
-
         self.files_frame.add(scrolled_win)
 
         self.progressbar = gtk.ProgressBar()
@@ -109,17 +100,11 @@ class MyWindow(gtk.Window):
 
         grid.pack_start(self.files_frame)
 
-        self.spin = gtk.Spinner()
-        self.spin.show()
-
         box = gtk.HBox(spacing=5, homogeneous=True)
         box.props.border_width = 5
         box.pack_start(self.add_button, False)
         box.pack_start(self.delete_button, False)
         box.pack_start(self.convert_button, False)
-        box.pack_start(self.spin, False)
-        box.pack_start(self.test_button_1, False)
-        box.pack_start(self.test_button_2, False)
         grid.pack_start(box, False, False)
         grid.pack_start(self.status_bar, False, False)
         
@@ -138,14 +123,16 @@ class MyWindow(gtk.Window):
 
         add = gtk.MenuItem(label='Add')
         add.connect('activate', self.on_add_button_clicked)
-        delete = gtk.MenuItem(label='Delete')
-        delete.connect('activate', self.on_delete_button_clicked)
-        convert = gtk.MenuItem(label='Convert')
-        convert.connect('activate', self.on_convert_button_clicked)
+        
+        self.delete_menu_item = gtk.MenuItem(label='Delete')
+        self.delete_menu_item.connect('activate', self.on_delete_button_clicked)
+        
+        self.convert_menu_item = gtk.MenuItem(label='Convert')
+        self.convert_menu_item.connect('activate', self.on_convert_button_clicked)
         
         filemenu.append(add)
-        filemenu.append(delete)
-        filemenu.append(convert)
+        filemenu.append(self.delete_menu_item)
+        filemenu.append(self.convert_menu_item)
 
         help = gtk.MenuItem(label='Help')
         helpmenu = gtk.Menu()
@@ -173,13 +160,21 @@ class MyWindow(gtk.Window):
         
         self.menubar.append(help)
 
-    def on_convert_button_clicked(self, widget):        
+    def on_convert_button_clicked(self, widget):
+
+        # stop converting and disable the button if noting exist in the treeview.
+        if self.tree_store.iter_n_children(None) == 0:
+            self.disable_widgets(self.convert_button)
+            self.disable_widgets(self.delete_button)    
+            self.disable_widgets(self.delete_menu_item)
+            self.disable_widgets(self.convert_menu_item)        
+            return
+        
         self.num = 0
         self.speed = 0
 
         self.completed_files = 0
         self.failed_files = 0
-        #self.failed_files_path = []
         self.result_buffer.set_text("")
         self.update_status_bar()
 
@@ -187,6 +182,8 @@ class MyWindow(gtk.Window):
         
         thread = threading.Thread(target=lambda: self.traverse_treestore(self.tree_store.get_iter_first()))
         thread.start()
+
+        self.disable_widgets()
         
         def update():            
             if float(self.num) / self.total_files < 1:
@@ -198,12 +195,14 @@ class MyWindow(gtk.Window):
             self.update_status_bar()
             if thread.is_alive():
                 return True
-            else:                
+            else:
+                self.enable_widgets()
                 return False
     
         gobject.idle_add(update)
         self.progressbar.set_fraction(0)
         self.update_status_bar()
+        
 
     # add this function to the main gtk thread to run and update the failed files textview.
     def failed_files_update(self, failed_file_num, failed_file):                            
@@ -230,7 +229,7 @@ class MyWindow(gtk.Window):
                         self.tree_store[treeiter][2] = False
                         self.completed_files += 1  
                     except:
-                        
+            
                         self.failed_files += 1
 
                         # calling this function to the main gtk thread to run and update the failed files textview.
@@ -264,19 +263,29 @@ class MyWindow(gtk.Window):
         convert_file = ConvertFile(file_, "utf-8")
         convert_file.convert()  
 
-    def enable_widgets(self, widget):
+    def enable_widgets(self, widget=None):
         # enable the disable widgets
-        self.file_menu_parent.set_sensitive(True)
-        self.add_button.set_sensitive(True)
-        self.convert_button.set_sensitive(True)
-        self.delete_button.set_sensitive(True)
+        if widget :
+            widget.set_sensitive(True)
+        else:
+            self.file_menu_parent.set_sensitive(True)
+            self.add_button.set_sensitive(True)
+            self.convert_button.set_sensitive(True)
+            self.delete_button.set_sensitive(True)
+            self.delete_menu_item.set_sensitive(True)
+            self.convert_menu_item.set_sensitive(True)
 
-    def disable_widgets(self):
-        # disable some widgets until other operations end.  
-        self.file_menu_parent.set_sensitive(False)
-        self.add_button.set_sensitive(False)
-        self.convert_button.set_sensitive(False)
-        self.delete_button.set_sensitive(False)
+    def disable_widgets(self, widget=None):
+        # disable some widgets until other operations end.
+        if widget:
+            widget.set_sensitive(False)
+        else:
+            self.file_menu_parent.set_sensitive(False)
+            self.add_button.set_sensitive(False)
+            self.convert_button.set_sensitive(False)
+            self.delete_button.set_sensitive(False)
+            self.delete_menu_item.set_sensitive(False)
+            self.convert_menu_item.set_sensitive(False)
         
     def loop_over_child_iter(self, treeiter, callback, value=None):
         # This function take treeiter and iterate over all it's childrens and excute the call back on every treeiter child.
@@ -294,17 +303,23 @@ class MyWindow(gtk.Window):
                 self.items.remove(self.tree_store[iter][1])
 
     def on_delete_button_clicked(self, widget):
-        # remove files or folders from the tree.
         
+        # stop delete and disable the button if noting exist in the treeview.
+        if self.tree_store.iter_n_children(None) == 0:
+            self.disable_widgets(self.delete_button)
+            self.disable_widgets(self.convert_button)
+            self.disable_widgets(self.delete_menu_item)
+            self.disable_widgets(self.convert_menu_item)
+            return
+            
+        # remove files or folders from the tree.        
         selection = self.tree.get_selection()
         rows = selection.get_selected_rows()
-
+       
         if rows:
             removed_iter_list = []
             for row in rows[1]:
                 removed_iter_list.append(self.tree_store[row].iter)
-
-            print(removed_iter_list)
             
             for iter in removed_iter_list:
                 parent = self.tree_store.iter_parent(iter)
@@ -317,19 +332,17 @@ class MyWindow(gtk.Window):
                     self.loop_over_child_iter(iter_child, self.remove_childs)
                 
                 self.tree_store.remove(iter)
-
-            print(parent)
-            
-            # This part will remove parent directory if it's empty
-            while parent:
-                if not self.tree_store.iter_has_child(parent):
-                    up_parent = self.tree_store.iter_parent(parent)
-                    self.tree_store.remove(parent)
-                else:
-                    break
-                parent = up_parent
+                
+                # This part will remove parent directory if it's empty
+                while parent:
+                    if not self.tree_store.iter_has_child(parent):
+                        up_parent = self.tree_store.iter_parent(parent)
+                        self.tree_store.remove(parent)
+                    else:
+                        break
+                    parent = up_parent
         else:
-            print 'None'
+            pass
 
         self.total_files = len(self.items)
         self.completed_files = 0
@@ -337,6 +350,15 @@ class MyWindow(gtk.Window):
         self.result_buffer.set_text("")
         self.update_status_bar()
         self.progressbar.set_fraction(0)
+        
+        
+        # stop deleting and disable the button if noting exist in the treeview.
+        if self.tree_store.iter_n_children(None) == 0:
+            self.disable_widgets(self.convert_button)
+            self.disable_widgets(self.delete_button)
+            self.disable_widgets(self.delete_menu_item)
+            self.disable_widgets(self.convert_menu_item)
+            return
 
     def init_status_bar(self):
         # initate status bar with label and progress bar.
@@ -408,8 +430,6 @@ class MyWindow(gtk.Window):
 
         response_id = self.dialog.run()
 
-        #self.e = threading.Event()
-
         filenames = self.dialog.get_filenames()
 
         def add():
@@ -428,29 +448,28 @@ class MyWindow(gtk.Window):
         thread = threading.Thread(target=add)
 
         if response_id == 1:
-            self.add_button.set_label("Pause")
             thread.start()
+            self.disable_widgets()
         
         if response_id == 1 or response_id == -6:
             self.dialog.destroy()
 
         self.progressbar.set_fraction(0.1)
-        #self.a = 1
 
         def update():
-            #self.a += 1
             self.progressbar.pulse()
             self.update_status_bar()
-            if thread.is_alive():
+            if thread.is_alive():          
                 return True
             else:
-                self.add_button.set_label("Add")
+                self.enable_widgets()
                 return False
     
         gobject.idle_add(update)
 
         self.progressbar.set_fraction(0.01)
         self.update_status_bar()
+        
     
     def add_dir(self, dir_name, parent_iter=None, recursive=False):
         # the function used to add items to the treeStore model

@@ -413,7 +413,6 @@ class MyWindow(Gtk.Window):
             callback(treeiter, value)
             if self.tree_store.iter_has_child(treeiter):
                 childiter = self.tree_store.iter_children(treeiter)
-                print(f"----- {value}")
                 self.loop_over_child_iter(childiter, callback, value)
             treeiter = self.tree_store.iter_next(treeiter)
     
