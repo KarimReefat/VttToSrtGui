@@ -1,0 +1,406 @@
+WEBVTT
+
+00:01.480 --> 00:07.990
+Before we get started in this chapter let me ask you a question Are we a going to create a form in this
+
+00:07.990 --> 00:11.870
+chapter B are we not going to create a form in this chapter.
+
+00:11.890 --> 00:13.760
+Or C take a nap.
+
+00:13.780 --> 00:16.750
+What I just did was a multi-part question wasn't it.
+
+00:16.810 --> 00:18.220
+Forms do that.
+
+00:18.220 --> 00:19.570
+Now you have a choice.
+
+00:19.600 --> 00:25.330
+You can call up everybody that you need information from and get the information from them or you can
+
+00:25.330 --> 00:26.250
+create a form.
+
+00:26.500 --> 00:27.760
+Now I'm in crome.
+
+00:27.760 --> 00:32.860
+I'm not trying to push Google Chrome on you obviously but I do have a Google account.
+
+00:32.890 --> 00:36.370
+I'm not talking about my Google Apps for business account.
+
+00:36.430 --> 00:37.880
+I have a Google account.
+
+00:37.900 --> 00:39.010
+It's FREE.
+
+00:39.010 --> 00:42.410
+Over here I don't have to type up here the word drive.
+
+00:42.560 --> 00:43.580
+Google.com.
+
+00:43.780 --> 00:45.980
+I can come over here and click and get it right here.
+
+00:46.950 --> 00:48.960
+Is this a great planet or what.
+
+00:48.960 --> 00:50.040
+Go into your drive.
+
+00:50.040 --> 00:51.180
+However you get there.
+
+00:51.360 --> 00:56.100
+Go there on Explorer go there on safari go there and Firefox for that matter.
+
+00:56.100 --> 00:59.400
+I do have a folder that I created for forms.
+
+00:59.460 --> 01:06.800
+So what I want to do first I suppose is select that folder go up to the word create and go down to form
+
+01:07.250 --> 01:10.060
+now forms are a brilliant way.
+
+01:10.080 --> 01:16.950
+They really are to get information from people and they are embarrassingly easy to make in Google Apps
+
+01:16.950 --> 01:17.970
+for business.
+
+01:18.000 --> 01:21.290
+So let's go ahead and select form here we go.
+
+01:21.320 --> 01:23.720
+The first thing is the title.
+
+01:23.810 --> 01:31.510
+Now let's call this say something like Starfire I suppose choose a theme you can look through these
+
+01:31.510 --> 01:32.700
+There's quite a few.
+
+01:33.040 --> 01:38.890
+Let's do something relatively professional in terms of I guess that means maybe boring.
+
+01:39.100 --> 01:45.760
+I'm going to go Hetter Gray the color gray is actually an absence of color but it's considered a serious
+
+01:45.760 --> 01:46.720
+kind of lot.
+
+01:46.780 --> 01:52.470
+I'm trying to be serious here so we're going to click OK down here and that brings us right in to the
+
+01:52.470 --> 01:53.620
+first question.
+
+01:53.670 --> 01:54.660
+So what do you want to do here.
+
+01:54.780 --> 02:02.040
+Well first off let's change the form description to vital information needed for the Starfire project
+
+02:02.100 --> 02:03.510
+meeting.
+
+02:03.510 --> 02:06.810
+First question are you going to attend.
+
+02:06.930 --> 02:10.080
+Now you can put help text in here if you want to.
+
+02:10.080 --> 02:11.610
+It's not necessary.
+
+02:11.820 --> 02:18.780
+Here is where we decide with the question type is going to be text paragraph text multiple choice checkboxes
+
+02:18.780 --> 02:21.810
+choose from a list scale grid date time.
+
+02:22.050 --> 02:27.990
+I'm going multiple choice because one of the options on multiple choice is go to a particular page based
+
+02:27.990 --> 02:29.120
+on an answer.
+
+02:29.130 --> 02:32.030
+So here option 1 would be yes.
+
+02:32.040 --> 02:36.790
+Now you can use the tab key if you want that's easier and good on the next field and type in I suppose.
+
+02:36.990 --> 02:38.940
+No positive and negative.
+
+02:39.000 --> 02:44.610
+I suppose you could add a third one saying I'm not sure yet but I don't want indecision.
+
+02:44.700 --> 02:47.910
+You're either going to tell me you're coming or you're not going to tell me you're coming.
+
+02:47.940 --> 02:53.550
+So this is a required question just like that's what we've done.
+
+02:53.550 --> 02:56.660
+Our first question now I'm not ready to do the.
+
+02:56.670 --> 02:57.560
+Where did they go.
+
+02:57.560 --> 03:00.030
+Based on yes or no we're in talk about that in a second.
+
+03:00.210 --> 03:03.280
+Let's come down here and talk about add another item.
+
+03:03.300 --> 03:08.480
+Now we do also have this confirmation page and that will be sent when they click the submit button.
+
+03:08.490 --> 03:12.060
+Let's add another item that we can add all kinds of things here.
+
+03:12.150 --> 03:17.740
+If you add another question it will stay on the same page as the first question.
+
+03:17.880 --> 03:19.580
+I want this on another page.
+
+03:19.650 --> 03:22.230
+So I'm going to go page break right here.
+
+03:22.230 --> 03:28.920
+And incidentally I have to tell you something in working in Google Apps every once in a while I will
+
+03:28.920 --> 03:31.800
+when I do something go to the second question.
+
+03:31.800 --> 03:35.840
+It will tell me something went wrong and you need to start all over again.
+
+03:35.850 --> 03:38.690
+And if this happens again please contact Google Maps.
+
+03:38.760 --> 03:42.610
+So if you see that you're probably not doing anything necessarily wrong.
+
+03:42.990 --> 03:47.500
+Now I'm just going to put for the page title y description is optional.
+
+03:47.640 --> 03:50.750
+I'm going to come down the ad item again on this page.
+
+03:50.760 --> 03:51.150
+OK.
+
+03:51.160 --> 03:53.070
+Actually let me click done first.
+
+03:53.130 --> 03:54.130
+That might help.
+
+03:54.420 --> 03:58.280
+Let's come in here and I'm going to put in a text field.
+
+03:58.500 --> 04:03.530
+Now the title is Why are you not attending.
+
+04:03.620 --> 04:07.650
+They can put help text in if you want to question type is text.
+
+04:07.700 --> 04:10.440
+This is where their answer is going to go.
+
+04:10.610 --> 04:16.630
+And it is again a required question click done on this case.
+
+04:16.770 --> 04:18.240
+You will notice that.
+
+04:18.240 --> 04:20.260
+Are you going to attend.
+
+04:20.340 --> 04:22.140
+We'll continue to the next page.
+
+04:22.140 --> 04:24.120
+We'll talk about how we change these in a second.
+
+04:24.120 --> 04:26.900
+Let's add one more thing so far.
+
+04:26.910 --> 04:29.690
+Let's come back in here and do a page break.
+
+04:30.090 --> 04:31.730
+Let's talk about transportation
+
+04:34.300 --> 04:40.690
+a done here and add an item here and this one is going to be choose from a list you know a lot of different
+
+04:40.690 --> 04:41.160
+options.
+
+04:41.170 --> 04:42.740
+This is really cool.
+
+04:42.880 --> 04:48.790
+How will you arrive help text if you want it.
+
+04:48.800 --> 04:51.030
+Now here's the list.
+
+04:51.060 --> 04:53.840
+Now we can again go to a page based on their answer.
+
+04:54.120 --> 05:07.510
+But an option one let's say playing a press the tab key train auto alien craft submarine goes as far
+
+05:07.510 --> 05:07.930
+as you want.
+
+05:07.930 --> 05:09.190
+I know I'm being silly.
+
+05:09.190 --> 05:11.920
+I apologize for that but sometimes I get into these moods.
+
+05:11.920 --> 05:14.520
+It is a required question.
+
+05:15.160 --> 05:22.470
+A Let's stop there for a second if we come up here again what I want is are you going to attend if they
+
+05:22.470 --> 05:26.040
+say no I want them to come here and say why.
+
+05:26.250 --> 05:30.150
+But if they are attending Obviously I don't want to know why they're not attending.
+
+05:30.150 --> 05:32.330
+I want them to go to the next question down here.
+
+05:32.520 --> 05:35.610
+So we're going to get back up in this one and edit.
+
+05:35.610 --> 05:39.380
+Now you can click in it to edit it or you can click the button over here either way it's fine.
+
+05:39.740 --> 05:40.280
+OK.
+
+05:40.380 --> 05:43.550
+Go to page based on answer click here.
+
+05:43.560 --> 05:45.780
+We don't want them to continue to the next page.
+
+05:45.780 --> 05:50.720
+We want them to go to the Y page or the transportation page depending on what they do.
+
+05:50.730 --> 05:53.690
+So this one is yes go to transportation.
+
+05:53.820 --> 05:55.580
+This one is good.
+
+05:55.590 --> 05:56.110
+Why.
+
+05:56.740 --> 06:00.240
+Go and click on on this one.
+
+06:00.400 --> 06:01.880
+So that's the second page.
+
+06:01.960 --> 06:08.170
+If they do go to this page and they say no and it comes to this one and it says why are you attending.
+
+06:08.320 --> 06:10.710
+It's still going to go down to the next page here.
+
+06:10.780 --> 06:11.860
+But they're done.
+
+06:11.860 --> 06:13.270
+I want to know why they're not attending.
+
+06:13.270 --> 06:14.050
+And that's over.
+
+06:14.050 --> 06:16.390
+So after page 2
+
+06:19.440 --> 06:20.930
+let's see what we've got so far.
+
+06:21.770 --> 06:29.200
+Let's come up here and say View live form says really like I said very easy required field are you going
+
+06:29.200 --> 06:29.830
+to attend.
+
+06:29.950 --> 06:35.210
+If you say yes and say continue how will you arrive.
+
+06:35.350 --> 06:37.470
+You can choose that and then click submit.
+
+06:37.690 --> 06:38.760
+Let's go back again.
+
+06:39.980 --> 06:41.270
+Are you going to attend.
+
+06:41.270 --> 06:44.550
+No continue.
+
+06:44.570 --> 06:48.810
+Why are you not attending and then go to submit.
+
+06:48.860 --> 06:51.940
+You can have as many questions here as you want to.
+
+06:51.980 --> 06:54.520
+You can have checks tick marks if you will.
+
+06:54.560 --> 06:56.050
+You can have multiple choice.
+
+06:56.120 --> 06:58.920
+You can have text fields doesn't matter you are.
+
+06:58.970 --> 07:04.580
+Let's go ahead and close this right here or come over here and say edit the forum up to you let's just
+
+07:04.580 --> 07:07.470
+click right here because it is saved.
+
+07:08.160 --> 07:10.800
+We're going to show you one more thing here before we end this lesson.
+
+07:11.010 --> 07:17.440
+If we go into my drive and I go into forms we now have two things we have Starfire which is our form.
+
+07:17.460 --> 07:18.260
+We're now done with it.
+
+07:18.270 --> 07:18.900
+But we have it.
+
+07:19.140 --> 07:21.580
+But we also have responses.
+
+07:22.050 --> 07:28.080
+And as people start coming in with their responses as you're going to see we will have a list of those
+
+07:28.080 --> 07:35.570
+responses and not only a list we will be able to do statistics based on the information in that list.

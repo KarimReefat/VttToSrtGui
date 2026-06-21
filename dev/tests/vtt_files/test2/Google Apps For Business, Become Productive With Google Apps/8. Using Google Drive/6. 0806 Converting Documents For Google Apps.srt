@@ -1,0 +1,291 @@
+1
+00:00:01,420 --> 00:00:06,760
+We've got our PTF docs over here and that has two folders and that one that we can share and one that
+
+2
+00:00:06,760 --> 00:00:07,860
+is an.
+
+3
+00:00:07,990 --> 00:00:12,190
+Although I might change the share on that one to family which would make sense.
+
+4
+00:00:12,310 --> 00:00:13,890
+We come back over here to my dr.
+
+5
+00:00:13,930 --> 00:00:20,600
+Cooking has two folders recipes and tips and tricks and we do have some recipes don't we.
+
+6
+00:00:20,620 --> 00:00:25,420
+You know what I think I want to work on one of these recipes maybe make some changes to edit it.
+
+7
+00:00:25,570 --> 00:00:33,770
+So I come over here and I say Sasi pork chops and what kind of where is my editing stuff.
+
+8
+00:00:33,820 --> 00:00:35,320
+We don't have editing stuff.
+
+9
+00:00:35,320 --> 00:00:37,640
+This is a Microsoft Word document.
+
+10
+00:00:37,660 --> 00:00:39,040
+Now I love Microsoft Word.
+
+11
+00:00:39,040 --> 00:00:44,110
+I really do it's a great program but you're defeating the purpose of the efficiency of using Google
+
+12
+00:00:44,110 --> 00:00:50,830
+Apps for business if you're not using Google and say well I didn't make this in the Google Apps I made
+
+13
+00:00:50,830 --> 00:00:53,860
+this in Microsoft Word but I can't really change it.
+
+14
+00:00:53,860 --> 00:00:57,210
+I can view it like print it make it bigger make it small.
+
+15
+00:00:57,520 --> 00:01:01,580
+I can share what if they don't have Microsoft Word.
+
+16
+00:01:01,590 --> 00:01:02,810
+So let me show you something here.
+
+17
+00:01:03,010 --> 00:01:04,240
+Let's get out of here.
+
+18
+00:01:04,240 --> 00:01:09,550
+Click the little X close that take us right back I'm going to bring in another recipe.
+
+19
+00:01:09,550 --> 00:01:19,300
+But before I do go up to Little year and go into upload settings we have convert it convert uploaded
+
+20
+00:01:19,300 --> 00:01:26,930
+files to the Google Docs format convert text from upload a PDA it's confirmed settings before each upload.
+
+21
+00:01:27,040 --> 00:01:29,170
+I'm going to do this I'm going to select this one.
+
+22
+00:01:29,230 --> 00:01:31,120
+Let me come back over there again.
+
+23
+00:01:32,070 --> 00:01:33,700
+And select confirm.
+
+24
+00:01:33,720 --> 00:01:37,950
+I want to make sure I know what I'm doing here and sometimes I might not want it taken out of the word
+
+25
+00:01:37,950 --> 00:01:38,560
+format.
+
+26
+00:01:39,510 --> 00:01:40,990
+One question you might ask them.
+
+27
+00:01:41,160 --> 00:01:48,420
+You say OK I open it here and it's not opening it in Word but I have word why can't I open it here.
+
+28
+00:01:48,420 --> 00:01:54,160
+Well actually you can if you go back into Google Drive Let me show you this real quick.
+
+29
+00:01:54,210 --> 00:01:55,450
+That's the folder.
+
+30
+00:01:55,770 --> 00:02:00,540
+If I go into cooking and Gosain the recipes now I'll show you that I won't open it but I'll show you
+
+31
+00:02:00,540 --> 00:02:01,160
+this.
+
+32
+00:02:01,280 --> 00:02:04,320
+It will allow me to open it in Microsoft Word that's the default.
+
+33
+00:02:04,350 --> 00:02:08,940
+So on a Mac or Windows system if you had word and you clicked on it from here it would open it up in
+
+34
+00:02:08,940 --> 00:02:09,980
+Microsoft Word.
+
+35
+00:02:10,050 --> 00:02:11,540
+You could make your changes save it.
+
+36
+00:02:11,570 --> 00:02:13,030
+It would save it back to the cloud.
+
+37
+00:02:13,260 --> 00:02:15,510
+But that's kind of like having an extra middleman in there.
+
+38
+00:02:15,570 --> 00:02:17,780
+You don't really need to do that so let's do this.
+
+39
+00:02:18,000 --> 00:02:19,800
+Let's get back out of here.
+
+40
+00:02:19,800 --> 00:02:20,720
+Fun stuff.
+
+41
+00:02:20,940 --> 00:02:25,350
+Let's go into recipe's because I want to upload it into recipes.
+
+42
+00:02:25,500 --> 00:02:28,750
+Let's click this button right here and say upload a file.
+
+43
+00:02:29,850 --> 00:02:34,340
+Now this one I believe it's got pineapple and it's going to be in the piece there it is.
+
+44
+00:02:35,230 --> 00:02:37,990
+Pineapple Express pork chops with yams.
+
+45
+00:02:37,990 --> 00:02:38,840
+Yum.
+
+46
+00:02:39,080 --> 00:02:43,840
+Quick open upload settings convert documents.
+
+47
+00:02:43,880 --> 00:02:49,700
+Yes that's exactly what I want to do because I want to work on this in Google Apps confirm settings
+
+48
+00:02:49,730 --> 00:02:50,550
+before each upload.
+
+49
+00:02:50,550 --> 00:02:51,950
+See those are the settings I made.
+
+50
+00:02:52,010 --> 00:02:52,760
+That's fine.
+
+51
+00:02:52,920 --> 00:02:53,480
+Start up.
+
+52
+00:02:56,100 --> 00:03:02,500
+Don't take long at all but it takes it a second to get it back to me from the Google Cloud and sometimes
+
+53
+00:03:02,500 --> 00:03:04,870
+days are you know more busy than others.
+
+54
+00:03:05,080 --> 00:03:06,820
+Let's go and close this.
+
+55
+00:03:06,900 --> 00:03:10,810
+Now watch what happens when I select this one.
+
+56
+00:03:10,880 --> 00:03:13,990
+We are in the Google Apps word processor.
+
+57
+00:03:14,000 --> 00:03:18,920
+We're going to a whole chapter on word processing and I know most of you are probably more than familiar
+
+58
+00:03:18,920 --> 00:03:25,310
+with doing word processing but I have the ability now to modify this document because it's in the Google
+
+59
+00:03:25,340 --> 00:03:26,820
+Apps word processor.
+
+60
+00:03:26,990 --> 00:03:32,780
+I can add comments notifications I can share it if I want to and when I click this button over here
+
+61
+00:03:34,330 --> 00:03:38,920
+if I had made any changes they would be part of the document.
+
+62
+00:03:38,920 --> 00:03:47,050
+Now we're moving away on computers from forcing people to constantly stop and say save documents or
+
+63
+00:03:47,050 --> 00:03:50,340
+save the lot of times as we work on them especially in the cloud.
+
+64
+00:03:50,590 --> 00:03:51,790
+Let me do one more thing here.
+
+65
+00:03:52,000 --> 00:03:59,240
+Let's go to cooking recipes and we decide for whatever reason that we just don't want this one anymore.
+
+66
+00:03:59,960 --> 00:04:07,330
+If I click on it over here and click right here remove it now it will tell me one item was moved and
+
+67
+00:04:07,330 --> 00:04:08,600
+here's my undo.
+
+68
+00:04:08,640 --> 00:04:10,110
+It'll be up there for about 20 seconds.
+
+69
+00:04:10,120 --> 00:04:11,270
+But understand something.
+
+70
+00:04:11,440 --> 00:04:14,380
+If you do anything else that goes away.
+
+71
+00:04:14,620 --> 00:04:18,440
+So make sure you don't want to undo it before you do something else.
+
+72
+00:04:18,730 --> 00:04:24,790
+So we've moved documents in that were Microsoft Word and we've converted them into the Google Docs word
+
+73
+00:04:24,790 --> 00:04:28,500
+processor so we can work on them as cloud based applications.

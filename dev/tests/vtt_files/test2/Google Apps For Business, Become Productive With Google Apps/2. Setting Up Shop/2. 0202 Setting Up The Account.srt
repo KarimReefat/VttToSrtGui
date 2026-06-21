@@ -1,0 +1,335 @@
+1
+00:00:01,550 --> 00:00:04,230
+The journey of a thousand miles is about to begin.
+
+2
+00:00:04,260 --> 00:00:06,400
+I promise I won't make it quite that long.
+
+3
+00:00:06,410 --> 00:00:09,910
+We're talking about Google Apps for business.
+
+4
+00:00:10,040 --> 00:00:13,230
+Now the first thing we should discuss here is browsers.
+
+5
+00:00:13,490 --> 00:00:19,350
+I am using a Macintosh computer to teach this and I love Macs been using them for years.
+
+6
+00:00:19,430 --> 00:00:23,150
+At university we have Windows systems mostly in our labs.
+
+7
+00:00:23,150 --> 00:00:23,770
+Love them.
+
+8
+00:00:23,780 --> 00:00:25,250
+Been using them for years.
+
+9
+00:00:25,280 --> 00:00:26,350
+You might be on a Mac.
+
+10
+00:00:26,380 --> 00:00:31,250
+You might be on a Windows system that really doesn't make any difference but let's talk browsers Safari
+
+11
+00:00:31,250 --> 00:00:37,160
+is the browser of choice for most people that use Mac and I would suggest Explorer is probably the browser
+
+12
+00:00:37,190 --> 00:00:44,450
+of choice for Windows Explorer is no longer supported on a Macintosh and Safari has never supported
+
+13
+00:00:44,450 --> 00:00:45,190
+Windows.
+
+14
+00:00:45,200 --> 00:00:46,450
+So what do we do.
+
+15
+00:00:46,580 --> 00:00:48,260
+Well it really doesn't matter.
+
+16
+00:00:48,470 --> 00:00:51,950
+But what I want to use is Google Chrome now two reasons.
+
+17
+00:00:51,950 --> 00:00:55,890
+Number one it puts us on a level playing field whether we're Mac or Windows.
+
+18
+00:00:55,970 --> 00:00:59,960
+But the other thing as you're going to see as we move along through these lessons is there are some
+
+19
+00:00:59,960 --> 00:01:03,250
+advantages actually to using Google Chrome that's free.
+
+20
+00:01:03,260 --> 00:01:04,670
+All you have to do is download it.
+
+21
+00:01:04,710 --> 00:01:06,640
+I've got it open already.
+
+22
+00:01:06,650 --> 00:01:09,590
+First thing I need to do is get to Google Apps for business.
+
+23
+00:01:09,590 --> 00:01:15,710
+Now if you're using Chrome or Safari you can click the search criteria right up here in the area that
+
+24
+00:01:15,710 --> 00:01:20,090
+you normally put in your you are out Google Apps for business.
+
+25
+00:01:20,180 --> 00:01:21,640
+Hit the enter key.
+
+26
+00:01:21,640 --> 00:01:26,950
+Now you should see something like this and this is what we want right here.
+
+27
+00:01:27,020 --> 00:01:29,630
+Google Apps for business.
+
+28
+00:01:29,630 --> 00:01:32,720
+This is the landing page for Google Apps for business.
+
+29
+00:01:32,720 --> 00:01:38,600
+Now it's possible that it might look slightly different than what you're seeing through my lesson right
+
+30
+00:01:38,600 --> 00:01:41,660
+here and the reason being is kind of like a magazine cover.
+
+31
+00:01:41,660 --> 00:01:46,430
+They do change it occasionally you will see the get started button and that's where we want to go.
+
+32
+00:01:46,430 --> 00:01:48,030
+Go ahead and click it.
+
+33
+00:01:48,080 --> 00:01:52,190
+Most of the information in setting up is rather straightforward.
+
+34
+00:01:52,310 --> 00:01:58,380
+For example you probably know your name so go ahead and type that in your current e-mail address when
+
+35
+00:01:58,380 --> 00:02:03,460
+you use orch your business or organization name.
+
+36
+00:02:03,460 --> 00:02:05,180
+I always hope I spelled it correctly.
+
+37
+00:02:06,390 --> 00:02:12,850
+Number of employees in my business is between 2 and 9 countries united states don't have to change that
+
+38
+00:02:13,090 --> 00:02:15,260
+phone number.
+
+39
+00:02:15,290 --> 00:02:19,790
+Now if you're not from the United States you can use a different phone number pattern right over here
+
+40
+00:02:19,790 --> 00:02:20,690
+by clicking.
+
+41
+00:02:20,860 --> 00:02:22,230
+Let's click next.
+
+42
+00:02:22,460 --> 00:02:24,860
+Your business or domain address.
+
+43
+00:02:24,860 --> 00:02:31,130
+Now there used to be three choices up there not just to use a domain name I already have purchased and
+
+44
+00:02:31,150 --> 00:02:32,300
+you'll have to verify it.
+
+45
+00:02:32,360 --> 00:02:34,250
+Or buy one if you want to.
+
+46
+00:02:34,250 --> 00:02:35,710
+Now let's do something here.
+
+47
+00:02:35,780 --> 00:02:38,070
+Let's stop and ponder.
+
+48
+00:02:38,130 --> 00:02:40,670
+Yes the great game of stopping and pondering.
+
+49
+00:02:40,730 --> 00:02:47,780
+Give me 60 seconds let's say for the sake of argument that this hits you by surprise that you didn't
+
+50
+00:02:47,840 --> 00:02:49,910
+really think through the idea of the domain name.
+
+51
+00:02:49,910 --> 00:02:52,180
+You know you're going to get one but you didn't know you needed it.
+
+52
+00:02:52,190 --> 00:02:57,870
+Now to start Google Apps for business if that's the case if you haven't done this yet.
+
+53
+00:02:58,220 --> 00:03:01,510
+What I really want you to do and I'm serious is I want you to stop.
+
+54
+00:03:01,520 --> 00:03:03,230
+I want you to close me down quick.
+
+55
+00:03:03,230 --> 00:03:09,710
+You can always come back to me later and really sit down and think through the name of your business
+
+56
+00:03:10,100 --> 00:03:11,990
+because it's your domain name.
+
+57
+00:03:12,080 --> 00:03:16,280
+If it's a wanky name or something that people can't remember they're never going to find you.
+
+58
+00:03:16,370 --> 00:03:18,620
+You realize how much money I would have paid to get.
+
+59
+00:03:18,630 --> 00:03:23,450
+Andy Anderson dotcom thing that's a pretty common name on the side of the pond.
+
+60
+00:03:23,450 --> 00:03:24,410
+Not a chance.
+
+61
+00:03:24,560 --> 00:03:28,750
+I'll never have that domain name so I chose real Indy.
+
+62
+00:03:29,010 --> 00:03:34,670
+And when I'm talking to people about my web site I say it's real and because there's a lot of imposters
+
+63
+00:03:34,670 --> 00:03:39,410
+out there and it sets you up to remember real landie dotcom.
+
+64
+00:03:39,680 --> 00:03:40,770
+Now I've already got one.
+
+65
+00:03:40,790 --> 00:03:45,640
+But if you don't you can click here in Bayat you can buy it at other places.
+
+66
+00:03:45,650 --> 00:03:50,560
+You don't have to do it here but I'm going to say I'm going to use a domain name and then type it in
+
+67
+00:03:50,570 --> 00:03:51,610
+down here.
+
+68
+00:03:51,800 --> 00:03:52,610
+Click next.
+
+69
+00:03:53,380 --> 00:03:58,960
+Now we have to create a Google Apps account so I'm going to choose my username name right over here
+
+70
+00:03:59,450 --> 00:04:02,940
+I'm going to say Andy at real Andy dotcom.
+
+71
+00:04:03,090 --> 00:04:07,200
+Create a password.
+
+72
+00:04:07,320 --> 00:04:08,760
+Remember it.
+
+73
+00:04:08,760 --> 00:04:10,780
+Now we have to prove we're not a robot.
+
+74
+00:04:10,800 --> 00:04:13,650
+I don't think I'm a robot but I'm probably pretty close.
+
+75
+00:04:14,320 --> 00:04:15,750
+Type the text.
+
+76
+00:04:16,010 --> 00:04:25,660
+Now that looks like 29 over there on the left and then six 4:55 6 8 9 4.
+
+77
+00:04:25,720 --> 00:04:31,540
+Now assuming I did that correctly I then get the choice of saying I would like to receive emails and
+
+78
+00:04:31,540 --> 00:04:37,310
+I've read and agreed and you have to click this one and then say accept and sign up right.
+
+79
+00:04:37,330 --> 00:04:39,020
+They're setting up my account.
+
+80
+00:04:39,280 --> 00:04:44,360
+Really wasn't rocket science the hardest thing really is if the domain name surprises you.
+
+81
+00:04:44,650 --> 00:04:45,570
+Now there you go.
+
+82
+00:04:45,700 --> 00:04:47,350
+We're going to stop right now.
+
+83
+00:04:47,380 --> 00:04:49,930
+We have set up our count.
+
+84
+00:04:49,960 --> 00:04:53,360
+We're going to talk about users and profiles and that as we move along.

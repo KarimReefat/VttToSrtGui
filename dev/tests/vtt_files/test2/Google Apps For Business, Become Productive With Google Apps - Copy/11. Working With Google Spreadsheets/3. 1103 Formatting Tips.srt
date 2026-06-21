@@ -1,0 +1,259 @@
+1
+00:00:01,570 --> 00:00:06,910
+Now I've taken the liberty to populate out the cells to save some time.
+
+2
+00:00:06,910 --> 00:00:12,340
+Same way I did this first row up here just added numbers put some decimals in etc..
+
+3
+00:00:12,430 --> 00:00:19,700
+What we need to begin some formatting and understand formatting of a document even a presentation a
+
+4
+00:00:19,700 --> 00:00:21,580
+lot of the stuff is pretty much the same.
+
+5
+00:00:21,830 --> 00:00:22,990
+Let's start at the top.
+
+6
+00:00:23,020 --> 00:00:25,300
+Let's go to a money chart right up here.
+
+7
+00:00:25,300 --> 00:00:31,300
+First thing I'd like to do is probably center that OK so I'm going to click inside that row and we come
+
+8
+00:00:31,300 --> 00:00:34,290
+over here and center it.
+
+9
+00:00:34,380 --> 00:00:39,730
+Now since we merged all those cells together it goes to the center of the merge.
+
+10
+00:00:39,790 --> 00:00:41,800
+So I like that but maybe I should make it.
+
+11
+00:00:41,890 --> 00:00:43,790
+Oh I don't know a different color.
+
+12
+00:00:44,030 --> 00:00:44,800
+And let's try that.
+
+13
+00:00:44,800 --> 00:00:45,930
+Let's get in here.
+
+14
+00:00:45,940 --> 00:00:47,790
+Let's start with the background itself.
+
+15
+00:00:47,790 --> 00:00:49,830
+I think I do want that a little bit darker.
+
+16
+00:00:49,850 --> 00:00:52,330
+It's going to get in here and get a darker color.
+
+17
+00:00:52,460 --> 00:00:57,080
+If we come over here we don't have to select the text to make a global change just be in the cell.
+
+18
+00:00:57,160 --> 00:01:03,150
+And if I get here I could build it first I suppose and maybe come over here and change the color maybe
+
+19
+00:01:03,150 --> 00:01:07,350
+we could reverse this by going white with maybe something like that.
+
+20
+00:01:07,510 --> 00:01:10,250
+Then we change the font you know do all those things.
+
+21
+00:01:10,420 --> 00:01:13,900
+Down here we've got date and Monday through Friday.
+
+22
+00:01:14,080 --> 00:01:20,380
+And those are titles and I'm going to do something here I'm going to forget to select this one on purpose
+
+23
+00:01:20,710 --> 00:01:28,280
+and I'm going to drag across all of these like that so we can center those that make sense.
+
+24
+00:01:28,320 --> 00:01:37,580
+Center them in the column we could try building them in maybe even a talis sizing them and let's give
+
+25
+00:01:37,580 --> 00:01:40,550
+them a different color like maybe a blue.
+
+26
+00:01:40,550 --> 00:01:42,030
+So we do all these things.
+
+27
+00:01:42,050 --> 00:01:44,920
+And what did we forget we forgot Friday.
+
+28
+00:01:44,990 --> 00:01:48,480
+I never forget Friday thank goodness sometimes it's Friday.
+
+29
+00:01:48,800 --> 00:01:51,940
+I've got to remember all the things that I did to get that right.
+
+30
+00:01:51,980 --> 00:01:56,940
+Now we didn't do a lot but think about if you did a very complicated type of formatting operation borders
+
+31
+00:01:56,960 --> 00:01:58,100
+all kinds of things.
+
+32
+00:01:58,170 --> 00:01:59,350
+Well watch this.
+
+33
+00:01:59,390 --> 00:02:00,680
+We have a button up here.
+
+34
+00:02:00,680 --> 00:02:06,560
+Looks like a paint roller that same paint roller is in documents and in presentations and it works the
+
+35
+00:02:06,560 --> 00:02:09,830
+same way it is a format painter.
+
+36
+00:02:10,030 --> 00:02:11,890
+It paints formats.
+
+37
+00:02:12,200 --> 00:02:15,250
+So what you do it's very simple is get into a cell.
+
+38
+00:02:15,260 --> 00:02:21,380
+In our case since we're working on a spreadsheet get into a cell that contains all the formatting that
+
+39
+00:02:21,380 --> 00:02:26,840
+you want to apply to Friday come up here and click it and come over here and click and that's what happens
+
+40
+00:02:27,470 --> 00:02:29,030
+all the formatting changes.
+
+41
+00:02:29,030 --> 00:02:31,040
+I love that feature.
+
+42
+00:02:31,040 --> 00:02:32,080
+So we've got that in.
+
+43
+00:02:32,150 --> 00:02:32,760
+We're ready.
+
+44
+00:02:32,990 --> 00:02:40,910
+Let's come over here and let's select all of our dates now come up to this button right here and go
+
+45
+00:02:40,910 --> 00:02:42,770
+into more formats.
+
+46
+00:02:42,770 --> 00:02:45,010
+Now we have numbered formats.
+
+47
+00:02:45,260 --> 00:02:47,890
+We have all kinds of different ones we have Date and Time right here.
+
+48
+00:02:48,100 --> 00:02:54,030
+When we have more here I'm thinking Well one of my favorite ways to do a date is this one right here
+
+49
+00:02:54,420 --> 00:03:00,110
+come over this way and back up and he this one right here the day the month the year.
+
+50
+00:03:00,170 --> 00:03:03,490
+Now I have him all selected over there and we change that.
+
+51
+00:03:03,540 --> 00:03:06,270
+Now these should be numbers shouldn't they.
+
+52
+00:03:06,270 --> 00:03:10,550
+And they should be reflecting the currency of in my case the United States.
+
+53
+00:03:10,560 --> 00:03:15,350
+So let's go and select those just like that and let's come back over here again.
+
+54
+00:03:15,390 --> 00:03:19,380
+I have a button for U.S. currency but if you would like to change that.
+
+55
+00:03:19,380 --> 00:03:21,020
+I don't I don't need to change that.
+
+56
+00:03:21,120 --> 00:03:28,100
+But I can get into here again for more formats and I have for example two decimals custom decimals.
+
+57
+00:03:28,140 --> 00:03:29,670
+Here's my currency.
+
+58
+00:03:29,670 --> 00:03:35,250
+Now if US is not what you want it will pop up in the currency that you put the settings for the country
+
+59
+00:03:35,250 --> 00:03:36,420
+you live in.
+
+60
+00:03:36,480 --> 00:03:38,720
+You have more currencies here if you want to change it.
+
+61
+00:03:38,850 --> 00:03:40,070
+I'm going to go to this one right here.
+
+62
+00:03:41,290 --> 00:03:43,350
+And now we've got that problem solved.
+
+63
+00:03:43,510 --> 00:03:47,860
+The formatting of the document itself is not really that difficult obviously.
+
+64
+00:03:48,220 --> 00:03:53,950
+And it's not any different than formatting a Word document a Excel spreadsheet PowerPoint presentation
+
+65
+00:03:54,190 --> 00:03:57,700
+or documents and presentations in Google Apps for business.

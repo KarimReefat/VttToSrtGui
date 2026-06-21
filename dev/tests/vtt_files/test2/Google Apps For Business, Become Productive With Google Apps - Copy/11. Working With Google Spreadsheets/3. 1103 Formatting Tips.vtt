@@ -1,0 +1,196 @@
+WEBVTT
+
+00:01.570 --> 00:06.910
+Now I've taken the liberty to populate out the cells to save some time.
+
+00:06.910 --> 00:12.340
+Same way I did this first row up here just added numbers put some decimals in etc..
+
+00:12.430 --> 00:19.700
+What we need to begin some formatting and understand formatting of a document even a presentation a
+
+00:19.700 --> 00:21.580
+lot of the stuff is pretty much the same.
+
+00:21.830 --> 00:22.990
+Let's start at the top.
+
+00:23.020 --> 00:25.300
+Let's go to a money chart right up here.
+
+00:25.300 --> 00:31.300
+First thing I'd like to do is probably center that OK so I'm going to click inside that row and we come
+
+00:31.300 --> 00:34.290
+over here and center it.
+
+00:34.380 --> 00:39.730
+Now since we merged all those cells together it goes to the center of the merge.
+
+00:39.790 --> 00:41.800
+So I like that but maybe I should make it.
+
+00:41.890 --> 00:43.790
+Oh I don't know a different color.
+
+00:44.030 --> 00:44.800
+And let's try that.
+
+00:44.800 --> 00:45.930
+Let's get in here.
+
+00:45.940 --> 00:47.790
+Let's start with the background itself.
+
+00:47.790 --> 00:49.830
+I think I do want that a little bit darker.
+
+00:49.850 --> 00:52.330
+It's going to get in here and get a darker color.
+
+00:52.460 --> 00:57.080
+If we come over here we don't have to select the text to make a global change just be in the cell.
+
+00:57.160 --> 01:03.150
+And if I get here I could build it first I suppose and maybe come over here and change the color maybe
+
+01:03.150 --> 01:07.350
+we could reverse this by going white with maybe something like that.
+
+01:07.510 --> 01:10.250
+Then we change the font you know do all those things.
+
+01:10.420 --> 01:13.900
+Down here we've got date and Monday through Friday.
+
+01:14.080 --> 01:20.380
+And those are titles and I'm going to do something here I'm going to forget to select this one on purpose
+
+01:20.710 --> 01:28.280
+and I'm going to drag across all of these like that so we can center those that make sense.
+
+01:28.320 --> 01:37.580
+Center them in the column we could try building them in maybe even a talis sizing them and let's give
+
+01:37.580 --> 01:40.550
+them a different color like maybe a blue.
+
+01:40.550 --> 01:42.030
+So we do all these things.
+
+01:42.050 --> 01:44.920
+And what did we forget we forgot Friday.
+
+01:44.990 --> 01:48.480
+I never forget Friday thank goodness sometimes it's Friday.
+
+01:48.800 --> 01:51.940
+I've got to remember all the things that I did to get that right.
+
+01:51.980 --> 01:56.940
+Now we didn't do a lot but think about if you did a very complicated type of formatting operation borders
+
+01:56.960 --> 01:58.100
+all kinds of things.
+
+01:58.170 --> 01:59.350
+Well watch this.
+
+01:59.390 --> 02:00.680
+We have a button up here.
+
+02:00.680 --> 02:06.560
+Looks like a paint roller that same paint roller is in documents and in presentations and it works the
+
+02:06.560 --> 02:09.830
+same way it is a format painter.
+
+02:10.030 --> 02:11.890
+It paints formats.
+
+02:12.200 --> 02:15.250
+So what you do it's very simple is get into a cell.
+
+02:15.260 --> 02:21.380
+In our case since we're working on a spreadsheet get into a cell that contains all the formatting that
+
+02:21.380 --> 02:26.840
+you want to apply to Friday come up here and click it and come over here and click and that's what happens
+
+02:27.470 --> 02:29.030
+all the formatting changes.
+
+02:29.030 --> 02:31.040
+I love that feature.
+
+02:31.040 --> 02:32.080
+So we've got that in.
+
+02:32.150 --> 02:32.760
+We're ready.
+
+02:32.990 --> 02:40.910
+Let's come over here and let's select all of our dates now come up to this button right here and go
+
+02:40.910 --> 02:42.770
+into more formats.
+
+02:42.770 --> 02:45.010
+Now we have numbered formats.
+
+02:45.260 --> 02:47.890
+We have all kinds of different ones we have Date and Time right here.
+
+02:48.100 --> 02:54.030
+When we have more here I'm thinking Well one of my favorite ways to do a date is this one right here
+
+02:54.420 --> 03:00.110
+come over this way and back up and he this one right here the day the month the year.
+
+03:00.170 --> 03:03.490
+Now I have him all selected over there and we change that.
+
+03:03.540 --> 03:06.270
+Now these should be numbers shouldn't they.
+
+03:06.270 --> 03:10.550
+And they should be reflecting the currency of in my case the United States.
+
+03:10.560 --> 03:15.350
+So let's go and select those just like that and let's come back over here again.
+
+03:15.390 --> 03:19.380
+I have a button for U.S. currency but if you would like to change that.
+
+03:19.380 --> 03:21.020
+I don't I don't need to change that.
+
+03:21.120 --> 03:28.100
+But I can get into here again for more formats and I have for example two decimals custom decimals.
+
+03:28.140 --> 03:29.670
+Here's my currency.
+
+03:29.670 --> 03:35.250
+Now if US is not what you want it will pop up in the currency that you put the settings for the country
+
+03:35.250 --> 03:36.420
+you live in.
+
+03:36.480 --> 03:38.720
+You have more currencies here if you want to change it.
+
+03:38.850 --> 03:40.070
+I'm going to go to this one right here.
+
+03:41.290 --> 03:43.350
+And now we've got that problem solved.
+
+03:43.510 --> 03:47.860
+The formatting of the document itself is not really that difficult obviously.
+
+03:48.220 --> 03:53.950
+And it's not any different than formatting a Word document a Excel spreadsheet PowerPoint presentation
+
+03:54.190 --> 03:57.700
+or documents and presentations in Google Apps for business.

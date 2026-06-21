@@ -1,0 +1,346 @@
+WEBVTT
+
+00:01.480 --> 00:08.300
+I'm going to begin this lesson by going into presentations and opening up demo presentation.
+
+00:08.470 --> 00:10.080
+So we've done a few things to this.
+
+00:10.090 --> 00:12.760
+We've actually added a couple of slides.
+
+00:12.820 --> 00:17.410
+Let's talk about some of the basic formatting things that you can do.
+
+00:17.470 --> 00:24.000
+Like Number one if I want to I can change the background color in an image we've done that.
+
+00:24.000 --> 00:25.440
+And you can change the background.
+
+00:25.660 --> 00:31.180
+We can change the layout of the one slide that you're looking at.
+
+00:31.180 --> 00:32.830
+We can change the theme.
+
+00:32.830 --> 00:40.510
+The overall theme of the entire thing if we select the text we get text options up here of course we
+
+00:40.510 --> 00:47.680
+do we have the ability to change the font change the color change it bold it attacks underline it change
+
+00:47.680 --> 00:49.810
+the font size all those things.
+
+00:49.810 --> 00:54.990
+Now I'm looking at the color red right there and the color red is a very passionate color.
+
+00:55.180 --> 01:00.780
+People exposed to Red actually their heart rates will increase and their blood pressure will go up it's
+
+01:00.790 --> 01:05.860
+an interest in color I'm deciding I don't want them quite so excited with the first slide I need to
+
+01:05.860 --> 01:06.730
+change that.
+
+01:06.830 --> 01:13.800
+Something to come over here and select demo presentation and click right here of course and change maybe
+
+01:13.810 --> 01:14.290
+to blue.
+
+01:14.290 --> 01:16.180
+Blue is more of a color of trust.
+
+01:16.350 --> 01:19.060
+Now we can dislike like this and decide if we like it.
+
+01:19.060 --> 01:24.960
+So we're literally overriding the theme that we used which is fine the computer doesn't care so I can
+
+01:25.000 --> 01:26.100
+blame you for that.
+
+01:26.140 --> 01:31.240
+You work with your experience based on what you want to do here and you have the tools to make it happen.
+
+01:31.240 --> 01:33.190
+Now my name is not capitalized.
+
+01:33.190 --> 01:34.300
+It's just something I do.
+
+01:34.300 --> 01:35.230
+I don't know why.
+
+01:35.230 --> 01:38.380
+I just don't capitalize my name unless I'm doing something very formal.
+
+01:38.500 --> 01:39.970
+So I'm happy with that.
+
+01:39.970 --> 01:40.920
+I don't have to change that.
+
+01:40.930 --> 01:43.930
+But you know we can if we want to but maybe change the font.
+
+01:44.120 --> 01:46.750
+So I want to come over here and select the text.
+
+01:46.840 --> 01:51.970
+Then you come up here just like wordprocessing and choose a different font if you want to just don't
+
+01:51.970 --> 01:52.670
+use that one.
+
+01:52.800 --> 01:53.450
+OK.
+
+01:53.470 --> 01:54.760
+Comic Sans is overused.
+
+01:54.760 --> 01:56.650
+We need to give that one a rest.
+
+01:56.650 --> 01:59.360
+How about this one right here.
+
+01:59.530 --> 02:01.510
+It looks very fancy doesn't it.
+
+02:01.510 --> 02:02.770
+So we've made a couple of changes.
+
+02:02.770 --> 02:05.940
+Big deal let's go into this slide right here.
+
+02:05.950 --> 02:08.000
+I don't even need that slide anymore.
+
+02:08.110 --> 02:10.780
+So what I'm going to do is press the delete key.
+
+02:10.780 --> 02:12.840
+Now here we go Mac and Windows again.
+
+02:12.880 --> 02:18.070
+If you've got a Macintosh keyboard it's the delete key if you've got a Windows keyboard it's the backspace
+
+02:18.070 --> 02:18.940
+key.
+
+02:18.970 --> 02:20.440
+I just love that.
+
+02:20.440 --> 02:22.480
+Now we got points to ponder.
+
+02:22.570 --> 02:23.850
+Kind of happy with the font.
+
+02:23.850 --> 02:25.140
+I'm OK with that.
+
+02:25.280 --> 02:33.340
+But my problem here is when we display this presentation this guy right here this area is going to completely
+
+02:33.430 --> 02:34.910
+show at one time.
+
+02:34.990 --> 02:36.030
+That's bad.
+
+02:36.370 --> 02:41.290
+If you put all your points up while you're doing your lecture guess what people are going to do.
+
+02:41.470 --> 02:45.010
+They're going to read ahead and when they read ahead they're going to get bored because they know what
+
+02:45.010 --> 02:46.660
+you're going to talk about.
+
+02:46.660 --> 02:51.350
+So what we need is to have one point come up at a time and this is cool animation.
+
+02:51.370 --> 02:56.000
+There's all kinds of ways we can animate if we right click this just an easier way to get there.
+
+02:56.200 --> 02:58.290
+Right clicking go on to animate.
+
+02:58.300 --> 02:59.660
+And there you go.
+
+03:00.010 --> 03:03.430
+Now it says the slide itself has no transition.
+
+03:03.430 --> 03:04.730
+We'll talk about that too.
+
+03:04.870 --> 03:09.400
+But this one right here we have what do you want the fade in fade out.
+
+03:09.430 --> 03:12.200
+Fly in fly out zoom in zoom out or spin.
+
+03:12.220 --> 03:13.890
+Let me give you a word of advice here.
+
+03:14.020 --> 03:20.200
+Just because you can really animate something in a really wonky way doesn't mean you need to because
+
+03:20.200 --> 03:24.670
+if your presentations look like a circus with things bouncing and dancing all over the place people
+
+03:24.670 --> 03:28.900
+are not listening to you anymore they're thinking about what are you going to do to them next.
+
+03:28.900 --> 03:31.530
+Fade in is very boring but it works.
+
+03:31.540 --> 03:33.830
+It's really that a fade in now on a click.
+
+03:33.880 --> 03:38.940
+Definitely because I don't know how long I'm really going to talk about each one of those points.
+
+03:38.980 --> 03:44.450
+I want to control the process with a click but you can say after previous Now what would that do.
+
+03:44.500 --> 03:45.610
+It would open the slide.
+
+03:45.610 --> 03:50.590
+Points to Ponder would already be there and then would automatically start letting the other points
+
+03:50.590 --> 03:53.490
+come up one at a time in a timed sequence.
+
+03:53.500 --> 03:55.820
+I want to control what you say On Click now.
+
+03:55.850 --> 04:01.540
+Also if you don't turn on by paragraph it's going to turn them all on at the same time.
+
+04:01.570 --> 04:02.310
+Let's play it.
+
+04:04.050 --> 04:05.860
+Now we're in a demo mode here.
+
+04:06.000 --> 04:08.810
+Click slide or press enter to continue.
+
+04:08.940 --> 04:10.320
+So I'm going to press my Enter key.
+
+04:10.320 --> 04:16.670
+That's actually the return key on a Macintosh and I start talking start the presentation with excitement
+
+04:18.040 --> 04:18.960
+face your audience.
+
+04:18.990 --> 04:22.860
+The slide show does look at your audience and here's what I love.
+
+04:22.870 --> 04:24.240
+Don't read the slides.
+
+04:24.430 --> 04:28.980
+I've had presenters because I train presenters that will actually look at the presentation that means
+
+04:28.980 --> 04:34.440
+their back is to the audience and read verbatim what's on the slides if that's all you're going to do.
+
+04:34.440 --> 04:34.980
+Print it.
+
+04:35.050 --> 04:35.820
+Give it to him.
+
+04:35.860 --> 04:37.690
+Let him leave early.
+
+04:37.930 --> 04:43.090
+Keep the audience involved if you're ever in one of my classes at university or when I am on the road
+
+04:43.570 --> 04:45.750
+you will be involved in my class.
+
+04:45.760 --> 04:53.540
+I promise you in one way or another end with a call action I'm controlling the process by clicking pressing
+
+04:53.540 --> 04:54.250
+the return key.
+
+04:54.250 --> 04:57.260
+Anarchy in windows turn on a Mac whatever you want to do.
+
+04:57.270 --> 05:01.000
+And we can control how fast or slow the fade happens.
+
+05:01.150 --> 05:05.330
+By using this option right here controlling what we do with an animation.
+
+05:05.470 --> 05:06.840
+Now let's go to our next one over here.
+
+05:08.020 --> 05:14.470
+Number one that's kind of a Star Trek look at that so we can come over obviously and we can change the
+
+05:14.470 --> 05:15.610
+theme.
+
+05:15.610 --> 05:18.480
+You don't have to do this of course but this is the one we're using.
+
+05:19.530 --> 05:20.580
+And it will change it.
+
+05:20.850 --> 05:22.500
+Now how did I get those bullet points.
+
+05:22.680 --> 05:24.230
+Well let's select everything.
+
+05:24.490 --> 05:30.550
+Go over to more right here and you have more options like oh bullet points numbered points changing
+
+05:30.560 --> 05:35.610
+things like line spacing etc. and we come over here and say Do bullets in that too and it will change
+
+05:35.610 --> 05:36.970
+it make it very happy for us.
+
+05:37.170 --> 05:39.980
+We can add an animation just like we did on the other one.
+
+05:40.110 --> 05:43.250
+What we're doing is we're adding life to the presentation.
+
+05:43.410 --> 05:45.720
+We're changing things the way we want them to be.
+
+05:45.720 --> 05:51.060
+We're working with some of our formatting tools and we're just making it more of not entertainment but
+
+05:51.060 --> 05:57.450
+we're making our presentation in such a way that it creates interest and curiosity with our audience
+
+05:57.720 --> 05:59.030
+which keeps their attention.
+
+05:59.250 --> 06:01.290
+Let's go ahead and get out of here for now.
+
+06:01.350 --> 06:04.560
+Clicking right up here takes us right back to Google Drive.
+
+06:04.560 --> 06:07.050
+All changes have automatically been saved.
+
+06:07.050 --> 06:07.540
+There you go.

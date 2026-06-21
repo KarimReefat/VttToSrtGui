@@ -1,0 +1,191 @@
+1
+00:00:01,540 --> 00:00:07,510
+In this lesson we're going to talk about images but we're going to talk about images in two different
+
+2
+00:00:07,570 --> 00:00:09,750
+areas in a presentation.
+
+3
+00:00:09,790 --> 00:00:16,910
+One is on a regular slide and one is in a very important place to know that you have Master's.
+
+4
+00:00:17,020 --> 00:00:21,480
+So let's go into my presentations and I'm going to open up our demo right here.
+
+5
+00:00:23,270 --> 00:00:32,060
+Now demo presentation I want an image on this slide so I can come over here and click this button right
+
+6
+00:00:32,060 --> 00:00:32,900
+there.
+
+7
+00:00:32,900 --> 00:00:34,570
+Now we've been here before.
+
+8
+00:00:34,640 --> 00:00:38,680
+If you've got images in your albums Google Drive you can do a search.
+
+9
+00:00:38,720 --> 00:00:39,820
+I'm going to upload.
+
+10
+00:00:40,010 --> 00:00:41,320
+I'm going to drag it over.
+
+11
+00:00:41,330 --> 00:00:48,470
+I've got an image I want to use someone to drag it over here and just drop it in.
+
+12
+00:00:49,080 --> 00:00:53,850
+Because this is about doing presentations and put him right down there.
+
+13
+00:00:54,020 --> 00:00:58,190
+And once I've got him there I can expand or contract his size.
+
+14
+00:00:58,220 --> 00:01:00,050
+That's something I want to do.
+
+15
+00:01:00,050 --> 00:01:04,890
+I can rotate him by grabbing right here and dragging one way or the other.
+
+16
+00:01:05,390 --> 00:01:11,540
+I can of course get in there and use my arrow keys to gently nudge him into place.
+
+17
+00:01:11,750 --> 00:01:14,240
+And now we have a graphic on here.
+
+18
+00:01:14,390 --> 00:01:15,300
+Big deal right.
+
+19
+00:01:15,560 --> 00:01:17,420
+But I want all of these slides.
+
+20
+00:01:17,420 --> 00:01:19,170
+Number one or the send kind of slide.
+
+21
+00:01:19,550 --> 00:01:25,130
+If we come back up here they are the title and body slide right here.
+
+22
+00:01:25,130 --> 00:01:28,700
+I want the graphic on those but I want it on all of them.
+
+23
+00:01:28,760 --> 00:01:30,590
+Do I have to do it one at a time.
+
+24
+00:01:30,600 --> 00:01:32,700
+And the answer to that is no.
+
+25
+00:01:32,900 --> 00:01:34,280
+I love this feature.
+
+26
+00:01:34,310 --> 00:01:42,690
+Go up to the word view and go down to master now now in Master you have a master and then lay outs down
+
+27
+00:01:42,690 --> 00:01:43,320
+here.
+
+28
+00:01:43,320 --> 00:01:51,560
+If I put anything on this one right up here like a graphic it will appear on every single other slide.
+
+29
+00:01:51,630 --> 00:01:56,330
+Every time I create a new slide this is the one that we're using.
+
+30
+00:01:56,340 --> 00:02:01,380
+So if I come down to that one in select it and I'm going to drag another one over or I can do the same
+
+31
+00:02:01,380 --> 00:02:06,830
+thing right here I can go an image and I'm going to drag a different one over.
+
+32
+00:02:07,020 --> 00:02:09,820
+I'm going to take that and I'm going to move it down here.
+
+33
+00:02:09,810 --> 00:02:10,500
+Say like that.
+
+34
+00:02:10,500 --> 00:02:18,260
+Notice it's only on this one right here but that represents the master for this slide presentation.
+
+35
+00:02:18,270 --> 00:02:22,370
+Every time I use that type of slide that's the cool thing.
+
+36
+00:02:22,440 --> 00:02:23,490
+But we're not done.
+
+37
+00:02:23,490 --> 00:02:25,700
+Let me mention at least one more thing here.
+
+38
+00:02:25,830 --> 00:02:32,940
+If I don't like the fun it's using if I change it here it will change it on every slide that corresponds
+
+39
+00:02:32,940 --> 00:02:33,800
+to this one.
+
+40
+00:02:33,870 --> 00:02:41,320
+But if I come up to this one which is the master master and change it here all the slides will change.
+
+41
+00:02:41,460 --> 00:02:44,070
+Masters are tremendously important.
+
+42
+00:02:44,340 --> 00:02:50,710
+But if we get out of here now you will notice that on this one we had the guy with the alphabet coming
+
+43
+00:02:50,710 --> 00:02:57,170
+out of his mouth and on these in the exact same position on everyone you can access it.
+
+44
+00:02:57,500 --> 00:02:59,540
+You have to go back to the master to do that.
+
+45
+00:02:59,540 --> 00:03:03,530
+It's on everyone one when you're putting together a slide presentation.
+
+46
+00:03:03,530 --> 00:03:06,290
+You don't like the fonts you don't like the graphics.
+
+47
+00:03:06,500 --> 00:03:12,440
+Don't forget you got masters because those can really help you flesh out the presentation.
+
+48
+00:03:12,560 --> 00:03:14,730
+Make it efficient and make it consistent.

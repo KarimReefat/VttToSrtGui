@@ -1,0 +1,1258 @@
+﻿WEBVTT
+
+1
+00:00:00.530 --> 00:00:02.630
+<v ->Ports and protocols.</v>
+
+2
+00:00:02.630 --> 00:00:04.280
+Now I'm going to apologize in advance
+
+3
+00:00:04.280 --> 00:00:06.540
+because this is a lengthy lecture,
+
+4
+00:00:06.540 --> 00:00:08.540
+and it's probably you're going to want to go through
+
+5
+00:00:08.540 --> 00:00:09.740
+two or three times,
+
+6
+00:00:09.740 --> 00:00:12.190
+because the information in this lecture
+
+7
+00:00:12.190 --> 00:00:14.780
+is going to make up a good percentage of your test.
+
+8
+00:00:14.780 --> 00:00:18.770
+In fact, I'd probably say five to 10% of your test questions
+
+9
+00:00:18.770 --> 00:00:21.450
+could come from this lecture alone,
+
+10
+00:00:21.450 --> 00:00:24.410
+and that's why it's really important to really learn it.
+
+11
+00:00:24.410 --> 00:00:27.270
+So if there's any of these lectures you're going to memorize,
+
+12
+00:00:27.270 --> 00:00:29.690
+this is going to be the one for you.
+
+13
+00:00:29.690 --> 00:00:32.430
+So, I'm going to go through each of the different ports
+
+14
+00:00:32.430 --> 00:00:34.950
+and protocols that you need to be aware of,
+
+15
+00:00:34.950 --> 00:00:37.730
+and each one has a specified port number.
+
+16
+00:00:37.730 --> 00:00:39.090
+So let's go ahead and gets tarted,
+
+17
+00:00:39.090 --> 00:00:41.400
+and I want to tell you what you need to remember.
+
+18
+00:00:41.400 --> 00:00:45.890
+So here's an example, File Transfer Protocol, or FTP.
+
+19
+00:00:45.890 --> 00:00:48.860
+It operates on ports 20 and 21.
+
+20
+00:00:48.860 --> 00:00:51.560
+So what do you need to know about FTP for the exam?
+
+21
+00:00:51.560 --> 00:00:55.310
+Well, you should know FTP means File Transfer Protocol.
+
+22
+00:00:55.310 --> 00:00:56.970
+You should know the port number,
+
+23
+00:00:56.970 --> 00:00:59.610
+and you should know basically what it does.
+
+24
+00:00:59.610 --> 00:01:01.280
+In the case of File Transfer Protocol,
+
+25
+00:01:01.280 --> 00:01:03.170
+it's going to allow you to transfer files
+
+26
+00:01:03.170 --> 00:01:06.540
+between a client and a server on a computer network.
+
+27
+00:01:06.540 --> 00:01:08.370
+This is an unsecure method,
+
+28
+00:01:08.370 --> 00:01:10.810
+and data is transmitted in the clear,
+
+29
+00:01:10.810 --> 00:01:12.580
+meaning there is no encryption.
+
+30
+00:01:12.580 --> 00:01:15.250
+And so, it is not really safe to use anymore,
+
+31
+00:01:15.250 --> 00:01:17.400
+and we don't really use File Transfer Protocol
+
+32
+00:01:17.400 --> 00:01:21.590
+for anything that should be confidential or encrypted.
+
+33
+00:01:21.590 --> 00:01:25.620
+So, for the exam, File Transfer Protocol transfers files
+
+34
+00:01:25.620 --> 00:01:27.650
+over ports 20 and 21.
+
+35
+00:01:28.520 --> 00:01:31.890
+The next one we have is Secure Shell, or SSH,
+
+36
+00:01:31.890 --> 00:01:34.770
+and this operates on port 22.
+
+37
+00:01:34.770 --> 00:01:36.370
+What does SSH do?
+
+38
+00:01:36.370 --> 00:01:39.300
+Well, it allows you to take remote control
+
+39
+00:01:39.300 --> 00:01:42.410
+of another computer using a command shell.
+
+40
+00:01:42.410 --> 00:01:45.490
+It is best know for this remove logon capability,
+
+41
+00:01:45.490 --> 00:01:46.760
+and it is going to give you
+
+42
+00:01:46.760 --> 00:01:49.170
+a cryptographic network protocol here,
+
+43
+00:01:49.170 --> 00:01:51.010
+which means it does use encryption
+
+44
+00:01:51.010 --> 00:01:54.210
+so it is safe to use even over an unsecured network
+
+45
+00:01:54.210 --> 00:01:55.420
+like the internet.
+
+46
+00:01:55.420 --> 00:01:57.620
+So, for example, if I want to go and change
+
+47
+00:01:57.620 --> 00:01:59.710
+the configure of my web server,
+
+48
+00:01:59.710 --> 00:02:03.950
+I can actually login through SSH from my house in Maryland
+
+49
+00:02:03.950 --> 00:02:07.020
+to my file server sitting in California
+
+50
+00:02:07.020 --> 00:02:09.230
+over the internet using SSH,
+
+51
+00:02:09.230 --> 00:02:11.350
+and be assured that it's secure
+
+52
+00:02:11.350 --> 00:02:13.950
+because I have encryption on both ends of that.
+
+53
+00:02:13.950 --> 00:02:17.460
+So, Secure Shell, SSH, port 22,
+
+54
+00:02:17.460 --> 00:02:20.590
+secure remote control of another machine,
+
+55
+00:02:20.590 --> 00:02:22.540
+using a text-based environment.
+
+56
+00:02:23.760 --> 00:02:26.340
+The next one we have is Secure Shell
+
+57
+00:02:26.340 --> 00:02:29.500
+File Transfer Protocol, or SFTP.
+
+58
+00:02:29.500 --> 00:02:32.320
+And this is another way to do file transfer
+
+59
+00:02:32.320 --> 00:02:33.730
+and do it securely.
+
+60
+00:02:33.730 --> 00:02:35.460
+It's going to operate on port 22,
+
+61
+00:02:35.460 --> 00:02:37.850
+the same port that we use for SSH,
+
+62
+00:02:37.850 --> 00:02:40.930
+because, honestly, all it's doing is tunneling
+
+63
+00:02:40.930 --> 00:02:44.620
+the FTP protocol through SSH
+
+64
+00:02:44.620 --> 00:02:46.530
+to give it that file transfer,
+
+65
+00:02:46.530 --> 00:02:49.280
+using an encrypted method to keep it secure.
+
+66
+00:02:50.510 --> 00:02:52.310
+Next, we have Telnet,
+
+67
+00:02:52.310 --> 00:02:54.820
+and it works a lot like the way SSH does.
+
+68
+00:02:54.820 --> 00:02:58.810
+In fact, Telnet came out many years before SSH.
+
+69
+00:02:58.810 --> 00:03:01.380
+The problem with Telnet is it is insecure.
+
+70
+00:03:01.380 --> 00:03:04.050
+It provides bio directional, interactive,
+
+71
+00:03:04.050 --> 00:03:06.170
+text-oriented communication
+
+72
+00:03:06.170 --> 00:03:08.500
+using a virtual terminal connection.
+
+73
+00:03:08.500 --> 00:03:10.220
+That's a whole lot of words to say
+
+74
+00:03:10.220 --> 00:03:13.100
+remote access via the command prompt, okay?
+
+75
+00:03:13.100 --> 00:03:15.880
+The problem is everything is sent in the clear.
+
+76
+00:03:15.880 --> 00:03:18.589
+Just like FTP is insecure for that reason, so is Telnet.
+
+77
+00:03:18.589 --> 00:03:21.450
+You should never use Telnet
+
+78
+00:03:21.450 --> 00:03:23.680
+over an insecure network like the internet,
+
+79
+00:03:23.680 --> 00:03:26.320
+because people can read your username, password,
+
+80
+00:03:26.320 --> 00:03:28.710
+and every other command that you type in.
+
+81
+00:03:28.710 --> 00:03:30.080
+Just don't do it.
+
+82
+00:03:31.310 --> 00:03:34.130
+Next, we have the Simple Mail Transfer Protocol,
+
+83
+00:03:34.130 --> 00:03:36.210
+or SMTP.
+
+84
+00:03:36.210 --> 00:03:38.560
+This operates on port 25.
+
+85
+00:03:38.560 --> 00:03:40.070
+It is the internet standard
+
+86
+00:03:40.070 --> 00:03:42.130
+for sending electronic messages.
+
+87
+00:03:42.130 --> 00:03:44.930
+And so, it was actually founded back with RFC
+
+88
+00:03:44.930 --> 00:03:47.380
+or Request for Comments 821
+
+89
+00:03:47.380 --> 00:03:49.810
+back in 1982.
+
+90
+00:03:49.810 --> 00:03:53.110
+And back in 2008, the current version came out,
+
+91
+00:03:53.110 --> 00:03:56.210
+which uses RFC 5321.
+
+92
+00:03:56.210 --> 00:03:58.330
+Now, do you need to know these RFCs?
+
+93
+00:03:58.330 --> 00:04:00.350
+No, don't worry about it.
+
+94
+00:04:00.350 --> 00:04:01.940
+That's only here for you to give an idea
+
+95
+00:04:01.940 --> 00:04:04.050
+of just how long we've been using this stuff,
+
+96
+00:04:04.050 --> 00:04:06.510
+from 1982 all the way to 2008,
+
+97
+00:04:06.510 --> 00:04:09.300
+and now here in 2018.
+
+98
+00:04:09.300 --> 00:04:13.660
+When you hear SMTP, I want you to think of send mail.
+
+99
+00:04:13.660 --> 00:04:17.450
+I'm sending mail out and using port 25.
+
+100
+00:04:17.450 --> 00:04:19.960
+Domain Name Service, or DNS,
+
+101
+00:04:19.960 --> 00:04:22.250
+which is port 53.
+
+102
+00:04:22.250 --> 00:04:24.780
+DNS is what gives us a hierarchical
+
+103
+00:04:24.780 --> 00:04:26.760
+decentralized naming system
+
+104
+00:04:26.760 --> 00:04:29.670
+for computers, services, and other resources
+
+105
+00:04:29.670 --> 00:04:32.420
+connected private networks and the internet.
+
+106
+00:04:32.420 --> 00:04:36.030
+This is going to convert domain names to IP addresses.
+
+107
+00:04:36.030 --> 00:04:39.790
+So for example, if you go to diontraining.com,
+
+108
+00:04:39.790 --> 00:04:41.370
+that's a lot easier to remember
+
+109
+00:04:41.370 --> 00:04:46.000
+than 66.12.54.85.
+
+110
+00:04:46.000 --> 00:04:47.120
+That'll be hard to remember.
+
+111
+00:04:47.120 --> 00:04:50.420
+It's easier to remember diontraining.com, right?
+
+112
+00:04:50.420 --> 00:04:52.160
+Or wikipedia.org,
+
+113
+00:04:52.160 --> 00:04:53.240
+and it will go through,
+
+114
+00:04:53.240 --> 00:04:56.140
+and we'll talk more about DNS in a future lecture.
+
+115
+00:04:56.140 --> 00:04:58.630
+The next one we have is DHCP,
+
+116
+00:04:58.630 --> 00:05:01.310
+or Dynamic Host Control Protocol,
+
+117
+00:05:01.310 --> 00:05:05.290
+and this operates on ports 67 and 68.
+
+118
+00:05:05.290 --> 00:05:09.090
+DHCP servers automatically assign IP addresses
+
+119
+00:05:09.090 --> 00:05:11.610
+and other network configuration parameters
+
+120
+00:05:11.610 --> 00:05:13.420
+to your network clients.
+
+121
+00:05:13.420 --> 00:05:15.420
+This is going to allow your computers
+
+122
+00:05:15.420 --> 00:05:18.940
+to get IP addresses and network parameters automatically,
+
+123
+00:05:18.940 --> 00:05:21.110
+which is really, really awesome,
+
+124
+00:05:21.110 --> 00:05:23.210
+and makes your life as a network administrator
+
+125
+00:05:23.210 --> 00:05:25.020
+much, much easier.
+
+126
+00:05:25.020 --> 00:05:27.390
+We have a separate lecture on DHCP
+
+127
+00:05:27.390 --> 00:05:29.760
+where we're going to talk all about the methods
+
+128
+00:05:29.760 --> 00:05:31.160
+that it uses to get those
+
+129
+00:05:31.160 --> 00:05:32.800
+between the discover, the offer,
+
+130
+00:05:32.800 --> 00:05:34.340
+the request, and the acknowledge.
+
+131
+00:05:34.340 --> 00:05:35.990
+So, just hold on for that.
+
+132
+00:05:35.990 --> 00:05:38.170
+For right now, I want you to remember
+
+133
+00:05:38.170 --> 00:05:39.690
+DHCP
+
+134
+00:05:39.690 --> 00:05:41.770
+is port 67 and 68,
+
+135
+00:05:41.770 --> 00:05:44.320
+and it automatically assigns IPs.
+
+136
+00:05:44.320 --> 00:05:46.120
+If you remember those three things right now,
+
+137
+00:05:46.120 --> 00:05:47.690
+you're good to go.
+
+138
+00:05:47.690 --> 00:05:52.270
+The next one we have is Trivial File Transfer, or TFTP,
+
+139
+00:05:52.270 --> 00:05:54.820
+which operates on port 69.
+
+140
+00:05:54.820 --> 00:05:57.400
+This is going to transmit files in both directions
+
+141
+00:05:57.400 --> 00:05:59.640
+of a client server application.
+
+142
+00:05:59.640 --> 00:06:02.160
+It's used for booting things like operating systems
+
+143
+00:06:02.160 --> 00:06:03.860
+off a network file server,
+
+144
+00:06:03.860 --> 00:06:06.120
+and it doesn't provide any authentication
+
+145
+00:06:06.120 --> 00:06:07.730
+or directory visibility.
+
+146
+00:06:07.730 --> 00:06:10.970
+It's a very stripped down version of FTP.
+
+147
+00:06:10.970 --> 00:06:12.330
+Where do we use this?
+
+148
+00:06:12.330 --> 00:06:14.390
+Usually in sending configuration files
+
+149
+00:06:14.390 --> 00:06:16.150
+or requesting configuration files
+
+150
+00:06:16.150 --> 00:06:17.890
+from routers and switches,
+
+151
+00:06:17.890 --> 00:06:20.340
+or, like I said, booting up an operating system
+
+152
+00:06:20.340 --> 00:06:21.670
+off a network drive.
+
+153
+00:06:22.840 --> 00:06:27.110
+Next, we have Hyper Text Transfer Protocol, or HTTP.
+
+154
+00:06:27.110 --> 00:06:29.330
+This operates on port 80.
+
+155
+00:06:29.330 --> 00:06:31.710
+This is the foundation of data communication
+
+156
+00:06:31.710 --> 00:06:33.530
+for the world wide web.
+
+157
+00:06:33.530 --> 00:06:37.470
+It's designed for collaborative and hyper media presentation
+
+158
+00:06:37.470 --> 00:06:39.580
+across many devices.
+
+159
+00:06:39.580 --> 00:06:41.290
+When you hear port 80,
+
+160
+00:06:41.290 --> 00:06:43.600
+I want you to think of HTTP,
+
+161
+00:06:43.600 --> 00:06:46.460
+which is unsecured web browsing.
+
+162
+00:06:46.460 --> 00:06:49.820
+We'll get to the secured web browsing in a little bit.
+
+163
+00:06:49.820 --> 00:06:53.160
+The next one we have is Post Office Protocol Version Three,
+
+164
+00:06:53.160 --> 00:06:54.760
+or POP3.
+
+165
+00:06:54.760 --> 00:06:58.130
+This is port one, one, zero, or 110.
+
+166
+00:06:58.130 --> 00:07:00.220
+It is used by local email clients
+
+167
+00:07:00.220 --> 00:07:02.870
+to retrieve email from a remote server
+
+168
+00:07:02.870 --> 00:07:05.860
+over a TCP/IP connection.
+
+169
+00:07:05.860 --> 00:07:08.380
+When you hear POP3, I want you to think of
+
+170
+00:07:08.380 --> 00:07:09.730
+downloading email,
+
+171
+00:07:09.730 --> 00:07:11.330
+because that's what it's for.
+
+172
+00:07:12.520 --> 00:07:17.100
+Next, we have Network Time Protocol, or NTP.
+
+173
+00:07:17.100 --> 00:07:19.370
+NTP operates on port 123.
+
+174
+00:07:20.560 --> 00:07:23.070
+Now, I like that because it's easy to remember right?
+
+175
+00:07:23.070 --> 00:07:25.260
+Think of it like you're counting, one, two, three,
+
+176
+00:07:25.260 --> 00:07:29.040
+just like I'm watching time fly, Network Time Protocol.
+
+177
+00:07:29.040 --> 00:07:31.050
+Network Time Protocol is going to provide you
+
+178
+00:07:31.050 --> 00:07:32.460
+a clock synchronization
+
+179
+00:07:32.460 --> 00:07:34.350
+between different computer systems
+
+180
+00:07:34.350 --> 00:07:37.860
+over packet-switched variable latency data networks.
+
+181
+00:07:37.860 --> 00:07:39.900
+And it was created back in 1985,
+
+182
+00:07:39.900 --> 00:07:43.440
+and it is one of the oldest internet protocols in use today.
+
+183
+00:07:43.440 --> 00:07:46.580
+NTP is useful to be able to sync up our times.
+
+184
+00:07:46.580 --> 00:07:49.490
+And in fact, your computer uses NTP all the time,
+
+185
+00:07:49.490 --> 00:07:50.840
+whether you knew it or not.
+
+186
+00:07:52.090 --> 00:07:53.850
+Next, we have NetBIOS,
+
+187
+00:07:53.850 --> 00:07:56.930
+which is on port 139.
+
+188
+00:07:56.930 --> 00:08:00.720
+NetBIOS is the Network Basic Input/Output System.
+
+189
+00:08:00.720 --> 00:08:02.500
+And it provides a service for allowing
+
+190
+00:08:02.500 --> 00:08:04.960
+applications on a separate computer
+
+191
+00:08:04.960 --> 00:08:07.570
+to communicate over a local area network
+
+192
+00:08:07.570 --> 00:08:09.690
+to share files and printers.
+
+193
+00:08:09.690 --> 00:08:13.000
+If you use file or printer sharing in a Windows network,
+
+194
+00:08:13.000 --> 00:08:15.170
+your port 139 is probably open,
+
+195
+00:08:15.170 --> 00:08:16.870
+because you're using that BIOS.
+
+196
+00:08:18.090 --> 00:08:21.040
+Next, we have the Internet Mail Application Protocol,
+
+197
+00:08:21.040 --> 00:08:22.060
+or IMAP,
+
+198
+00:08:22.060 --> 00:08:25.330
+and it operates on port 143.
+
+199
+00:08:25.330 --> 00:08:27.080
+It's going to provide email clients
+
+200
+00:08:27.080 --> 00:08:30.000
+the ability to retrieve email messages from a mail server
+
+201
+00:08:30.000 --> 00:08:32.800
+over a TCP/IP connection.
+
+202
+00:08:32.800 --> 00:08:35.670
+It's going to allow the end user to view and manipulate
+
+203
+00:08:35.670 --> 00:08:37.330
+the messages as if they were stored
+
+204
+00:08:37.330 --> 00:08:38.900
+locally on their machine.
+
+205
+00:08:38.900 --> 00:08:42.510
+So with POP3, if I log in from my laptop and my tablet,
+
+206
+00:08:42.510 --> 00:08:45.070
+it would show unread on one and read on the other.
+
+207
+00:08:45.070 --> 00:08:47.340
+With IMAP, it keeps them all synchronized,
+
+208
+00:08:47.340 --> 00:08:50.180
+so it is much better for modern communication.
+
+209
+00:08:51.700 --> 00:08:55.220
+Simple Network Management Protocol, or SNMP,
+
+210
+00:08:55.220 --> 00:08:58.270
+which operates on port 161.
+
+211
+00:08:58.270 --> 00:09:00.230
+This is going to provide you a collection
+
+212
+00:09:00.230 --> 00:09:02.020
+and organization of information
+
+213
+00:09:02.020 --> 00:09:04.670
+about the managed devices on IP networks,
+
+214
+00:09:04.670 --> 00:09:08.060
+such as your routers and your switches and other devices.
+
+215
+00:09:08.060 --> 00:09:09.630
+It can modify the information
+
+216
+00:09:09.630 --> 00:09:11.510
+by changing the device's behavior,
+
+217
+00:09:11.510 --> 00:09:14.940
+and it is commonly used in these network devices.
+
+218
+00:09:14.940 --> 00:09:18.110
+We will talk about SNMP much later in this course
+
+219
+00:09:18.110 --> 00:09:19.660
+in it's own lecture as well,
+
+220
+00:09:19.660 --> 00:09:21.960
+because it is important to network management.
+
+221
+00:09:22.820 --> 00:09:25.680
+Next, we have the Lightweight Directory Access Protocol,
+
+222
+00:09:25.680 --> 00:09:26.680
+or LDAP,
+
+223
+00:09:26.680 --> 00:09:28.060
+L-D-A-P,
+
+224
+00:09:28.060 --> 00:09:31.240
+and it operates on port 389.
+
+225
+00:09:31.240 --> 00:09:34.780
+This is an open, vendor-neutral, industry standard
+
+226
+00:09:34.780 --> 00:09:37.630
+for accessing and maintaining distributed
+
+227
+00:09:37.630 --> 00:09:40.020
+directory information services.
+
+228
+00:09:40.020 --> 00:09:44.000
+So, LDAP and active directory both will use this port.
+
+229
+00:09:44.000 --> 00:09:45.960
+So when you go to your email program
+
+230
+00:09:45.960 --> 00:09:47.860
+like Microsoft Outlook at work,
+
+231
+00:09:47.860 --> 00:09:50.940
+and you try to look up somebody's name in the address book,
+
+232
+00:09:50.940 --> 00:09:52.420
+you're actually using LDAP.
+
+233
+00:09:53.320 --> 00:09:55.260
+Now we're back to secure web browsing,
+
+234
+00:09:55.260 --> 00:09:58.750
+which is HTTPS, for secure.
+
+235
+00:09:58.750 --> 00:10:01.570
+This is going to use TLS or SSL
+
+236
+00:10:01.570 --> 00:10:02.970
+to encrypt your connection,
+
+237
+00:10:02.970 --> 00:10:05.580
+and allow you to do thins like e-commerce
+
+238
+00:10:05.580 --> 00:10:08.910
+and password login over the web securely.
+
+239
+00:10:08.910 --> 00:10:11.130
+It's designed to add the security layer
+
+240
+00:10:11.130 --> 00:10:13.620
+to the insecure HTTP protocol.
+
+241
+00:10:13.620 --> 00:10:16.640
+HTTPS operates on port 443.
+
+242
+00:10:19.650 --> 00:10:21.810
+Next, we have Server Message Block,
+
+243
+00:10:21.810 --> 00:10:24.370
+which is SMB port 445.
+
+244
+00:10:25.310 --> 00:10:26.470
+Server Message Block
+
+245
+00:10:26.470 --> 00:10:29.420
+is going to provide you with shared access to files,
+
+246
+00:10:29.420 --> 00:10:31.750
+printers, and other types of communication
+
+247
+00:10:31.750 --> 00:10:33.770
+between devices on the network.
+
+248
+00:10:33.770 --> 00:10:38.370
+It operates a lot of the times with NetBios at port 139
+
+249
+00:10:38.370 --> 00:10:40.000
+in conjunction with each other,
+
+250
+00:10:40.000 --> 00:10:42.010
+where NetBIOS does the authentication,
+
+251
+00:10:42.010 --> 00:10:44.330
+and Server Message Block actually handles
+
+252
+00:10:44.330 --> 00:10:46.770
+passing out those files for you.
+
+253
+00:10:46.770 --> 00:10:48.960
+Next, we have LDAP secure.
+
+254
+00:10:48.960 --> 00:10:50.400
+Just like most things,
+
+255
+00:10:50.400 --> 00:10:52.620
+we have a secure and unsecure version.
+
+256
+00:10:52.620 --> 00:10:55.950
+An LDAP secure or L-D-A-P-S
+
+257
+00:10:55.950 --> 00:10:58.220
+is port 636.
+
+258
+00:10:58.220 --> 00:11:01.260
+It again is going to operate just like LDAP did,
+
+259
+00:11:01.260 --> 00:11:03.030
+Active Directory can operate on it,
+
+260
+00:11:03.030 --> 00:11:05.080
+and it's going to be that directory structure.
+
+261
+00:11:05.080 --> 00:11:08.260
+Just here, we're going to add TLS or SSL,
+
+262
+00:11:08.260 --> 00:11:11.120
+and add that encryption layer to make it more secure.
+
+263
+00:11:11.120 --> 00:11:15.680
+And next, we have the remote desktop protocol or RDP.
+
+264
+00:11:15.680 --> 00:11:18.480
+It operates on port 3389.
+
+265
+00:11:18.480 --> 00:11:19.500
+Now, be careful here,
+
+266
+00:11:19.500 --> 00:11:22.180
+because you'll notice 3389
+
+267
+00:11:22.180 --> 00:11:24.440
+looks a lot like 389
+
+268
+00:11:24.440 --> 00:11:25.590
+to use for LDAP,
+
+269
+00:11:25.590 --> 00:11:28.491
+and students will commonly mix these two up.
+
+270
+00:11:28.491 --> 00:11:32.640
+RDP is a proprietary protocol developed by Microsoft,
+
+271
+00:11:32.640 --> 00:11:35.830
+and it allows the user to a have a graphical interface,
+
+272
+00:11:35.830 --> 00:11:38.190
+and be able to remotely control another computer
+
+273
+00:11:38.190 --> 00:11:39.270
+over the network.
+
+274
+00:11:39.270 --> 00:11:41.270
+So, with SSH and Telnet,
+
+275
+00:11:41.270 --> 00:11:44.400
+we have this command line text-based information.
+
+276
+00:11:44.400 --> 00:11:48.170
+But with RDP, I actually can look at this thing remotely.
+
+277
+00:11:48.170 --> 00:11:50.560
+As you can see here, I have an Android phone
+
+278
+00:11:50.560 --> 00:11:54.130
+that's actually RDP in through the web browser,
+
+279
+00:11:54.130 --> 00:11:56.120
+and is able to see this Windows machine
+
+280
+00:11:56.120 --> 00:11:57.910
+and control it remotely.
+
+281
+00:11:57.910 --> 00:12:00.560
+This allows users with RDP client software
+
+282
+00:12:00.560 --> 00:12:03.660
+to be able to access their computer from anywhere they are,
+
+283
+00:12:03.660 --> 00:12:05.790
+over the internet or inside the network,
+
+284
+00:12:05.790 --> 00:12:07.920
+over port 3389.
+
+285
+00:12:09.000 --> 00:12:12.990
+Next, we have the Session Initiation Protocol, or SIP.
+
+286
+00:12:12.990 --> 00:12:16.370
+And SIP operates on port 5060
+
+287
+00:12:16.370 --> 00:12:18.510
+and 5061.
+
+288
+00:12:18.510 --> 00:12:20.250
+This is going to provide the signaling
+
+289
+00:12:20.250 --> 00:12:22.630
+and controlling media communication sessions
+
+290
+00:12:22.630 --> 00:12:24.190
+for applications.
+
+291
+00:12:24.190 --> 00:12:27.790
+This is used in VOIP, video calls, and voice calls,
+
+292
+00:12:27.790 --> 00:12:29.440
+as well as instant messaging.
+
+293
+00:12:29.440 --> 00:12:31.930
+And so, if you're using something like Skype
+
+294
+00:12:31.930 --> 00:12:34.070
+or a VOIP service in your work,
+
+295
+00:12:34.070 --> 00:12:35.790
+This is probably using SIP
+
+296
+00:12:35.790 --> 00:12:37.750
+to initiate that communication.
+
+297
+00:12:39.240 --> 00:12:41.990
+Now, that was a lot of information.
+
+298
+00:12:41.990 --> 00:12:45.730
+And the next two slides I have for you are charts.
+
+299
+00:12:45.730 --> 00:12:48.530
+So if you print out these two charts and you memorize them,
+
+300
+00:12:48.530 --> 00:12:50.310
+you're going to be good for testing.
+
+301
+00:12:50.310 --> 00:12:52.730
+This is one of those things that I would data dump
+
+302
+00:12:52.730 --> 00:12:54.240
+when you sit down at the exam
+
+303
+00:12:54.240 --> 00:12:56.330
+on that piece of paper they gave you.
+
+304
+00:12:56.330 --> 00:12:59.080
+This is going to have all of your services,
+
+305
+00:12:59.080 --> 00:13:01.110
+a short description of what they are,
+
+306
+00:13:01.110 --> 00:13:02.340
+and the port number.
+
+307
+00:13:02.340 --> 00:13:06.120
+And you can see here, going from FTP down to POP3
+
+308
+00:13:06.120 --> 00:13:08.230
+is ports 20 through 110.
+
+309
+00:13:08.230 --> 00:13:09.700
+And on the next slide,
+
+310
+00:13:09.700 --> 00:13:11.470
+I have NTP through SIP,
+
+311
+00:13:11.470 --> 00:13:15.810
+which is ports 123 down to 5061.
+
+312
+00:13:15.810 --> 00:13:18.040
+If you can remember both of these slides,
+
+313
+00:13:18.040 --> 00:13:20.290
+that's going to be a great summary of this lecture,
+
+314
+00:13:20.290 --> 00:13:22.900
+and help you get lots of points come testing.
+

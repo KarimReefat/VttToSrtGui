@@ -1,0 +1,123 @@
+1
+00:00:01,540 --> 00:00:07,630
+In the previous lesson what we did is we looked at some of the formatting options that we have and we
+
+2
+00:00:07,630 --> 00:00:13,330
+made some formatting changes to a document so let's do this let's go into tips and tricks right here
+
+3
+00:00:13,570 --> 00:00:15,150
+and there it is right here.
+
+4
+00:00:15,190 --> 00:00:16,200
+It's going to open that up.
+
+5
+00:00:16,420 --> 00:00:18,530
+So this is kind of how we left it.
+
+6
+00:00:18,580 --> 00:00:24,340
+So we have this up here we have the bullet points down there but down here as we go down further we
+
+7
+00:00:24,340 --> 00:00:30,500
+made some changes here playing around we changed the text over here playing around again.
+
+8
+00:00:30,550 --> 00:00:33,810
+And let's go ahead and say that we wish we hadn't done this.
+
+9
+00:00:33,820 --> 00:00:39,640
+Now this can be further compounded if the document is shared with somebody else and you're both doing
+
+10
+00:00:39,640 --> 00:00:45,070
+edits on it and somebody messed up and you say I'd like to take it back some.
+
+11
+00:00:45,070 --> 00:00:48,640
+But since I've closed it and reopened it how do I change things.
+
+12
+00:00:48,670 --> 00:00:57,130
+I actually check this out go up to the Word file and go down to see revision history right there.
+
+13
+00:00:57,130 --> 00:01:01,780
+Now what you've got here are the revisions that had been made to this document.
+
+14
+00:01:01,780 --> 00:01:08,380
+Now we can go into detailed revisions here and you can see just about everything that's been going on
+
+15
+00:01:08,380 --> 00:01:09,550
+with this document.
+
+16
+00:01:09,550 --> 00:01:15,490
+Now what I'm more concerned with is coming down here is kind of getting rid of this stuff that we did
+
+17
+00:01:16,210 --> 00:01:18,770
+but leaving the overall formatting alone.
+
+18
+00:01:18,960 --> 00:01:24,610
+What I need to do is just kind of back myself through these if I come to this one right here and I come
+
+19
+00:01:24,610 --> 00:01:27,670
+back down here it looks like I got it.
+
+20
+00:01:27,700 --> 00:01:29,940
+It's like unlimited undo.
+
+21
+00:01:30,190 --> 00:01:35,180
+And if more than one person were working on it you'd see their name up here too.
+
+22
+00:01:35,350 --> 00:01:36,480
+You decide you'd like it.
+
+23
+00:01:36,490 --> 00:01:37,740
+This is where we left off.
+
+24
+00:01:37,750 --> 00:01:38,910
+We're happy with it.
+
+25
+00:01:38,920 --> 00:01:40,790
+Didn't like the other changes we made.
+
+26
+00:01:40,870 --> 00:01:43,960
+Restore this revision.
+
+27
+00:01:44,020 --> 00:01:45,460
+That's actually pretty cool.
+
+28
+00:01:45,460 --> 00:01:47,470
+Now this works in presentations.
+
+29
+00:01:47,470 --> 00:01:48,390
+It works and forms.
+
+30
+00:01:48,400 --> 00:01:56,050
+It works and well anything in Google Apps for business being able to change history in a sense revision
+
+31
+00:01:56,050 --> 00:02:00,920
+history on any type of document is a very valuable tool to have.

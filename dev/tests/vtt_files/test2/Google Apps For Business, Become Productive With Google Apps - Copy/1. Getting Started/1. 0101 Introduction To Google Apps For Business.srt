@@ -1,0 +1,131 @@
+1
+00:00:01,960 --> 00:00:07,330
+Greetings My name is Andy Anderson and I'm going to share with you the secret to my success.
+
+2
+00:00:07,330 --> 00:00:12,070
+Now if you've taken any of my courses with infinite skills you might know me is like the Photoshop dude
+
+3
+00:00:12,280 --> 00:00:15,820
+or Illustrator graphics art design animation things like that.
+
+4
+00:00:15,820 --> 00:00:16,910
+That's what I do.
+
+5
+00:00:17,320 --> 00:00:22,630
+But the secret to my success to keep me organized is a series and set of programs that we're going to
+
+6
+00:00:22,630 --> 00:00:26,610
+talk about called Google Apps for business.
+
+7
+00:00:26,620 --> 00:00:33,070
+Now my wife Bonny is just convinced that she keeps me organized and she's probably right about that.
+
+8
+00:00:33,130 --> 00:00:37,620
+But another side of my organization is Google Apps for business so what are we going to do.
+
+9
+00:00:37,750 --> 00:00:39,310
+Well we're going to start from scratch.
+
+10
+00:00:39,340 --> 00:00:41,500
+Tell you how to set it up but what are they.
+
+11
+00:00:41,770 --> 00:00:48,170
+Well you have things like presentations documents spreadsheets forms all kinds of things.
+
+12
+00:00:48,180 --> 00:00:51,620
+Now let me throw another name into the mix here if you'll let me.
+
+13
+00:00:51,640 --> 00:00:59,620
+Microsoft Word PowerPoint Excel if you know those programs you have a leg up on learning Google Apps
+
+14
+00:00:59,620 --> 00:01:05,860
+for business and your response might be well OK and then why do I need Google Apps for business.
+
+15
+00:01:05,860 --> 00:01:07,220
+I've got Excel.
+
+16
+00:01:07,240 --> 00:01:09,820
+I don't need to learn another spreadsheet program.
+
+17
+00:01:09,910 --> 00:01:12,700
+Google Apps for business is amazing.
+
+18
+00:01:12,700 --> 00:01:15,870
+Now we are going to handle it as if we are the administrators.
+
+19
+00:01:15,880 --> 00:01:19,150
+In other words setting up users and accounts and all that kind of stuff.
+
+20
+00:01:19,170 --> 00:01:20,590
+I want to tell you something.
+
+21
+00:01:20,670 --> 00:01:23,950
+Any time any place anywhere.
+
+22
+00:01:23,950 --> 00:01:28,330
+I have a problem I'm working on a spreadsheet is going I don't know spreadsheets I'm not a spreadsheet
+
+23
+00:01:28,330 --> 00:01:31,790
+guy but Bonnies a spreadsheet gal.
+
+24
+00:01:31,900 --> 00:01:36,240
+So I tell you what she's in London and I'm in Wichita Kansas.
+
+25
+00:01:36,280 --> 00:01:37,410
+Doesn't matter.
+
+26
+00:01:37,660 --> 00:01:39,010
+We share the document.
+
+27
+00:01:39,010 --> 00:01:41,360
+We're both looking at the same document.
+
+28
+00:01:41,410 --> 00:01:43,270
+I see changes she makes.
+
+29
+00:01:43,270 --> 00:01:45,950
+She sees the changes that I make.
+
+30
+00:01:46,060 --> 00:01:47,470
+Total organization.
+
+31
+00:01:47,470 --> 00:01:51,610
+That's with Google Apps for business is and I'm about out of breath.
+
+32
+00:01:51,850 --> 00:01:53,230
+So let's go ahead and get started.
+
+33
+00:01:53,230 --> 00:01:54,340
+What do you say.

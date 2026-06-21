@@ -1,0 +1,226 @@
+WEBVTT
+
+00:01.460 --> 00:04.660
+Go into the admin Council go ahead and sign in.
+
+00:04.670 --> 00:06.760
+Let's talk a little bit more about users.
+
+00:06.770 --> 00:09.140
+Now we've already added one user.
+
+00:09.190 --> 00:11.780
+And let's talk a little bit more about how we do that.
+
+00:11.810 --> 00:18.440
+So if we come down here and click users you can see we do have one Bonnie Lloyd she's never logged in
+
+00:18.440 --> 00:18.800
+yet.
+
+00:19.010 --> 00:21.680
+And you got me those are the two users.
+
+00:22.100 --> 00:24.650
+But chances are you're going to have more than two.
+
+00:24.650 --> 00:32.060
+So let's come up over here and click right here and we have three options invite add them manually or
+
+00:32.060 --> 00:35.180
+use a C S V Palma's separated value file.
+
+00:35.210 --> 00:37.140
+Let's look at each one of these.
+
+00:37.160 --> 00:38.520
+Let's start with inviting.
+
+00:38.810 --> 00:42.490
+So I click here to invite users click Continue.
+
+00:42.500 --> 00:44.110
+Who do you want to invite.
+
+00:44.120 --> 00:48.720
+Chances are there probably is a whatever dotcom out there with somebody named James.
+
+00:48.800 --> 00:51.970
+You can add three if you want to add more you can.
+
+00:51.970 --> 00:53.280
+Now let's assume we want to send.
+
+00:53.300 --> 00:54.600
+So click continue.
+
+00:55.570 --> 01:01.390
+And you'll see the letter they will get an email with this wording and they'll have a link to click
+
+01:01.390 --> 01:06.520
+to come to set it up and you can add as many of these as you want.
+
+01:06.520 --> 01:08.670
+Let's not send this one.
+
+01:08.780 --> 01:09.590
+The next one.
+
+01:09.590 --> 01:10.430
+We've already done.
+
+01:10.430 --> 01:16.130
+But let's look at it again and manually type in first name.
+
+01:16.130 --> 01:23.900
+James Lloyd my father in law James that real Andy dotcom and don't forget about the password thing.
+
+01:23.900 --> 01:25.060
+Give them a password.
+
+01:25.070 --> 01:30.860
+But I would strongly recommend for security that you require the user to change the password at the
+
+01:30.860 --> 01:35.400
+next sign that you've already done this one once we did it with Bonnie.
+
+01:35.460 --> 01:37.200
+Let's look at the last one.
+
+01:37.230 --> 01:42.900
+You have a large company and you don't want to add these things one at a time which frankly I don't
+
+01:42.900 --> 01:43.870
+blame you.
+
+01:44.130 --> 01:51.470
+So let's come back up here again one more time go into this one add several users with see as free fall.
+
+01:51.590 --> 01:54.070
+It gives you an example.
+
+01:54.110 --> 01:59.300
+So you're looking at something that was done probably in something like Microsoft Excel and it has to
+
+01:59.300 --> 02:02.780
+be in this format or it won't work.
+
+02:02.780 --> 02:04.400
+Let me show you one that I've done.
+
+02:04.760 --> 02:10.770
+As you can see I've got an e-mail address for each one the first name a last name and password.
+
+02:10.790 --> 02:13.370
+Those fields must be filled out correctly.
+
+02:13.400 --> 02:19.130
+Now we need to save this as a C S V not an Excel spreadsheet file and you can see I've already done
+
+02:19.130 --> 02:20.810
+that right here CXXVI.
+
+02:20.840 --> 02:27.640
+So you would go to the word final and say Save As and just make sure you have this option selected comma
+
+02:27.700 --> 02:29.390
+separated values.
+
+02:29.440 --> 02:30.610
+We've done that.
+
+02:30.670 --> 02:31.850
+Let's get out of here.
+
+02:31.900 --> 02:32.610
+Let's go back.
+
+02:33.520 --> 02:34.840
+Let me come down here.
+
+02:35.020 --> 02:36.220
+You've got some options.
+
+02:36.220 --> 02:42.850
+Number one create new accounts for the e-mail addresses is a default obviously update existing accounts
+
+02:42.850 --> 02:44.320
+with new names and passwords.
+
+02:44.320 --> 02:45.480
+That's interesting.
+
+02:45.490 --> 02:50.040
+In other words you can use the C S V file to update existing accounts.
+
+02:50.230 --> 02:54.700
+And I really recommend for security that you take that one right there require a password.
+
+02:54.700 --> 02:55.850
+Let's get our fight.
+
+02:56.260 --> 02:57.610
+And that would be in users.
+
+02:57.610 --> 02:58.950
+There it is right there.
+
+03:01.350 --> 03:04.690
+Upload and continue and cross your fingers.
+
+03:04.700 --> 03:05.450
+Now there they are.
+
+03:05.580 --> 03:10.790
+If there were anything wrong with them it would tell you confirm and upload.
+
+03:10.830 --> 03:15.150
+Now it's just telling me it could take a bit of time but we can leave this page if we want to.
+
+03:16.370 --> 03:17.180
+And there they are.
+
+03:17.180 --> 03:18.640
+I didn't think it would take very long.
+
+03:18.920 --> 03:20.890
+So three different ways to work with them.
+
+03:20.940 --> 03:24.890
+If you don't want them anymore you can select them right here.
+
+03:25.770 --> 03:32.670
+And come up here and say delete but when you do everything that they have done is going to be gone.
+
+03:33.040 --> 03:35.990
+So it's telling you I want to make sure you know this.
+
+03:36.100 --> 03:38.950
+So you can't delete them until you say yes I understand.
+
+03:38.950 --> 03:43.150
+All documents all e-mail all calendars will be deleted.
+
+03:43.150 --> 03:50.620
+Then you can click down here so they give you another option is to transfer the documents of these users
+
+03:50.620 --> 03:53.550
+to another account before you do this.
+
+03:53.560 --> 03:54.490
+Now we don't have to worry.
+
+03:54.490 --> 03:59.130
+There is nothing in there we can delete them and take about a second or two.
+
+03:59.310 --> 04:02.940
+And now we're back just to Bonnie in me working with users.
+
+04:02.940 --> 04:05.820
+We're going to do a whole lot more with users as we go on.
+
+04:05.940 --> 04:09.810
+But working with users we can add them in three different ways.
+
+04:09.810 --> 04:10.200
+Up to you.

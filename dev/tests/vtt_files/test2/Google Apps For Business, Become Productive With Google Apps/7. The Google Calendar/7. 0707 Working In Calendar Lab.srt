@@ -1,0 +1,203 @@
+1
+00:00:01,470 --> 00:00:07,860
+In another chapter we talked about G-mail labs and some of the functionality you can add.
+
+2
+00:00:07,890 --> 00:00:10,480
+Well there's a calendar labs too if you want to use it.
+
+3
+00:00:10,530 --> 00:00:14,510
+Let me go in to see A-L calendar dot Google dot com.
+
+4
+00:00:14,860 --> 00:00:16,490
+That's just one more way to get to it.
+
+5
+00:00:16,630 --> 00:00:18,850
+And I'm already signed in so here we go.
+
+6
+00:00:18,960 --> 00:00:23,970
+Go up to your settings right here and go down to lamp's Reiner.
+
+7
+00:00:24,170 --> 00:00:27,570
+Now in labs you have these different things.
+
+8
+00:00:27,680 --> 00:00:29,560
+Hide morning and night.
+
+9
+00:00:29,570 --> 00:00:30,420
+What is that.
+
+10
+00:00:30,650 --> 00:00:35,750
+If you get a lot of people that are basically asking you and inviting you to things you can kind of
+
+11
+00:00:35,750 --> 00:00:40,910
+disable areas that you would never go to a meeting in gentle reminders.
+
+12
+00:00:41,000 --> 00:00:44,290
+Here's another one for automatically declining events.
+
+13
+00:00:44,440 --> 00:00:50,150
+And how many people invite you to an event at 3:00 o'clock in the morning so you could block off areas
+
+14
+00:00:50,350 --> 00:00:53,370
+and some people do get 20 or 30 invites a day.
+
+15
+00:00:53,390 --> 00:00:57,200
+They're very popular people and they say you know well if it's this time if it's in the middle of the
+
+16
+00:00:57,200 --> 00:00:59,150
+night Sunday whatever it is they should time.
+
+17
+00:00:59,180 --> 00:01:01,880
+I would never go to a meeting just declined the event.
+
+18
+00:01:01,880 --> 00:01:08,750
+For me this one is enabled by default because that's a lab feature that's part of Callendar now that
+
+19
+00:01:08,750 --> 00:01:12,310
+allows us to do things like attach spreadsheets and presentations.
+
+20
+00:01:12,310 --> 00:01:15,290
+This one is kind of interesting let's enable one or two of these.
+
+21
+00:01:15,380 --> 00:01:20,040
+This one allows you to create all those little crazy characters if you want to use them.
+
+22
+00:01:20,060 --> 00:01:22,770
+Who's my one on one with.
+
+23
+00:01:23,060 --> 00:01:28,300
+You've got a year view background image free or busy jump today.
+
+24
+00:01:28,340 --> 00:01:29,350
+Let's do that one too.
+
+25
+00:01:30,350 --> 00:01:34,250
+And this one tells you kind of like a countdown clock when your next meeting is.
+
+26
+00:01:34,250 --> 00:01:35,210
+I like that one.
+
+27
+00:01:35,360 --> 00:01:38,140
+Then we do one more World Clock.
+
+28
+00:01:38,260 --> 00:01:42,740
+Now you've got to do is click Save notice what happened over here.
+
+29
+00:01:42,810 --> 00:01:43,920
+We now have some new things.
+
+30
+00:01:43,950 --> 00:01:47,700
+Now we can also add tasks if we want to that would push that stuff down.
+
+31
+00:01:47,700 --> 00:01:50,000
+I'm going to turn taps off so you can see this.
+
+32
+00:01:50,280 --> 00:01:53,550
+Here's the event flare if you want to use it.
+
+33
+00:01:53,550 --> 00:01:54,930
+There you go.
+
+34
+00:01:54,930 --> 00:01:58,950
+Just click on one of those and it will add one of those to your event.
+
+35
+00:01:58,970 --> 00:02:00,750
+It's not do that please.
+
+36
+00:02:00,840 --> 00:02:04,770
+Next meeting is in 21 hours and 48 minutes.
+
+37
+00:02:04,770 --> 00:02:08,620
+It's a production meeting this one right here jumped today.
+
+38
+00:02:08,760 --> 00:02:10,950
+I need to see what I'm doing one year from today.
+
+39
+00:02:11,590 --> 00:02:13,020
+And then jump right here.
+
+40
+00:02:13,080 --> 00:02:13,590
+Nothing.
+
+41
+00:02:13,710 --> 00:02:14,640
+Isn't that amazing.
+
+42
+00:02:14,850 --> 00:02:20,940
+Oh incidentally if you do want to go back to today just click here and then you have a will clock just
+
+43
+00:02:20,940 --> 00:02:21,510
+like that.
+
+44
+00:02:21,600 --> 00:02:24,260
+I do business in the U.K. So that's a good one for me.
+
+45
+00:02:24,300 --> 00:02:28,610
+I do business on the West Coast of the United States which is a couple of hours difference than me.
+
+46
+00:02:28,710 --> 00:02:36,250
+So I can set these up just by going into settings right here and get just about anything you want and
+
+47
+00:02:36,290 --> 00:02:39,710
+any time you want to get rid of them you say what was I thinking.
+
+48
+00:02:39,750 --> 00:02:43,460
+You can go right back in the lab and turn them off if you want to.
+
+49
+00:02:43,470 --> 00:02:46,960
+Or you can click right there just like with G-mail.
+
+50
+00:02:46,980 --> 00:02:53,070
+This lab adds functionality to your calendar and since it's your calendar what you have here is personal
+
+51
+00:02:53,070 --> 00:02:53,350
+to you.

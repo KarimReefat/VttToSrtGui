@@ -1,0 +1,295 @@
+1
+00:00:01,440 --> 00:00:06,920
+It's time to talk about the heart of the system the heart of the system to me is Google Drive.
+
+2
+00:00:07,030 --> 00:00:11,910
+Now an analogy I can give you for Google Drive if you're not already comfortable with this would be
+
+3
+00:00:11,910 --> 00:00:13,590
+something like Dropbox.
+
+4
+00:00:13,590 --> 00:00:15,660
+I have a program called Dropbox.
+
+5
+00:00:15,660 --> 00:00:16,440
+I like it.
+
+6
+00:00:16,440 --> 00:00:21,530
+It's a cloud based system that I can put stuff in and then I can get out anywhere I want.
+
+7
+00:00:21,540 --> 00:00:23,940
+I have clients actually all around the country.
+
+8
+00:00:23,940 --> 00:00:28,950
+The United States I have clients around the planet and if they have a Dropbox account.
+
+9
+00:00:29,010 --> 00:00:32,670
+Cool thing about that is all they have to do is go to the dropbox that put something in they can get
+
+10
+00:00:32,670 --> 00:00:37,230
+it out or I can be in a coffee shop somewhere and start working on an article.
+
+11
+00:00:37,230 --> 00:00:42,240
+Google Drive is the heart of the system because we get to put our stuff in that drive.
+
+12
+00:00:42,630 --> 00:00:48,990
+But it takes it a step be on something like Dropbox because of our ability to do calendars and work
+
+13
+00:00:48,990 --> 00:00:51,920
+with programs and do just about anything we want to.
+
+14
+00:00:51,930 --> 00:00:53,940
+But we have to install something.
+
+15
+00:00:53,940 --> 00:01:03,590
+Now if you are in Chrome or explorer who cares go up here and type in Dr dot Google dot com.
+
+16
+00:01:03,810 --> 00:01:07,460
+I've already done it once so it thinks knows what I want and it does.
+
+17
+00:01:07,620 --> 00:01:09,410
+Let's go ahead.
+
+18
+00:01:09,450 --> 00:01:14,480
+We've never done this before so it's going to say do you want to download the drive.
+
+19
+00:01:14,660 --> 00:01:15,340
+Yes we do.
+
+20
+00:01:15,420 --> 00:01:17,060
+So I'm going to come over here and click that button.
+
+21
+00:01:18,340 --> 00:01:23,530
+And basically what it's going to do it's going to download and you can see on the lower left hand corner
+
+22
+00:01:23,530 --> 00:01:27,620
+of my screen it is installing a application at DMG.
+
+23
+00:01:27,640 --> 00:01:32,720
+Since I'm on a Mac right now be if you were on a Windows system install Google Drive.
+
+24
+00:01:32,860 --> 00:01:34,400
+Now I know where that is.
+
+25
+00:01:34,450 --> 00:01:36,310
+If I come down here let me show you something.
+
+26
+00:01:36,310 --> 00:01:41,130
+I'm on a Mac again right now but I can go into my downloads right here.
+
+27
+00:01:42,730 --> 00:01:46,300
+And there it is right there.
+
+28
+00:01:46,380 --> 00:01:50,370
+It's going to open it verify it check it.
+
+29
+00:01:50,370 --> 00:01:56,560
+All I have to do is drag it into the applications icon and it will make a copy of it.
+
+30
+00:01:58,400 --> 00:01:59,660
+This is not very hard.
+
+31
+00:01:59,660 --> 00:02:01,730
+It is not rocket science.
+
+32
+00:02:01,730 --> 00:02:07,280
+OK let's just stick it in here somewhere amongst all my other junk and stuff.
+
+33
+00:02:09,870 --> 00:02:11,910
+Let's come down here and there it is.
+
+34
+00:02:11,940 --> 00:02:12,710
+Run it.
+
+35
+00:02:13,930 --> 00:02:18,350
+Now you see it's an application downloaded from the Internet and it's just saying Are you really sure
+
+36
+00:02:18,350 --> 00:02:19,370
+you want to do this.
+
+37
+00:02:19,610 --> 00:02:20,200
+Yeah I do.
+
+38
+00:02:20,480 --> 00:02:21,570
+I know what I'm doing.
+
+39
+00:02:21,830 --> 00:02:26,650
+Actually I have no clue what I'm doing but the Google Drive for your computer.
+
+40
+00:02:26,660 --> 00:02:28,060
+Let's get started.
+
+41
+00:02:28,070 --> 00:02:29,470
+Very easy set up here.
+
+42
+00:02:29,900 --> 00:02:34,140
+Let's go ahead and sign in now we're going to sign in with our e-mail account.
+
+43
+00:02:34,280 --> 00:02:37,960
+So I'm going to come down here and I'm going to sign in with real handycam.
+
+44
+00:02:38,150 --> 00:02:44,340
+That's the one I set up with this account.
+
+45
+00:02:44,360 --> 00:02:48,830
+Click the next button and it's telling us it's creating a folder called Google Drive.
+
+46
+00:02:48,850 --> 00:02:54,650
+Now you can also right now go ahead and download Google Play or the app store and get the app for your
+
+47
+00:02:54,650 --> 00:02:55,110
+iPhone.
+
+48
+00:02:55,120 --> 00:02:55,760
+Things like that.
+
+49
+00:02:55,760 --> 00:02:57,280
+We'll skip that part for now.
+
+50
+00:02:57,560 --> 00:02:58,930
+Let's go ahead and just click next.
+
+51
+00:02:58,960 --> 00:03:00,260
+It's telling us what's going to do.
+
+52
+00:03:00,260 --> 00:03:06,950
+Now we can go into advanced setup right here and we can only sync specific folders if you want to do
+
+53
+00:03:06,950 --> 00:03:07,390
+that.
+
+54
+00:03:07,550 --> 00:03:11,480
+Let's just go ahead and start saying OK.
+
+55
+00:03:11,530 --> 00:03:17,410
+We have to enter our double top secret system password which is different than your sign on password
+
+56
+00:03:17,410 --> 00:03:17,950
+with Google
+
+57
+00:03:20,890 --> 00:03:22,160
+here where did that come from.
+
+58
+00:03:22,250 --> 00:03:28,370
+Well earlier in these lessons in another chapter I added an attachment to a document and it knew that
+
+59
+00:03:28,370 --> 00:03:31,780
+so it put that in there but everything else is going to leave it up to me.
+
+60
+00:03:31,790 --> 00:03:38,360
+You'll notice that if I come up here I have options under this icon right up there to open the drive
+
+61
+00:03:38,360 --> 00:03:38,780
+folder.
+
+62
+00:03:38,780 --> 00:03:39,890
+It's already open.
+
+63
+00:03:39,890 --> 00:03:40,450
+Visit.
+
+64
+00:03:40,520 --> 00:03:41,720
+Few items.
+
+65
+00:03:41,720 --> 00:03:44,650
+It's telling me I have 30 gigabytes that I can use.
+
+66
+00:03:44,810 --> 00:03:49,130
+I can get more storage costs money if you want but you can get more storage and preferences.
+
+67
+00:03:49,130 --> 00:03:51,280
+We'll talk more about these things as we move on.
+
+68
+00:03:51,470 --> 00:03:54,860
+What we've done is we've loaded the drive the heart.
+
+69
+00:03:54,890 --> 00:03:58,240
+In my opinion of the entire system and that's how you do it.
+
+70
+00:03:58,290 --> 00:04:03,770
+Now if you're running on a Windows system since we're running through the Chrome browser basically you're
+
+71
+00:04:03,770 --> 00:04:05,320
+going to see the same thing.
+
+72
+00:04:05,510 --> 00:04:07,710
+You will be asked to download a file.
+
+73
+00:04:07,820 --> 00:04:09,790
+You'll open the file to set the drive up.
+
+74
+00:04:09,830 --> 00:04:10,950
+You're in the same place.

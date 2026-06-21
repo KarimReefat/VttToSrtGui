@@ -1,0 +1,99 @@
+1
+00:00:01,540 --> 00:00:05,080
+Once you've created a presentation you have a lot of options.
+
+2
+00:00:05,080 --> 00:00:10,150
+I mean we could actually use it in a presentation mode where you would hook up your computer say for
+
+3
+00:00:10,150 --> 00:00:15,760
+example to a projector which is how I do it and then use your computer to control the projection on
+
+4
+00:00:15,760 --> 00:00:17,180
+to say screen.
+
+5
+00:00:17,330 --> 00:00:19,930
+You could have people watch it on a monitor if you want it to.
+
+6
+00:00:20,290 --> 00:00:22,030
+But you also have other options.
+
+7
+00:00:22,060 --> 00:00:28,820
+For example if we go into presentations here and let's go and open up our demo if you go up to the Word
+
+8
+00:00:28,820 --> 00:00:36,040
+file on the pulled on menu you can go into e-mail as an attachment or you can go to download the ads
+
+9
+00:00:36,090 --> 00:00:38,710
+and either one will give you the same options here.
+
+10
+00:00:38,720 --> 00:00:44,150
+Number one you actually do have the ability to save this as a Microsoft PowerPoint presentation.
+
+11
+00:00:44,150 --> 00:00:49,430
+The only problem you might have is if there is a transition or something that you're doing within the
+
+12
+00:00:49,430 --> 00:00:55,760
+presentation that doesn't work with PowerPoint and with powerpoint will try to do is updated to the
+
+13
+00:00:55,760 --> 00:00:57,830
+latest thing that it has.
+
+14
+00:00:57,830 --> 00:01:05,720
+You've got PTF documents scalable vector graphics PLG and other words give me images of my presentation
+
+15
+00:01:06,070 --> 00:01:07,180
+as pian geez.
+
+16
+00:01:07,310 --> 00:01:10,470
+Jay Pegg's or just give me the text of the document.
+
+17
+00:01:10,700 --> 00:01:13,540
+So it's not just about publishing these things.
+
+18
+00:01:13,580 --> 00:01:19,520
+For example if we go into Microsoft PowerPoint see the little arrow come down here.
+
+19
+00:01:19,590 --> 00:01:25,590
+So we now have it as a PowerPoint presentation and we can see what it looks like in PowerPoint just
+
+20
+00:01:25,590 --> 00:01:27,020
+by clicking on it right here.
+
+21
+00:01:28,400 --> 00:01:33,560
+And since we didn't really do a whole lot to this it looks pretty much the same.
+
+22
+00:01:33,610 --> 00:01:38,450
+We could try to PTF or like I said just as images once you've made it.
+
+23
+00:01:38,710 --> 00:01:40,340
+It's not just about presenting it.
+
+24
+00:01:40,480 --> 00:01:45,700
+It's about maybe even downloading it as a completely different animal as they say in a different format
+
+25
+00:01:46,240 --> 00:01:46,690
+up to you.

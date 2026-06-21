@@ -1,0 +1,448 @@
+WEBVTT
+
+00:01.460 --> 00:03.130
+Welcome back everyone.
+
+00:03.140 --> 00:09.260
+Now for the last chapter or two we've been doing the technical stuff to get everything happy to make
+
+00:09.260 --> 00:10.360
+it all work.
+
+00:10.430 --> 00:16.310
+To be honest with you if you already have that done your I.T. department did it for you whatever and
+
+00:16.310 --> 00:20.660
+you're taking these lessons basically to learn how to use the programs you could actually start at this
+
+00:20.660 --> 00:21.230
+chapter.
+
+00:21.320 --> 00:22.660
+But I did want to.
+
+00:22.700 --> 00:28.970
+I felt it was important to add that information in just in case you don't have some big I.T. department
+
+00:29.060 --> 00:31.460
+and you need to know how to make it all work.
+
+00:31.460 --> 00:36.740
+Now let's start I've got chrome open Explorer Safari doesn't matter and what I'm going to do is I'm
+
+00:36.740 --> 00:40.880
+going to go up into my area here I'm going to type in Gmail.
+
+00:40.880 --> 00:43.320
+I've already done it once so it knows what I've done.
+
+00:43.520 --> 00:48.690
+Gmail dot com enter now needs to know my password obviously.
+
+00:48.700 --> 00:53.420
+But in this case since I've been signing in it already has who I am.
+
+00:53.740 --> 00:54.610
+If yours doesn't.
+
+00:54.670 --> 00:58.880
+Just type in who you want and I will sign in.
+
+00:58.920 --> 00:59.520
+Here we go.
+
+00:59.520 --> 01:02.020
+We are in Gmail now.
+
+01:02.070 --> 01:08.610
+In this first lesson I want to do is take us through the production of an email how it works.
+
+01:08.790 --> 01:11.220
+And like I said before everything is set up.
+
+01:11.220 --> 01:16.640
+You are not obligated to send email only to people who have a G-mail account with Google.
+
+01:16.650 --> 01:22.500
+It'll go anywhere just like any other email system but like Microsoft Word is supposed to Word Perfect
+
+01:22.890 --> 01:28.110
+sometimes although you're doing the same thing you're doing it a little bit differently now up here
+
+01:28.110 --> 01:30.290
+let's take a little spin around here.
+
+01:30.460 --> 01:35.360
+Up here we've got my emails that I have and I don't have very many because I just set the system up.
+
+01:35.360 --> 01:38.700
+I wanted to kind of start the whole thing from scratch for you.
+
+01:38.700 --> 01:41.370
+Over here it says I've got three emails.
+
+01:41.460 --> 01:43.200
+Now those are the three that aren't read.
+
+01:43.410 --> 01:46.150
+And just like most systems don't be bold.
+
+01:46.290 --> 01:47.260
+If you click on one.
+
+01:47.340 --> 01:52.230
+We're now down to two and I can well if I want to read this email they're all from Google.
+
+01:52.260 --> 01:57.730
+Except for this one up here we'll talk about that later if I click this button right here it does refresh.
+
+01:57.750 --> 02:01.310
+Over here you have a more button and it will allow you to mark all is read.
+
+02:01.320 --> 02:04.020
+But we have to select messages Seymore actions.
+
+02:04.020 --> 02:07.450
+So if I come on here and select this one again by clicking it right here.
+
+02:07.500 --> 02:08.570
+Now here's the thing.
+
+02:08.820 --> 02:13.230
+If you want to see more stuff up here you can select messages down here.
+
+02:13.410 --> 02:16.290
+More than one if you want to and then you can control what they do.
+
+02:16.350 --> 02:18.840
+So let's look at what we have now up here.
+
+02:18.840 --> 02:23.400
+We have a button that allows us to archive put it in the archive I don't want to get rid of it but I
+
+02:23.400 --> 02:24.980
+may want to come back to it someday.
+
+02:25.200 --> 02:30.750
+This one allows me to report it as spam this is deleting this right here allows me to move it and I
+
+02:30.750 --> 02:35.500
+can move it into some pre-set social promotions updates forum spam trash.
+
+02:35.630 --> 02:37.850
+I can create new ones if I want to.
+
+02:37.940 --> 02:43.950
+Over here are labels promotions update so I can put those labels on these particular selected emails
+
+02:44.150 --> 02:47.730
+and the more button over here allows me to mark them as unread.
+
+02:47.820 --> 02:49.040
+And why would you do that.
+
+02:49.050 --> 02:54.720
+I have many times accidentally clicked on an email that I don't really want to read right now but I
+
+02:54.720 --> 02:56.250
+don't want to think I've already read it.
+
+02:56.250 --> 03:01.080
+Let me put it that way so I can market as unread or important at the task and talk about things like
+
+03:01.080 --> 03:03.790
+tasks and contacts a little bit later.
+
+03:03.840 --> 03:06.900
+I can use stars filter messages or mute them.
+
+03:07.080 --> 03:12.140
+We over here we can scroll through them by clicking these buttons over here on settings.
+
+03:12.300 --> 03:14.120
+You have a couple of things that are kind of interesting.
+
+03:14.120 --> 03:16.580
+For example you have displayed density.
+
+03:16.710 --> 03:21.870
+Now look at comfortable and look at compact puts them closer together.
+
+03:21.870 --> 03:28.860
+I do work in a pretty large monitor so you're comfortable we can configure our inbox change settings
+
+03:28.980 --> 03:31.860
+manage the domain change a theme or get help.
+
+03:31.860 --> 03:32.850
+All that from here.
+
+03:32.850 --> 03:36.330
+But how do you send an email if you are going to send one.
+
+03:36.330 --> 03:41.270
+All you have to do is come over here and click the compose button and this is what's called the new
+
+03:41.270 --> 03:42.170
+Google look.
+
+03:42.170 --> 03:43.700
+We have a new message area.
+
+03:43.790 --> 03:50.050
+We can say to say I want to send something to Bonnie now it remembers her email addresses because I've
+
+03:50.050 --> 03:53.380
+already typed them in once so you can see I've got two options here.
+
+03:53.530 --> 03:57.280
+If you've not done this before it's very likely you'll be typing in the whole thing but the next time
+
+03:57.280 --> 03:58.160
+you won't have to.
+
+03:58.330 --> 04:00.430
+So I'm going to go into this one right here.
+
+04:00.430 --> 04:02.050
+Her G-mail account.
+
+04:02.050 --> 04:05.620
+Now I can add another one if I want to by starting to type again.
+
+04:05.650 --> 04:13.540
+We have CC's and B c C's B C C stands for blind carbon copy and what that means is if you send somebody
+
+04:13.540 --> 04:16.270
+a c c they can see everybody.
+
+04:16.270 --> 04:17.840
+The message was sent to.
+
+04:18.030 --> 04:24.060
+If you send them a blind carbon copy they can only see them they can't see who else got the message.
+
+04:24.940 --> 04:29.420
+The subject just simply a test of the system.
+
+04:29.420 --> 04:34.950
+I come down here again and start typing.
+
+04:35.070 --> 04:37.730
+Now once I have that done let's come back up here.
+
+04:37.740 --> 04:42.490
+It now says a test to the system over here you have a button to collapse it.
+
+04:42.670 --> 04:44.330
+That's down here right now.
+
+04:44.330 --> 04:46.770
+However think of this I'm going to do another message.
+
+04:46.770 --> 04:51.680
+I'm going to do it now before I send this one because there's things between both of them that are similar.
+
+04:51.780 --> 04:55.160
+I can actually come over here now and compose another one if I want to.
+
+04:55.190 --> 04:56.670
+Now let's go ahead and close this one out.
+
+04:57.990 --> 05:00.470
+Let's click this button again to bring it back out.
+
+05:00.540 --> 05:06.660
+Maximize it this button right here if you click it will allow you to go to full screen but it's still
+
+05:06.720 --> 05:08.010
+locked to the screen.
+
+05:08.010 --> 05:10.850
+In a sense if we click it again it'll take us back.
+
+05:11.100 --> 05:16.300
+If you hold the shift key down and click on that button it will pop it out for you.
+
+05:16.340 --> 05:20.980
+A lot of people like to work in a window that they can control and if we click here again it will pop
+
+05:20.980 --> 05:22.140
+it right back in.
+
+05:22.290 --> 05:26.400
+Now if we come down here obviously we have controls like any email system.
+
+05:26.610 --> 05:32.850
+I can go in and say for example double click on the word test maybe and come over here and get into
+
+05:32.850 --> 05:34.340
+my formatting options.
+
+05:34.350 --> 05:36.270
+I think most of us know what this stuff does.
+
+05:36.270 --> 05:42.600
+We have formatting alignment bullets and numbering indenting quotes or remove formatting.
+
+05:42.600 --> 05:45.270
+Now we can turn that on or off just by clicking here.
+
+05:45.300 --> 05:51.510
+We're going to get into attachments later but we can attach files we can insert files using Google Drive.
+
+05:51.720 --> 05:56.280
+We can insert photos here is one of the advantages of using Google Chrome.
+
+05:56.490 --> 06:00.720
+You can drag and drop this stuff right into the message if you want to.
+
+06:00.720 --> 06:03.060
+Not all browsers will allow you to do that.
+
+06:03.240 --> 06:06.170
+And this button over here obviously allows us to insert a link.
+
+06:06.300 --> 06:10.610
+So if you have for example a Web site you want me to go to you'd insert it.
+
+06:10.680 --> 06:16.080
+These guys right here let me click to the right of Andy and come back down here again.
+
+06:16.170 --> 06:18.900
+These guys down here the emoticons.
+
+06:18.990 --> 06:19.860
+If you click on this.
+
+06:19.860 --> 06:21.280
+Understand these are animated.
+
+06:21.480 --> 06:22.910
+If you want to use when you can.
+
+06:22.920 --> 06:24.420
+I would suggest for business.
+
+06:24.420 --> 06:25.660
+Probably not.
+
+06:26.040 --> 06:31.400
+If you're just having fun go ahead and use one you just have to click on and there it is when you go
+
+06:31.400 --> 06:34.050
+out and get rid of that come back down here again.
+
+06:34.840 --> 06:38.430
+We have insert invitation and we'll talk about imitations later.
+
+06:38.440 --> 06:41.220
+But understand how Google Apps for business works.
+
+06:41.230 --> 06:43.550
+All this stuff is inner related.
+
+06:43.630 --> 06:48.690
+If I click this button right here to send invitation it will give me my calendar.
+
+06:48.730 --> 06:53.920
+It will allow me to insert these invitations in the calendar send people reminders.
+
+06:54.040 --> 06:55.770
+It's a great system to work with.
+
+06:55.780 --> 06:57.470
+Let's talk about that later though.
+
+06:58.260 --> 07:01.370
+And then finally over here you do have a delete button.
+
+07:01.570 --> 07:03.530
+If you don't want this one you can discard it.
+
+07:03.870 --> 07:07.110
+And if you click this little button right here you have a couple of more options.
+
+07:07.110 --> 07:09.160
+You can go into and change the label.
+
+07:09.180 --> 07:13.510
+You can default to a full screen mode if you want that plain text mode.
+
+07:13.530 --> 07:15.870
+Not all browsers support formatting.
+
+07:15.870 --> 07:20.670
+And if you know that you can say plain text you can print it and you can check spelling.
+
+07:20.820 --> 07:22.900
+Now check spelling is not a bad thing to do.
+
+07:23.100 --> 07:25.290
+Printing actually pretty straightforward.
+
+07:25.290 --> 07:29.100
+If we come up here like this it will give us a screen give us everything from the head or all the way
+
+07:29.100 --> 07:30.690
+down click print.
+
+07:30.750 --> 07:34.690
+It'll print it quick can so it still leaves it in its own tab.
+
+07:35.030 --> 07:37.570
+And if we click here we go right back again.
+
+07:37.890 --> 07:42.880
+If I click this button right here I'm saving it and closing it.
+
+07:42.930 --> 07:45.060
+No it doesn't mean that means it's draft.
+
+07:45.300 --> 07:49.240
+If I come over here into my drafts there it is right up here.
+
+07:49.410 --> 07:50.670
+If you decide later.
+
+07:50.850 --> 07:51.740
+Well you know what.
+
+07:51.750 --> 07:52.560
+I don't need this.
+
+07:52.560 --> 07:54.100
+I'm not going to send this one.
+
+07:54.330 --> 07:55.710
+I'm going to change my mind.
+
+07:55.770 --> 07:56.920
+I can click here.
+
+07:57.730 --> 08:01.450
+And then tell the computer discard the ones I have selected.
+
+08:01.600 --> 08:03.730
+Let's go back in inbox.
+
+08:03.820 --> 08:07.910
+So as you can see there's not any rocket science involved in what we're doing now.
+
+08:08.180 --> 08:14.240
+If you have ever sent an e-mail The only difference is probably the simple fact that it's slightly different
+
+08:14.390 --> 08:17.580
+than maybe sending it through your normal e-mail application.
+
+08:17.760 --> 08:19.190
+That's about it.
+
+08:19.190 --> 08:23.610
+Now if we come over here and click on my name up here we can if we want to sign up
+
+08:26.660 --> 08:30.520
+and I am now signed up sending Gmail.
+
+08:30.540 --> 08:31.760
+Like I said it's very easy.

@@ -1,0 +1,109 @@
+WEBVTT
+
+00:01.460 --> 00:06.560
+If you ever had the occasion to set up an email client or app you probably have come across the term
+
+00:06.650 --> 00:08.180
+POP and IMAP.
+
+00:08.390 --> 00:13.240
+If you are not quite sure what those terms stand for and how each one affects your email account let's
+
+00:13.250 --> 00:14.310
+talk about that.
+
+00:14.410 --> 00:20.780
+I map stands for Internet messages Access Protocol and pop stands for Post Office protocol.
+
+00:20.780 --> 00:26.240
+In other words both our e-mail protocols they allow you to do things like read emails locally using
+
+00:26.240 --> 00:32.960
+third party applications like Outlook Thunderbird Fedora Mac mail that kind of thing to set them up
+
+00:33.050 --> 00:35.110
+in Gmail is very easy.
+
+00:35.330 --> 00:38.350
+Let's go up to our settings button right here.
+
+00:41.350 --> 00:48.130
+Go into forwarding and pop I'm at but besides pop in IMAP setup you can also if you want to set up a
+
+00:48.130 --> 00:52.060
+forwarding address but I go by what kind of Google recommends here.
+
+00:52.140 --> 00:54.440
+And I actually create a filter to make that happen.
+
+00:54.520 --> 01:00.850
+Let's talk about pop First we can enable it by default it is disabled and we can enable it for all mail
+
+01:00.940 --> 01:06.550
+or all mail that arise from this point forward to you but once you do you get the ability to decide
+
+01:06.550 --> 01:09.800
+what happens to the message after it's been accessed with pop.
+
+01:09.850 --> 01:11.860
+I love this part because it's very powerful.
+
+01:12.040 --> 01:17.060
+I can come in here and say for example Mark one production's mail copy is read.
+
+01:17.260 --> 01:22.900
+So if I'm here and I'm reading it in I've got myself set up on my Apple client.
+
+01:23.080 --> 01:24.950
+I've got it on my iPhone whatever.
+
+01:25.060 --> 01:28.960
+It will market read on all those devices.
+
+01:28.960 --> 01:30.420
+That's what it's designed to do.
+
+01:30.460 --> 01:32.220
+Keep everything in order.
+
+01:32.220 --> 01:35.440
+Now I map is the one I prefer to be honest with you.
+
+01:35.590 --> 01:42.200
+You do have configuration instructions here based on which particular app you're using but I'm disable
+
+01:42.240 --> 01:43.140
+Let's turn that on.
+
+01:43.960 --> 01:49.850
+Now when I mark a message in IMAP is deleted do you want to expunge it immediately or do you want to
+
+01:49.850 --> 01:52.230
+wait for the client to update the server.
+
+01:52.340 --> 01:56.560
+Now if you click here it activates this area down here.
+
+01:56.610 --> 01:59.100
+Do you want to archive the message that's the default.
+
+01:59.320 --> 02:05.560
+You want to move to the trash or immediately delete the message for ever your folder size limits.
+
+02:05.580 --> 02:08.180
+Don't limit the number or limit the number.
+
+02:08.190 --> 02:11.910
+And basically you can choose how many are in each one of those folders.
+
+02:12.000 --> 02:18.720
+And again based on the e-mail client that you're using you have configuration instructions here on exactly
+
+02:18.720 --> 02:27.570
+how to set that up setting up IMAP or pop allows you to bring all of your e-mail into more of an organized
+
+02:27.570 --> 02:28.350
+sphere.
+
+02:28.350 --> 02:30.480
+Regardless of what device you're viewing it on.

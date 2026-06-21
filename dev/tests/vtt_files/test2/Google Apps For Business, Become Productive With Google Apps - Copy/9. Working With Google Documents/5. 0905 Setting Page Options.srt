@@ -1,0 +1,327 @@
+1
+00:00:01,530 --> 00:00:08,670
+Creating a plain document is not very difficult come up say to hear you say create document you start
+
+2
+00:00:08,760 --> 00:00:09,660
+typing.
+
+3
+00:00:09,840 --> 00:00:13,270
+But word processors do a whole lot more than that don't they.
+
+4
+00:00:13,560 --> 00:00:19,850
+Let's talk about some of the things that we can do to add some flair to our document add headers and
+
+5
+00:00:19,860 --> 00:00:21,540
+footers things like that.
+
+6
+00:00:21,570 --> 00:00:24,060
+So let's go into my drive here.
+
+7
+00:00:24,060 --> 00:00:29,230
+I'm going to go into cooking now I'm going to go into tips and tricks I want to show you something.
+
+8
+00:00:29,300 --> 00:00:36,290
+We have European conversions and that was a document I put together about how Europeans look at measuring
+
+9
+00:00:36,380 --> 00:00:39,540
+and how we look at measuring and terminology in cooking.
+
+10
+00:00:39,790 --> 00:00:44,230
+So it's about seven pages long I guess something like that but it's in Microsoft Word.
+
+11
+00:00:44,390 --> 00:00:47,340
+If I click on it it will show it to me in the viewer.
+
+12
+00:00:47,540 --> 00:00:53,130
+But here's a trick if we selected here and then come up here and go to more.
+
+13
+00:00:53,160 --> 00:00:59,970
+One of the options is open with now the default is the drive viewer which means we can see it but we
+
+14
+00:00:59,970 --> 00:01:01,540
+can't do anything to it.
+
+15
+00:01:01,770 --> 00:01:05,800
+But it also says Google Docs So what will that do.
+
+16
+00:01:06,330 --> 00:01:08,990
+If you choose it it will make a copy.
+
+17
+00:01:09,150 --> 00:01:15,480
+So we'll then have to over there one will be word and one will be a Google doc and that's exactly what
+
+18
+00:01:15,480 --> 00:01:16,420
+I want to do.
+
+19
+00:01:16,830 --> 00:01:18,070
+So don't despair.
+
+20
+00:01:18,090 --> 00:01:19,100
+You can always convert.
+
+21
+00:01:19,110 --> 00:01:25,800
+Right now let's start out by going up say for example to our file option.
+
+22
+00:01:25,800 --> 00:01:30,380
+And let's go down to page setup in page setup.
+
+23
+00:01:30,480 --> 00:01:34,690
+Even though the document has already been created I can go landscape with it.
+
+24
+00:01:34,890 --> 00:01:38,110
+I can change my paper size over here if I want to.
+
+25
+00:01:38,760 --> 00:01:40,540
+I can change the page color.
+
+26
+00:01:40,590 --> 00:01:41,280
+Let's do that.
+
+27
+00:01:41,310 --> 00:01:44,630
+Let's change the page color to something a little bit different.
+
+28
+00:01:44,670 --> 00:01:50,760
+Now most studies will show you that if you're reading something on a monitor and it's got a white background
+
+29
+00:01:50,760 --> 00:01:56,660
+with black text it creates eyestrain because of that projection of the color on paper.
+
+30
+00:01:56,670 --> 00:02:00,810
+If you're printing it that's excellent white and black is excellent because that's subtractive color
+
+31
+00:02:01,200 --> 00:02:02,510
+but an additive.
+
+32
+00:02:02,580 --> 00:02:06,570
+It actually causes eyestrain so I'm going to mute the background with just a little bit of color.
+
+33
+00:02:06,570 --> 00:02:07,930
+I think that'll be nice.
+
+34
+00:02:07,980 --> 00:02:12,720
+We can change our margins over here and we can even if we like this set it as a default the next time
+
+35
+00:02:12,720 --> 00:02:13,560
+we'll get in here.
+
+36
+00:02:13,860 --> 00:02:15,190
+I'm just going to click OK.
+
+37
+00:02:15,420 --> 00:02:17,380
+So I've given it a little bit of color.
+
+38
+00:02:17,380 --> 00:02:18,810
+It's well it's less eye strain.
+
+39
+00:02:18,810 --> 00:02:19,140
+OK.
+
+40
+00:02:19,140 --> 00:02:20,730
+So we got that done.
+
+41
+00:02:20,760 --> 00:02:27,510
+Next thing go up to the word insert on the pulldown menu and go down to say header headers appear on
+
+42
+00:02:27,510 --> 00:02:28,920
+every page.
+
+43
+00:02:29,040 --> 00:02:32,900
+So maybe I could put in something like revision 1.
+
+44
+00:02:33,030 --> 00:02:35,040
+Author Andy Anderson.
+
+45
+00:02:35,070 --> 00:02:40,510
+And if we come down into the other pages you will see there it is.
+
+46
+00:02:40,620 --> 00:02:48,570
+Now once we've got it up here we can select it we can change its color if we want to we can change its
+
+47
+00:02:48,570 --> 00:02:49,600
+size.
+
+48
+00:02:49,710 --> 00:02:55,680
+Typical word processing stuff we can put it say over on the right side as opposed to the left or we
+
+49
+00:02:55,680 --> 00:02:56,640
+can Center it.
+
+50
+00:02:56,730 --> 00:03:00,050
+Let's go back up to the word insert and go down to footer.
+
+51
+00:03:00,060 --> 00:03:05,280
+Now the thing I like about footer for example is I can come over here now and go back to the word insert
+
+52
+00:03:05,880 --> 00:03:15,660
+and go into page number and select bottom of page maybe put in a slash go back up to the word insert
+
+53
+00:03:15,660 --> 00:03:16,470
+again.
+
+54
+00:03:16,860 --> 00:03:25,310
+Page count 1 of four pages and let's stick that on the right hand side to let selected make it a little
+
+55
+00:03:25,310 --> 00:03:26,120
+bit smaller.
+
+56
+00:03:27,100 --> 00:03:28,570
+Maybe something like that.
+
+57
+00:03:28,570 --> 00:03:31,760
+Now that will be of course on all the pages.
+
+58
+00:03:31,780 --> 00:03:33,460
+There it is.
+
+59
+00:03:33,460 --> 00:03:37,330
+Last thing let's look at real quick is say we want to print this.
+
+60
+00:03:37,330 --> 00:03:42,250
+So we go up to the Word file on the pull down menu and go on to print or use the shortcut.
+
+61
+00:03:42,490 --> 00:03:46,090
+That's control P in Windows command key on a Mac.
+
+62
+00:03:46,120 --> 00:03:47,060
+And here we are.
+
+63
+00:03:47,230 --> 00:03:50,170
+Total sheets for I click the print button right here.
+
+64
+00:03:50,170 --> 00:03:53,960
+Now we're looking at the Google Chrome print engine.
+
+65
+00:03:54,190 --> 00:03:58,020
+So it's gonna look the same on a Mac or Windows basically depending on your printer.
+
+66
+00:03:58,120 --> 00:04:03,190
+I can change the printer here if I have another printer I can choose the number of pages that I want
+
+67
+00:04:03,190 --> 00:04:03,940
+to print.
+
+68
+00:04:04,000 --> 00:04:07,150
+How many copies change my margins.
+
+69
+00:04:07,150 --> 00:04:09,170
+I have a printer that does two sided.
+
+70
+00:04:09,190 --> 00:04:10,480
+That's why that's there.
+
+71
+00:04:10,660 --> 00:04:15,250
+And you can use background colors and images but I wouldn't recommend that on printing.
+
+72
+00:04:15,310 --> 00:04:20,710
+Do you really want to waste the whole cartridge of ink printing gray on the back of that piece of paper.
+
+73
+00:04:20,710 --> 00:04:21,580
+I doubt it.
+
+74
+00:04:21,910 --> 00:04:26,590
+Now you can also do this through your own print systems dialogue right here.
+
+75
+00:04:26,590 --> 00:04:31,810
+So this is going to look different for you than it would for me especially if you're on a Mac or Windows
+
+76
+00:04:31,810 --> 00:04:32,710
+system.
+
+77
+00:04:32,710 --> 00:04:34,510
+But I have the same options.
+
+78
+00:04:34,660 --> 00:04:40,990
+I can make some other changes up here say to paper number of pages I can convert it into a PTF if I
+
+79
+00:04:40,990 --> 00:04:41,810
+want to.
+
+80
+00:04:42,160 --> 00:04:47,150
+Whichever method I choose if I'm ready to print I just click the button and there you go.
+
+81
+00:04:47,350 --> 00:04:53,470
+So some simple formatting which is very wordprocessor ish combined with the ability to print it just
+
+82
+00:04:53,470 --> 00:04:54,820
+like any other word processor.

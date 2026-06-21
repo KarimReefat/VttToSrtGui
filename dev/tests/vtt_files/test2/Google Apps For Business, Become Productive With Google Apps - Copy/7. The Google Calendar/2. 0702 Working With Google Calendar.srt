@@ -1,0 +1,267 @@
+1
+00:00:01,460 --> 00:00:08,090
+In my opinion two of the things that are absolutely necessary for conducting business are dates and
+
+2
+00:00:08,090 --> 00:00:11,930
+times now a long long time ago in a world far far away.
+
+3
+00:00:11,990 --> 00:00:16,060
+People didn't have calendars they didn't have clocks obviously or watches so I couldn't say to somebody
+
+4
+00:00:16,200 --> 00:00:20,420
+maybe at my house on the fifth we're going have a meeting and it's going to be at 5:30.
+
+5
+00:00:20,900 --> 00:00:24,060
+Today we live for dates and time.
+
+6
+00:00:24,080 --> 00:00:29,810
+So in this chapter we want to talk about Google's calendar app and how it begins to bring everything
+
+7
+00:00:29,810 --> 00:00:30,770
+together.
+
+8
+00:00:30,770 --> 00:00:35,930
+If you have chrome open or Explorer or Safari whatever we're going to get up here and I'm going to type
+
+9
+00:00:35,930 --> 00:00:40,910
+in calendar got Google dot com.
+
+10
+00:00:40,910 --> 00:00:46,400
+Now I've done it once so it remembers what I did in press the return key and of course that's on a Macintosh
+
+11
+00:00:46,580 --> 00:00:51,330
+and the Enter key in Windows and someday they're going to get those key names together and make me happy.
+
+12
+00:00:52,110 --> 00:00:54,050
+You're looking at the calendar app.
+
+13
+00:00:54,120 --> 00:00:57,830
+Now if you've never signed it and it's going to ask you for your username and password.
+
+14
+00:00:57,840 --> 00:01:01,390
+I've done that once and so it remembers it and it brings it back up again.
+
+15
+00:01:01,680 --> 00:01:03,670
+Let's look at in this first lesson.
+
+16
+00:01:03,690 --> 00:01:09,780
+Just to walk through of what we have now up here we have a search area but don't forget if you click
+
+17
+00:01:09,780 --> 00:01:15,110
+this little button right here get a nice pop up that helps you out in what you're looking for.
+
+18
+00:01:15,180 --> 00:01:20,160
+Over here of course and this is in all the apps we can switch to different apps being right there I
+
+19
+00:01:20,160 --> 00:01:25,560
+click this button right here and it allows me to add an account or sign out if I want to appear I want
+
+20
+00:01:25,560 --> 00:01:28,860
+you to notice something up here to that little option right here.
+
+21
+00:01:28,860 --> 00:01:30,610
+Click that.
+
+22
+00:01:30,650 --> 00:01:38,340
+Now what that's going to ask me is do I want to allow Google Calendar to open all my web calendar links.
+
+23
+00:01:38,610 --> 00:01:39,410
+So I'm on a Mac.
+
+24
+00:01:39,410 --> 00:01:42,890
+Am I using I cal would I rather use Google Calendar.
+
+25
+00:01:42,950 --> 00:01:44,090
+That's up to you.
+
+26
+00:01:44,090 --> 00:01:47,010
+But you can change that right up here.
+
+27
+00:01:47,160 --> 00:01:51,020
+Now over here this is Brade out because we default to today's date.
+
+28
+00:01:51,060 --> 00:01:55,000
+If you want to get back to today in your in the next month you just click that button.
+
+29
+00:01:55,200 --> 00:02:01,110
+These buttons right here allow me to go back and forth based on what I've done over here for a day a
+
+30
+00:02:01,110 --> 00:02:02,290
+week a month.
+
+31
+00:02:03,040 --> 00:02:04,700
+Four days or agenda.
+
+32
+00:02:04,990 --> 00:02:06,650
+You click the more button right here.
+
+33
+00:02:06,760 --> 00:02:08,400
+You can print or refresh.
+
+34
+00:02:08,410 --> 00:02:15,010
+Don't forget that refresh thing is we're actually working with Google Calendar off the Google servers.
+
+35
+00:02:15,400 --> 00:02:16,760
+Let me show you a couple of things.
+
+36
+00:02:16,810 --> 00:02:19,290
+Underneath this little Settings button right here.
+
+37
+00:02:19,510 --> 00:02:25,000
+Number one we have that do you want a comfortable cozy or compact you've got a calendar setup option
+
+38
+00:02:25,300 --> 00:02:31,840
+settings inside of the settings general settings things like language and country.
+
+39
+00:02:31,990 --> 00:02:36,660
+Well current time zone date format and time format based on your part of the country.
+
+40
+00:02:36,930 --> 00:02:42,400
+The fault meeting last week started on what might start on Sunday but you can go Saturday or Monday
+
+41
+00:02:42,430 --> 00:02:43,500
+if you want to.
+
+42
+00:02:43,600 --> 00:02:52,090
+Working hours event dimming in past events recurring future events show weekends the fault of view.
+
+43
+00:02:52,150 --> 00:02:55,770
+I'm going to leave this at all the different settings as we work through it.
+
+44
+00:02:55,900 --> 00:02:59,040
+But I prefer the month view as my default.
+
+45
+00:02:59,120 --> 00:03:01,240
+You can change that right here.
+
+46
+00:03:01,510 --> 00:03:03,490
+Custom views location.
+
+47
+00:03:03,490 --> 00:03:05,050
+Now this is kind of neat.
+
+48
+00:03:05,080 --> 00:03:07,260
+You have a location where you live.
+
+49
+00:03:07,300 --> 00:03:12,470
+You can actually get the weather if you want to show event you have decline.
+
+50
+00:03:12,790 --> 00:03:16,060
+We have things like invitations alternate calendars.
+
+51
+00:03:16,050 --> 00:03:20,160
+We'll talk a lot about this in this chapter enable keyboard shortcuts.
+
+52
+00:03:20,350 --> 00:03:24,970
+If you've made any changes you will have to click save if you haven't and you click back.
+
+53
+00:03:25,120 --> 00:03:26,520
+It's not going to make any difference.
+
+54
+00:03:26,530 --> 00:03:27,890
+We didn't make any changes.
+
+55
+00:03:28,120 --> 00:03:30,570
+Over here we have our tasks.
+
+56
+00:03:30,600 --> 00:03:37,240
+And over here we have kind of like a mini calendar where we can click to change to different dates or
+
+57
+00:03:37,240 --> 00:03:40,000
+months if we want to up here or even years.
+
+58
+00:03:40,000 --> 00:03:42,040
+I have my calendars down here.
+
+59
+00:03:42,040 --> 00:03:47,180
+I have tasks and I have Andy Anderson other calendars.
+
+60
+00:03:47,360 --> 00:03:54,710
+Have contacts in birthdays and holidays in the United States but that's because I defined myself as
+
+61
+00:03:54,710 --> 00:03:56,340
+living in the United States.
+
+62
+00:03:56,450 --> 00:03:58,920
+They have UK holidays etc..
+
+63
+00:03:59,450 --> 00:04:05,750
+If you get into the calendar itself and click on one of the areas that represents a day or week or an
+
+64
+00:04:05,810 --> 00:04:10,310
+hour whatever you're working on you can get an event pop up and actually add to it.
+
+65
+00:04:10,310 --> 00:04:11,450
+But we'll do that later.
+
+66
+00:04:12,170 --> 00:04:17,990
+The calendar to me because it does link with everything else in Google Apps for business just gets us
+
+67
+00:04:17,990 --> 00:04:23,280
+one step closer to that organization that we crave and need to make our business efficient.

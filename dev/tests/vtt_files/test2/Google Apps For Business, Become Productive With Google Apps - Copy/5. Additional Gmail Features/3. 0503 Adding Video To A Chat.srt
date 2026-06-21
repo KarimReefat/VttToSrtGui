@@ -1,0 +1,235 @@
+1
+00:00:01,410 --> 00:00:02,820
+We can do a text chat.
+
+2
+00:00:02,820 --> 00:00:04,830
+We can even make the phone call.
+
+3
+00:00:04,830 --> 00:00:06,090
+We know how to do that.
+
+4
+00:00:06,120 --> 00:00:08,000
+How about a video chat.
+
+5
+00:00:08,020 --> 00:00:15,000
+Don't forget one thing that if you are working on phone calls text or video chats you will have to install
+
+6
+00:00:15,000 --> 00:00:17,700
+some software but it runs through the process.
+
+7
+00:00:17,820 --> 00:00:19,440
+Painless no big deal.
+
+8
+00:00:19,440 --> 00:00:21,860
+Let's say I want to do a video chat with Bonnie.
+
+9
+00:00:21,930 --> 00:00:28,110
+Now that's not really that practical because she's about 100 feet away from me in another room.
+
+10
+00:00:28,110 --> 00:00:30,750
+But let's say she's in another part of the country.
+
+11
+00:00:30,930 --> 00:00:33,870
+I want to get together with her and maybe even some other people.
+
+12
+00:00:33,990 --> 00:00:36,100
+You can have more than one person on a video chat.
+
+13
+00:00:36,220 --> 00:00:38,640
+There's a couple of ways we could maybe pull this off.
+
+14
+00:00:39,000 --> 00:00:41,100
+If I come over here I've got a write down here.
+
+15
+00:00:41,100 --> 00:00:44,800
+Now if you don't see the person you're on here just click up here and search.
+
+16
+00:00:44,950 --> 00:00:49,580
+I come over here and I hover over and get Barney Lloyd and I can chat right now.
+
+17
+00:00:49,590 --> 00:00:52,610
+But you know what this conference is going to be tomorrow.
+
+18
+00:00:52,770 --> 00:00:55,440
+And so I click here to send her an e-mail.
+
+19
+00:00:55,890 --> 00:01:01,410
+And then the e-mail subject might be something like video conference video chat and the body would say
+
+20
+00:01:01,500 --> 00:01:03,150
+we need to meet video chat.
+
+21
+00:01:03,200 --> 00:01:05,230
+9:00 a.m. tomorrow.
+
+22
+00:01:05,400 --> 00:01:10,620
+The cool thing about this when we get a calendar if you get a message that basically has a date and
+
+23
+00:01:10,620 --> 00:01:15,780
+or time in it and you click on the date or time it actually automatically puts it into your calendar
+
+24
+00:01:15,780 --> 00:01:16,680
+and will alert you.
+
+25
+00:01:16,680 --> 00:01:18,000
+I love that feature.
+
+26
+00:01:18,000 --> 00:01:18,870
+I don't have to do that.
+
+27
+00:01:18,870 --> 00:01:20,650
+I know she's waiting for this.
+
+28
+00:01:20,700 --> 00:01:22,190
+So let's go ahead and do this.
+
+29
+00:01:22,380 --> 00:01:23,810
+Let's come back over again.
+
+30
+00:01:24,060 --> 00:01:30,030
+Come over and click this little button right ear.
+
+31
+00:01:30,080 --> 00:01:32,690
+You're going to see me over in the lower right.
+
+32
+00:01:33,020 --> 00:01:36,270
+This is me and I have to now invite her.
+
+33
+00:01:36,320 --> 00:01:38,530
+That's kind of like making a phone call.
+
+34
+00:01:39,330 --> 00:01:40,850
+So let me go ahead and do the invite.
+
+35
+00:01:41,890 --> 00:01:43,470
+Now I hope she really is there.
+
+36
+00:01:45,850 --> 00:01:47,340
+That's calling her.
+
+37
+00:01:47,400 --> 00:01:51,570
+Now you can even do things up here like turn off your camera.
+
+38
+00:01:53,340 --> 00:01:54,290
+So there she is.
+
+39
+00:01:54,290 --> 00:01:56,070
+Let me go ahead and turn my camera back on again.
+
+40
+00:01:56,970 --> 00:01:58,190
+You know what the thing is here.
+
+41
+00:01:59,670 --> 00:02:04,520
+My wife is the only person I know that has a dryer sense of humor than I do and that's scary.
+
+42
+00:02:04,920 --> 00:02:09,290
+I didn't think she actually would be there trying to figure out what she was going to do.
+
+43
+00:02:09,300 --> 00:02:11,830
+That's a ceramic rabbit playing a French horn.
+
+44
+00:02:12,100 --> 00:02:18,060
+I see why she put the candle in front of it so you can really tell this is a video in that photograph
+
+45
+00:02:18,690 --> 00:02:23,860
+if the big if she was really there we could now be carrying on a conversation.
+
+46
+00:02:23,970 --> 00:02:31,830
+Also look up here get besides turning off my video if I don't want that I can mute my microphone if
+
+47
+00:02:31,830 --> 00:02:34,340
+I want to say something maybe to somebody else.
+
+48
+00:02:34,440 --> 00:02:36,020
+I don't want that person to hear it.
+
+49
+00:02:36,540 --> 00:02:39,630
+You have a button right over here for adjusting bandwidth usage.
+
+50
+00:02:40,490 --> 00:02:46,160
+Now you could have problems hopefully it won't but you could even disable HD if you have to get the
+
+51
+00:02:46,160 --> 00:02:48,220
+video working the way you want it to.
+
+52
+00:02:48,220 --> 00:02:54,200
+You have settings here of course it's for your display your microphone and your applet and you can play
+
+53
+00:02:54,200 --> 00:02:57,480
+Tests sound if you want to if you're having a problem.
+
+54
+00:02:57,490 --> 00:03:02,200
+And finally over here because I feel like I think I need to do this now I'm going to hang up on her
+
+55
+00:03:02,890 --> 00:03:03,650
+just like that.
+
+56
+00:03:03,850 --> 00:03:05,080
+Video chats are nice.
+
+57
+00:03:05,080 --> 00:03:07,460
+Course you have to be well-dressed I guess for a video chat.
+
+58
+00:03:07,750 --> 00:03:12,010
+Video chats are nice because you can actually when you get to see the person and sometimes it's a little
+
+59
+00:03:12,010 --> 00:03:14,900
+bit more personal than just a text message.

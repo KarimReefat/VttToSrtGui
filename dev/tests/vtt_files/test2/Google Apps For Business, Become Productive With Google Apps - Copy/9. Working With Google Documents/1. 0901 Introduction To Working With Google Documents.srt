@@ -1,0 +1,51 @@
+1
+00:00:01,750 --> 00:00:07,030
+In this chapter we're going wordprocessing with Google documents we're going to talk about how you create
+
+2
+00:00:07,030 --> 00:00:07,650
+them.
+
+3
+00:00:07,690 --> 00:00:10,480
+We're going to work with templates you've got thousands to choose from.
+
+4
+00:00:10,510 --> 00:00:13,550
+We can talk about how you download correctly a Google doc.
+
+5
+00:00:13,570 --> 00:00:15,230
+We'll talk about Page Options.
+
+6
+00:00:15,250 --> 00:00:19,140
+We'll talk about adding images and shapes it's something you want to do.
+
+7
+00:00:19,150 --> 00:00:21,650
+We'll talk about formatting options additional ones.
+
+8
+00:00:21,670 --> 00:00:27,760
+We'll talk about revision history which allows you to go back to revisions that you made in a document
+
+9
+00:00:27,760 --> 00:00:28,740
+even days ago.
+
+10
+00:00:28,930 --> 00:00:34,660
+We'll talk about a very powerful feature called working off line and then we'll actually revise documents
+
+11
+00:00:34,660 --> 00:00:37,360
+using chat in an interesting way to work.
+
+12
+00:00:37,360 --> 00:00:40,140
+We're going to do it all in this chapter.
+
+13
+00:00:40,390 --> 00:00:40,890
+Let's go.

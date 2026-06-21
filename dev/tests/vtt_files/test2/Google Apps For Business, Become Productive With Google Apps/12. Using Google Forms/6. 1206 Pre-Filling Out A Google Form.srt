@@ -1,0 +1,75 @@
+1
+00:00:01,420 --> 00:00:05,050
+When I'm filling out a form like maybe a survey it's got a lot of stuff in it.
+
+2
+00:00:05,050 --> 00:00:05,660
+Right.
+
+3
+00:00:06,010 --> 00:00:12,310
+What I do appreciate about the people that create the survey is filling out for me some of the obvious
+
+4
+00:00:12,310 --> 00:00:13,320
+stuff.
+
+5
+00:00:13,450 --> 00:00:19,350
+Say for example I'm doing a survey of people and I know they live in the state of Kansas.
+
+6
+00:00:19,390 --> 00:00:25,300
+Well if there's a state field right when I type in Kansas and saved them from doing it the more you
+
+7
+00:00:25,300 --> 00:00:30,770
+can do that on the survey type of forum the more likely people will stay in fill it out.
+
+8
+00:00:30,760 --> 00:00:32,310
+So let's do this let me show you this.
+
+9
+00:00:32,380 --> 00:00:35,770
+Go into forms and we're going to go into Starfire right here.
+
+10
+00:00:35,830 --> 00:00:43,180
+So if you perform open it up under responses you have an option to get pre-filled you RL.
+
+11
+00:00:43,360 --> 00:00:49,150
+If I select that what I can do is basically fill out some of the information.
+
+12
+00:00:49,210 --> 00:00:55,200
+Now in our case probably not so much on this type of forum but I do want everybody to come.
+
+13
+00:00:55,210 --> 00:01:00,920
+So if I click here when they actually get the form that will already be filled out.
+
+14
+00:01:00,930 --> 00:01:05,560
+Or they can still say no but they're getting the hint that yeah I kind of want them to come.
+
+15
+00:01:05,680 --> 00:01:09,280
+I could put something into here if I wanted to get them started.
+
+16
+00:01:09,280 --> 00:01:13,600
+I could say well most people are going to go by plane because we're traveling to the other side of the
+
+17
+00:01:13,600 --> 00:01:20,830
+planet so I'll fill that out for them creating the form in a pre-filled state maybe not so much ours
+
+18
+00:01:21,100 --> 00:01:26,560
+but long forms where you can fill things in for people can really as I've said help them stay to finish
+
+19
+00:01:26,710 --> 00:01:29,200
+the form out pre-fall forms.

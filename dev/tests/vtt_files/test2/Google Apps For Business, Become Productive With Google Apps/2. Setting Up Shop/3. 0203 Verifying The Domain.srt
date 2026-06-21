@@ -1,0 +1,235 @@
+1
+00:00:01,550 --> 00:00:08,030
+The next step that we need to do after we put our Google accounts together is we actually need to verify
+
+2
+00:00:08,030 --> 00:00:11,740
+our domain to prove we have legal use to use it.
+
+3
+00:00:11,750 --> 00:00:15,400
+Now I've gotten out of the admin Council and I did that on purpose.
+
+4
+00:00:15,410 --> 00:00:16,600
+How do you get back in.
+
+5
+00:00:16,670 --> 00:00:22,470
+You will receive an email saying welcome to google account for business and you can click here anytime
+
+6
+00:00:22,580 --> 00:00:24,460
+and get back into your admin account.
+
+7
+00:00:24,770 --> 00:00:27,590
+But what if you forget that or you just misplace it.
+
+8
+00:00:27,590 --> 00:00:29,090
+Emails can get misplaced.
+
+9
+00:00:29,120 --> 00:00:37,300
+Do this go into chrome or Safari Explorer or whatever and come up here and type in admin HDMI and Dot
+
+10
+00:00:37,550 --> 00:00:38,690
+Google dot com.
+
+11
+00:00:38,690 --> 00:00:41,330
+Now I've done it more than once it remembers it.
+
+12
+00:00:41,360 --> 00:00:44,920
+Type in the email you created when you put this together.
+
+13
+00:00:44,960 --> 00:00:52,540
+That for me would be Andy at real landie dotcom type in your password and go ahead and sign in.
+
+14
+00:00:52,540 --> 00:00:56,700
+Now you can choose to stay signed in if you want to.
+
+15
+00:00:56,720 --> 00:01:01,930
+The next thing that we need to do is verify our domain right here.
+
+16
+00:01:01,940 --> 00:01:03,920
+Now it might say set up.
+
+17
+00:01:04,070 --> 00:01:08,210
+If it does and you click it the next thing it will say is verify domain.
+
+18
+00:01:08,210 --> 00:01:10,430
+I'm going to go ahead and verify my domain.
+
+19
+00:01:10,430 --> 00:01:14,450
+Now what this means is do I have legal use of that domain.
+
+20
+00:01:14,450 --> 00:01:15,350
+I have to prove it.
+
+21
+00:01:15,350 --> 00:01:17,110
+Begin verification.
+
+22
+00:01:17,270 --> 00:01:19,470
+You have a couple of methods.
+
+23
+00:01:19,670 --> 00:01:21,590
+You have the recommended method.
+
+24
+00:01:21,590 --> 00:01:25,810
+I didn't use the recommended method but I want to show you all your methods here.
+
+25
+00:01:25,820 --> 00:01:28,140
+This one is actually the easiest.
+
+26
+00:01:28,160 --> 00:01:35,570
+If you have access to admin on your hosting provider or if I come down here find mine through the list
+
+27
+00:01:36,120 --> 00:01:41,770
+and I've got some with Melbourne and I've got some with Network Solutions.
+
+28
+00:01:41,880 --> 00:01:44,760
+If I select here here's where the fun starts.
+
+29
+00:01:44,780 --> 00:01:52,460
+It gives you a list of instructions on what you have to do what I need to do is go into Network Solutions
+
+30
+00:01:52,460 --> 00:01:56,550
+dot com by clicking here access my managed account.
+
+31
+00:01:56,660 --> 00:02:02,910
+So I have to have the sign in the admin password for network solutions that might be your I-T department.
+
+32
+00:02:03,320 --> 00:02:08,780
+But before you go there you select this text down here and you're going to have to paste that into an
+
+33
+00:02:08,780 --> 00:02:09,370
+area.
+
+34
+00:02:09,470 --> 00:02:14,390
+You drill down down down and you finally get here and you copy and paste it.
+
+35
+00:02:14,450 --> 00:02:17,880
+So I would go here and basically begin the process.
+
+36
+00:02:17,910 --> 00:02:20,630
+I'm not going to do that because everyone would be different.
+
+37
+00:02:20,630 --> 00:02:21,960
+Let's get back to here.
+
+38
+00:02:22,030 --> 00:02:26,380
+Me show you what I did this process and you're just following instructions.
+
+39
+00:02:26,630 --> 00:02:32,840
+But this process can take up to 24 hours before it actually becomes verifiable.
+
+40
+00:02:32,880 --> 00:02:34,190
+Your alternate methods.
+
+41
+00:02:34,220 --> 00:02:37,050
+The one I chose was an H team Eltang.
+
+42
+00:02:37,430 --> 00:02:40,880
+I designed my own web sites using a program called Dreamweaver.
+
+43
+00:02:40,880 --> 00:02:47,210
+I absolutely love it it's a dream come true and I decided instead of going through the recommended method
+
+44
+00:02:47,240 --> 00:02:49,130
+I would use NHT mail tag.
+
+45
+00:02:49,130 --> 00:02:50,960
+To me this was actually easier.
+
+46
+00:02:51,140 --> 00:02:52,750
+So I went in here.
+
+47
+00:02:52,790 --> 00:02:54,880
+It is very easy it tells you what to do.
+
+48
+00:02:55,010 --> 00:03:01,400
+You go into your index page and you select this text which is a metal tag and you copy it into your
+
+49
+00:03:01,400 --> 00:03:03,010
+index page.
+
+50
+00:03:03,020 --> 00:03:04,550
+That's all I had to do.
+
+51
+00:03:04,550 --> 00:03:11,390
+Now once I've done that I come back out save the page load it back to the host and then come down here
+
+52
+00:03:11,390 --> 00:03:12,800
+and say verify.
+
+53
+00:03:12,800 --> 00:03:16,160
+Now you can see it still says we weren't able to.
+
+54
+00:03:16,220 --> 00:03:23,270
+In my case I did this just a few minutes ago so it still hasn't gotten to google yet that I'm verifiable.
+
+55
+00:03:23,330 --> 00:03:23,930
+But that's OK.
+
+56
+00:03:23,960 --> 00:03:24,690
+Really it is.
+
+57
+00:03:24,740 --> 00:03:26,590
+Don't worry about it just quick Not now.
+
+58
+00:03:27,800 --> 00:03:30,860
+Come back in an hour to try again.
+
+59
+00:03:30,860 --> 00:03:32,120
+That's all you have to remember.

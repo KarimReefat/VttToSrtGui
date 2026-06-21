@@ -1,0 +1,103 @@
+1
+00:00:01,630 --> 00:00:03,960
+We've got our form we're sending it out.
+
+2
+00:00:04,060 --> 00:00:10,180
+But we want to be involved in terms of when people send back to us maybe make changes in other words
+
+3
+00:00:10,180 --> 00:00:11,800
+I want a notification.
+
+4
+00:00:11,800 --> 00:00:13,090
+So let's do this.
+
+5
+00:00:13,090 --> 00:00:21,300
+I'm going to go and it forms I'm going to go into the responses now in responses go up to the word tools
+
+6
+00:00:22,140 --> 00:00:26,210
+and go down to notification rules.
+
+7
+00:00:26,230 --> 00:00:27,190
+This is pretty cool.
+
+8
+00:00:27,220 --> 00:00:31,170
+When do you want to be notified any changes are made.
+
+9
+00:00:31,180 --> 00:00:37,510
+Anything on this sheet is changed any of these particular cells or changed collaborators or added or
+
+10
+00:00:37,510 --> 00:00:39,870
+removed or a user submits the form.
+
+11
+00:00:39,880 --> 00:00:46,450
+Now I do want to know when they submit it but I also want to know if they change this up here.
+
+12
+00:00:46,450 --> 00:00:49,170
+Let's say we give them permission to change it later on.
+
+13
+00:00:49,270 --> 00:00:52,160
+And somebody says yes and then they say no or vice versa.
+
+14
+00:00:52,330 --> 00:00:55,490
+Well that's going to impact the hotels and how I get everything set up.
+
+15
+00:00:55,720 --> 00:01:00,210
+So I'm going to go into right here and then I'll click this button here.
+
+16
+00:01:00,550 --> 00:01:04,090
+And those are cells BE2 through before.
+
+17
+00:01:04,090 --> 00:01:09,810
+So BE2 colon which has come through B for before and after.
+
+18
+00:01:09,980 --> 00:01:19,390
+Click OK if a user submits the form or that cell changes email me a daily digest or right away click
+
+19
+00:01:19,390 --> 00:01:20,230
+safe.
+
+20
+00:01:20,230 --> 00:01:20,800
+Now there it is.
+
+21
+00:01:20,800 --> 00:01:23,370
+You can have as many of these as you want.
+
+22
+00:01:23,380 --> 00:01:25,090
+You can add another one right here.
+
+23
+00:01:25,210 --> 00:01:32,320
+But if you're done click down here now any time somebody submits the form I'll get an e-mail or if anybody
+
+24
+00:01:32,320 --> 00:01:34,290
+changes that one field.
+
+25
+00:01:34,330 --> 00:01:35,620
+Are you going to attend.
+
+26
+00:01:35,740 --> 00:01:40,200
+I'll get an e-mail notifications that can really help you stay on top of stuff.

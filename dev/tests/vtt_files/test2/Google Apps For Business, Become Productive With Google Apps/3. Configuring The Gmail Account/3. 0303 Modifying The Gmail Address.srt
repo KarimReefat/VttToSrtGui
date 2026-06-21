@@ -1,0 +1,239 @@
+1
+00:00:01,490 --> 00:00:07,940
+In this lesson and the next lesson we have to more kind of techie things we have to do that are very
+
+2
+00:00:07,940 --> 00:00:09,820
+important to setting up G-mail.
+
+3
+00:00:09,980 --> 00:00:16,900
+But the good news is once that's done we get to concentrate on doing email on doing spreadsheets on
+
+4
+00:00:16,900 --> 00:00:19,720
+doing presentations on working with our calendar.
+
+5
+00:00:19,790 --> 00:00:24,790
+So let's sign into our admin Council now you're going to notice something different about mine.
+
+6
+00:00:24,830 --> 00:00:27,830
+It now says Down here it's a set of billing.
+
+7
+00:00:27,860 --> 00:00:30,100
+It doesn't say set up G-mail does.
+
+8
+00:00:30,320 --> 00:00:31,160
+I've already done it.
+
+9
+00:00:31,170 --> 00:00:35,960
+And the reason I did is because it takes about five hours to kind of propagate it and get it working.
+
+10
+00:00:35,960 --> 00:00:37,390
+I'm going to show you how I did it.
+
+11
+00:00:37,390 --> 00:00:39,310
+But this way we can kind of move on.
+
+12
+00:00:39,320 --> 00:00:41,100
+So it's set up billing ignore that.
+
+13
+00:00:41,120 --> 00:00:42,900
+What I want to do is talk about two things.
+
+14
+00:00:42,920 --> 00:00:46,780
+One in this Lotzen And that's changing names to make access easier.
+
+15
+00:00:46,820 --> 00:00:51,170
+And then in the next lesson actually setting up the Gmail itself.
+
+16
+00:00:51,170 --> 00:00:57,290
+Now you can still get to the information to set up G-mail even if it's set up billing up here.
+
+17
+00:00:57,290 --> 00:01:00,190
+So even if it says set up Gmail ignore that one.
+
+18
+00:01:00,380 --> 00:01:02,470
+I want you to come over here to Google Apps.
+
+19
+00:01:02,630 --> 00:01:07,790
+Go into Gmail here and go into user settings.
+
+20
+00:01:07,890 --> 00:01:14,400
+Now you're going to notice here I can access Gmail and my users can at mail dot Google dot com forward
+
+21
+00:01:14,400 --> 00:01:19,900
+slash a forward slash real anti dot com and you go whoa I wish it was easier to change.
+
+22
+00:01:19,920 --> 00:01:21,330
+You are all right here.
+
+23
+00:01:22,890 --> 00:01:24,810
+Now over here you will notice.
+
+24
+00:01:24,840 --> 00:01:25,630
+There it is.
+
+25
+00:01:25,770 --> 00:01:28,670
+But we also have mail at real Andy dotcom.
+
+26
+00:01:28,680 --> 00:01:30,120
+That's a lot easier.
+
+27
+00:01:30,120 --> 00:01:34,470
+Problem is not problem does something you have to do if you select it what you are going to have to
+
+28
+00:01:34,470 --> 00:01:39,990
+do is go into the admin council or your host do you have that kind of access.
+
+29
+00:01:39,990 --> 00:01:44,370
+Now if you work in a large company I would suggest if you have an I.T. department that we know about
+
+30
+00:01:44,370 --> 00:01:48,150
+this kind of stuff you just tell them you need to do what they're going to do it for you but you need
+
+31
+00:01:48,150 --> 00:01:51,780
+to create a C name record right here.
+
+32
+00:01:51,780 --> 00:01:57,290
+So if we say save changes it's going to give us some general information on how to do that.
+
+33
+00:01:57,330 --> 00:02:02,070
+But the problem is there are hundreds and hundreds of service and hosting providers.
+
+34
+00:02:02,070 --> 00:02:03,520
+I've got three myself.
+
+35
+00:02:03,540 --> 00:02:05,970
+There's one in Australia and two in the United States.
+
+36
+00:02:05,970 --> 00:02:11,820
+I'm adding the same scene name record but to get to it it's going to be a little bit different now I'll
+
+37
+00:02:11,820 --> 00:02:12,810
+show it to you right here.
+
+38
+00:02:12,810 --> 00:02:19,070
+I do have my account manager set up and you can say I've gone in and I've drilled in to my host and
+
+39
+00:02:19,100 --> 00:02:20,180
+they're seen records.
+
+40
+00:02:20,220 --> 00:02:21,240
+I would add it here.
+
+41
+00:02:21,990 --> 00:02:27,630
+If you have an I.T. department like I mentioned before they can do this for you but I want to warn you
+
+42
+00:02:27,630 --> 00:02:30,230
+of something if you do it incorrectly.
+
+43
+00:02:30,330 --> 00:02:35,790
+If you make a mistake you run the chance of blowing out your entire e-mail system until it gets fixed
+
+44
+00:02:35,790 --> 00:02:36,340
+again.
+
+45
+00:02:36,660 --> 00:02:38,720
+So if you're not comfortable with this part.
+
+46
+00:02:38,820 --> 00:02:41,640
+I mean we're concentrating on Google Apps but I don't want to leave this out.
+
+47
+00:02:41,640 --> 00:02:47,010
+I wanted to show it to you if you're not sure if you don't really know how to do it.
+
+48
+00:02:47,040 --> 00:02:48,930
+See if you can get somebody to do it for you.
+
+49
+00:02:48,960 --> 00:02:50,400
+Call up your Hulst.
+
+50
+00:02:50,670 --> 00:02:52,620
+These people that you're paying a monthly fee to.
+
+51
+00:02:52,860 --> 00:02:54,180
+They know how to do it.
+
+52
+00:02:54,180 --> 00:02:57,070
+Say I've got to do this I'm working with Google Apps for business.
+
+53
+00:02:57,210 --> 00:02:59,120
+I need to change the name record.
+
+54
+00:02:59,130 --> 00:03:00,440
+How do I do that.
+
+55
+00:03:00,450 --> 00:03:02,040
+Chances are they'll do it for you.
+
+56
+00:03:02,100 --> 00:03:05,120
+Just remember if you've got to do that this is the way you have to do it.
+
+57
+00:03:05,120 --> 00:03:06,890
+It's not just in Google Apps.
+
+58
+00:03:06,980 --> 00:03:09,270
+I'm going to go well you know what I think I'll do this later.
+
+59
+00:03:09,510 --> 00:03:12,220
+And it takes it right back to the way it was.
+
+60
+00:03:12,300 --> 00:03:18,950
+But if you want to simplify the names you can you can do it for G-mail calendar drive and sites.

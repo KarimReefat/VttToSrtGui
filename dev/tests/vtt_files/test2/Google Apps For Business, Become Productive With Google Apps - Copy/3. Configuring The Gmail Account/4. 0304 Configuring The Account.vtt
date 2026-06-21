@@ -1,0 +1,169 @@
+WEBVTT
+
+00:01.460 --> 00:06.910
+One more thing to set this up go into Google Apps even if it says Gmail over here.
+
+00:07.010 --> 00:07.750
+Go into Google.
+
+00:07.790 --> 00:09.920
+I want to show you something in Google Apps.
+
+00:09.920 --> 00:17.050
+Go to G-mail and go and use acetic in order to set up Google Apps and Gmail.
+
+00:17.090 --> 00:22.790
+We have to go back into the admin Council on our hosting server which is like a software program like
+
+00:22.790 --> 00:25.730
+Microsoft Word or Word Perfect skin look different.
+
+00:25.790 --> 00:27.200
+You're going to get to things differently.
+
+00:27.320 --> 00:30.430
+And we need to add this stuff right down here.
+
+00:30.460 --> 00:33.330
+Let me show you something about this stuff.
+
+00:33.380 --> 00:37.450
+Notice at the end of each one of these is a full stop period.
+
+00:37.520 --> 00:41.890
+You have to type this stuff in exactly the way you see it here.
+
+00:41.900 --> 00:48.230
+So my suggestion would be this copy and paste it again you're going to have to get into the admin account
+
+00:48.220 --> 00:51.990
+so on your system and it gives you instructions here.
+
+00:52.100 --> 00:56.460
+Same way it did previously when we talked in the last lesson on how to get to that point.
+
+00:56.600 --> 00:59.990
+Let me show you what it looks like at least in Network Solutions.
+
+00:59.990 --> 01:00.550
+There it is.
+
+01:00.740 --> 01:02.310
+Now if you look at the names here.
+
+01:02.570 --> 01:03.900
+Those are the same names.
+
+01:03.920 --> 01:05.880
+Copy paste it over here.
+
+01:05.900 --> 01:10.360
+The priority is how it sorts through which one gets first what's up.
+
+01:10.520 --> 01:12.530
+TTL stands for time to live.
+
+01:12.640 --> 01:14.600
+Sounds like a James Bond movie doesn't it.
+
+01:14.600 --> 01:16.730
+It's also called the hop limit.
+
+01:16.970 --> 01:21.560
+It's a mechanism that limits the lifespan of the data not seconds.
+
+01:21.560 --> 01:26.690
+Now what I did is cut it in half because the default at 72 72 is two hours.
+
+01:26.690 --> 01:27.670
+Why did I do that.
+
+01:27.920 --> 01:29.920
+Well for me it's a couple of things.
+
+01:29.930 --> 01:35.510
+It's caching in holding the data longer than it's needed and it's also something for security without
+
+01:35.510 --> 01:38.390
+a TTL telling it that the information expired.
+
+01:38.390 --> 01:43.090
+It's possible your data could be floating around on the Internet and packets for eternity.
+
+01:43.140 --> 01:45.680
+So we use the TTL feature to limit that.
+
+01:45.750 --> 01:50.490
+You can go up to I think something like a day which is about 86000 seconds.
+
+01:50.490 --> 01:52.210
+Up to you what you want to do here.
+
+01:52.230 --> 01:54.620
+The default will take you to 72.
+
+01:54.690 --> 01:59.490
+I decided based on some research I did with Google about this is that I could take it down to 36.
+
+01:59.490 --> 02:02.950
+It helps with caching the data and I think it also helps with security.
+
+02:03.180 --> 02:07.090
+So you're going to have to one more time or get somebody else to do it for you.
+
+02:07.290 --> 02:10.670
+Take this information it's right there for you and yours will be different.
+
+02:10.680 --> 02:15.630
+It'll look different and put it into something that in a sense has nothing to do with Google Apps for
+
+02:15.630 --> 02:16.200
+business.
+
+02:16.380 --> 02:21.900
+You're hosting or service provider continue in say that basically when you come back when you go to
+
+02:21.900 --> 02:29.710
+here and then we go back into our council you will see a little spinning globe right up here and mine
+
+02:29.710 --> 02:33.190
+spun for like about five hours before it finally stopped.
+
+02:33.190 --> 02:36.550
+Now we can set up billing next if you want to do that that's fine.
+
+02:36.550 --> 02:39.640
+It's setting up it last for your credit card et cetera et cetera.
+
+02:39.760 --> 02:41.260
+We're not going to do that.
+
+02:41.290 --> 02:44.140
+I'm still on a free business trial so I'm not going to worry about Bill.
+
+02:44.170 --> 02:46.900
+And you can ignore that up until the very last minute.
+
+02:46.990 --> 02:48.280
+But understand something.
+
+02:48.550 --> 02:55.060
+If on the last day when it expires if you don't have billing set up they will suspend your account until
+
+02:55.060 --> 02:56.310
+you do set it up.
+
+02:56.320 --> 02:58.700
+That's about it for setting up G-mail.
+
+02:58.840 --> 03:04.630
+But don't forget if you don't do it correctly it can mess up your entire site and your e-mail system
+
+03:04.720 --> 03:06.060
+until it's corrected.
+
+03:06.100 --> 03:07.830
+So make sure you kind of know what you're doing here.
+
+03:08.020 --> 03:09.020
+And let's move on.

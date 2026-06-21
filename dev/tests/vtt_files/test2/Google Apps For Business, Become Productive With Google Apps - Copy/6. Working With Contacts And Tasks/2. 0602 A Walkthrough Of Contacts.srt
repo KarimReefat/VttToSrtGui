@@ -1,0 +1,223 @@
+1
+00:00:01,480 --> 00:00:04,790
+In this chapter the name of the game is Google contacts.
+
+2
+00:00:04,800 --> 00:00:09,550
+Now I'm in Chrome you're one of the things I like about Chrome is kind of fun if you can come down here
+
+3
+00:00:09,550 --> 00:00:12,430
+actually and search by voice.
+
+4
+00:00:12,670 --> 00:00:14,430
+I'm going to do it the old fashioned way.
+
+5
+00:00:14,570 --> 00:00:16,650
+Come up here and actually type in G-Mac.
+
+6
+00:00:16,960 --> 00:00:18,100
+We're going to go there first.
+
+7
+00:00:18,200 --> 00:00:23,490
+And if I'm signed in which I think I am it will load my account from Gmail.
+
+8
+00:00:23,720 --> 00:00:26,780
+If you come over here to the word mail and click.
+
+9
+00:00:26,780 --> 00:00:30,270
+You've got contacts as well as tasks go to contacts.
+
+10
+00:00:30,770 --> 00:00:32,760
+What exactly are contacts.
+
+11
+00:00:32,810 --> 00:00:34,290
+You probably already know that.
+
+12
+00:00:34,490 --> 00:00:40,910
+But it is one place where all your contacts are but they don't just have to be contacts from Google
+
+13
+00:00:40,910 --> 00:00:43,290
+Apps for business real handycam.
+
+14
+00:00:43,520 --> 00:00:49,010
+This is my contact area and it can be anybody I want it to be served but these contacts are going to
+
+15
+00:00:49,010 --> 00:00:51,300
+be probably a little bit different I suppose.
+
+16
+00:00:51,500 --> 00:00:55,230
+Let's just take a walk through the application for context.
+
+17
+00:00:55,280 --> 00:00:58,370
+Let's just talk about what we're going to talk about in this chapter.
+
+18
+00:00:58,370 --> 00:01:02,830
+Over here you have a new contact but which will do making new contacts.
+
+19
+00:01:02,990 --> 00:01:04,830
+This one my contacts are only one.
+
+20
+00:01:04,820 --> 00:01:10,790
+But don't forget something or starting from scratch if you're here because you've been using these apps
+
+21
+00:01:10,820 --> 00:01:14,240
+but you want to know more about them you may have a whole bunch of people in here.
+
+22
+00:01:14,390 --> 00:01:15,760
+I only have one so far.
+
+23
+00:01:16,040 --> 00:01:17,560
+I do have her start.
+
+24
+00:01:17,780 --> 00:01:24,110
+So if I had a whole bunch of people start I could sort them by start I imported right here on 3:19 and
+
+25
+00:01:24,110 --> 00:01:27,010
+basically then I deleted them I want to show you how you do that.
+
+26
+00:01:27,140 --> 00:01:33,080
+But it will tell you the last time you actually imported some contacts the most contacted other contacts
+
+27
+00:01:33,320 --> 00:01:39,400
+directory is the one place where whether they are your contacts or not you can see everybody.
+
+28
+00:01:39,520 --> 00:01:43,700
+Now if you remember if you've been following through these lessons from the beginning the only people
+
+29
+00:01:43,700 --> 00:01:47,170
+we added Besides me were Bonnie and James.
+
+30
+00:01:47,390 --> 00:01:48,410
+So they're all here.
+
+31
+00:01:48,710 --> 00:01:50,030
+Over here we have new group.
+
+32
+00:01:50,150 --> 00:01:54,800
+Now that's important because we're going to start talking about groups in this chapter groups can really
+
+33
+00:01:54,800 --> 00:01:57,360
+help you focus in and get things done faster.
+
+34
+00:01:57,440 --> 00:02:03,140
+And we have an import context down here if I hover over here I get Bonnies people which.
+
+35
+00:02:03,410 --> 00:02:06,800
+I can contact her e-mail her anything I want to do.
+
+36
+00:02:06,830 --> 00:02:09,470
+Let's go back to my contacts up here.
+
+37
+00:02:09,470 --> 00:02:12,410
+If you click this little button you can say show me everybody.
+
+38
+00:02:12,410 --> 00:02:13,340
+Show me none.
+
+39
+00:02:13,340 --> 00:02:17,760
+Show me starter and starred in this case I only have one so that's that big of a deal.
+
+40
+00:02:17,930 --> 00:02:22,700
+Over here we have the ability to add an over here if we click more.
+
+41
+00:02:22,700 --> 00:02:28,460
+We can do things like manage import export print find and merge duplicates is something that I really
+
+42
+00:02:28,460 --> 00:02:35,120
+like because I bring contacts in a lot through CXXVI files come separate value files might have 20 30
+
+43
+00:02:35,120 --> 00:02:39,140
+people in it and it's really nice to know if you accidentally have a duplicate.
+
+44
+00:02:39,140 --> 00:02:41,240
+It will take care of that for you.
+
+45
+00:02:41,240 --> 00:02:46,710
+Restoring contacts is kind of fun too because you can delete people say a week ago and go on it and
+
+46
+00:02:46,710 --> 00:02:50,860
+I wish I hadn't done that and actually restore them in sort by first or last name.
+
+47
+00:02:51,080 --> 00:02:55,260
+Over here you have two chevrons which allow you to go forward or backward.
+
+48
+00:02:55,280 --> 00:03:00,080
+If you have a lot of people and of course we have our settings button right over here we can change
+
+49
+00:03:00,080 --> 00:03:04,530
+the display density from comfortable to compact configure the inbox.
+
+50
+00:03:04,550 --> 00:03:05,990
+I don't think I've showed you that yet.
+
+51
+00:03:06,910 --> 00:03:13,210
+It does allow me to select tabs to enable for primary social promotions updates forms if I want to use
+
+52
+00:03:13,210 --> 00:03:17,300
+those as tabs and go ahead and get back out of here.
+
+53
+00:03:17,410 --> 00:03:24,520
+And of course we have settings themes if you want to change the theme in how this comprises basically
+
+54
+00:03:24,520 --> 00:03:27,050
+the contact's user interface.
+
+55
+00:03:27,190 --> 00:03:32,900
+And during these lessons what we're going to do is add delete control manage our different contexts.
+
+56
+00:03:32,980 --> 00:03:34,180
+So let's go out and get started.

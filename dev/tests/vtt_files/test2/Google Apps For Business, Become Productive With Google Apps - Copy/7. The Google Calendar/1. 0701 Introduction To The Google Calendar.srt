@@ -1,0 +1,43 @@
+1
+00:00:01,430 --> 00:00:05,630
+In this chapter we're going to talk about the Google calendar love calendar.
+
+2
+00:00:05,720 --> 00:00:10,700
+We're going to talk about what it is how it works when it create events which are kind of the heart
+
+3
+00:00:10,700 --> 00:00:12,910
+and soul of the calendar I guess.
+
+4
+00:00:12,920 --> 00:00:14,690
+Can talk about how we use them.
+
+5
+00:00:14,690 --> 00:00:19,870
+We're going to create additional calendars maybe personal calendars will add events even through G-mail.
+
+6
+00:00:19,880 --> 00:00:21,860
+You don't have to do it just in calendar.
+
+7
+00:00:21,860 --> 00:00:24,880
+We'll talk about sharing with we share with and who you don't.
+
+8
+00:00:24,890 --> 00:00:30,020
+We're going to wind up in the calendar lab which allows you to add crazy fun things additional enhancements
+
+9
+00:00:30,350 --> 00:00:32,070
+into your calendar.
+
+10
+00:00:32,120 --> 00:00:34,850
+All that in a little bit more in the chapter.
+
+11
+00:00:35,120 --> 00:00:35,480
+Let's go.

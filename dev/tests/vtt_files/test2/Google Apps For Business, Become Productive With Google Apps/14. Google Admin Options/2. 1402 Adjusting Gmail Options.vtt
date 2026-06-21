@@ -1,0 +1,316 @@
+WEBVTT
+
+00:01.510 --> 00:08.320
+To start out this chapter and let's go into our admin console we can do it up here type in a and it
+
+00:08.320 --> 00:09.940
+will remember the last thing I did.
+
+00:09.940 --> 00:15.900
+So admin that Google doc come in if it asks you to sign in please do.
+
+00:15.940 --> 00:18.490
+I've already signed in once and it remembers me.
+
+00:18.490 --> 00:25.450
+Want to talk about some of the things that we can do to kind of control the overall settings and permissions
+
+00:25.450 --> 00:29.890
+and things like that that go on inside of Google Apps for business.
+
+00:30.160 --> 00:35.510
+Let's start out here by going into Google Apps now in Google Apps.
+
+00:35.520 --> 00:42.170
+Here's all our services and we can come over here for example and click on one tic that Mark come up
+
+00:42.170 --> 00:45.380
+here in either turn down or turn it off.
+
+00:45.390 --> 00:48.700
+Let's just do this let's go into G-mail.
+
+00:48.740 --> 00:55.850
+Let's start there in G-mail we can see we have eight people active users in the last seven days.
+
+00:55.910 --> 00:58.610
+If I come over here I can also turn it off.
+
+00:58.640 --> 01:03.470
+It is possible that you might want to because of security reasons do something like turn it off.
+
+01:03.470 --> 01:04.950
+So you do have an option for that.
+
+01:05.180 --> 01:07.760
+Let's look at a couple of things inside of here.
+
+01:07.850 --> 01:15.680
+We have all these different settings in areas that we can go into we can get into authentication default
+
+01:15.710 --> 01:22.250
+routing hosting the labs you go in here and turn off the labs if you don't want people to have access
+
+01:22.250 --> 01:22.740
+to them.
+
+01:22.910 --> 01:28.810
+You can even get into advanced lab management where you manage the labs individually.
+
+01:28.850 --> 01:32.230
+Let's go into email addresses for a second.
+
+01:32.450 --> 01:36.910
+Now here are all your e-mail addresses that you have set up the user accounts.
+
+01:36.920 --> 01:38.360
+We've been here before.
+
+01:38.390 --> 01:43.990
+We can also get in here and start creating groups like our Star Fire group that we talked about earlier.
+
+01:44.210 --> 01:50.870
+If I come over to one of these say for example and click on it it does give me access to money I can
+
+01:50.870 --> 01:52.640
+come over here at a photograph.
+
+01:52.940 --> 01:58.400
+I can actually suspend or delete her but I don't think I want to do that to my wife.
+
+01:58.400 --> 02:00.980
+She has six Google Apps enabled.
+
+02:01.190 --> 02:02.980
+And here they are.
+
+02:03.090 --> 02:06.640
+She is a member of one group family.
+
+02:06.800 --> 02:13.400
+She has one license user assigned and you can come down here and say show more security settings she
+
+02:13.400 --> 02:16.420
+has no admin role but I could give them to her.
+
+02:16.490 --> 02:23.240
+No device is assigned like mobile devices and she does have 65 Google services enabled all this fun
+
+02:23.240 --> 02:24.590
+stuff right here.
+
+02:24.920 --> 02:30.940
+And one market place app that we got earlier in the story called mind meister.
+
+02:31.110 --> 02:34.820
+Let's go ahead and go back over to users and click this little button right here.
+
+02:35.990 --> 02:40.240
+Let's go back into Google Apps and go back into G-mail.
+
+02:40.270 --> 02:44.360
+The one area I want to talk about here because it has most of the settings is right here.
+
+02:44.560 --> 02:49.190
+And as the administrator it is well it's your responsibility to set this up.
+
+02:49.210 --> 02:54.170
+First thing we can change the you are well if we want to current one is kind of complicated.
+
+02:54.190 --> 03:00.130
+We could do something as easy as mail real Andy dot if we wanted to this area down here is showing you
+
+03:00.130 --> 03:01.480
+your MX records.
+
+03:01.510 --> 03:03.270
+We talked about this earlier.
+
+03:03.430 --> 03:09.520
+In my opinion the hardest part about using Google Apps for business is not creating spreadsheet.
+
+03:09.520 --> 03:12.430
+It's not making a presentation or a document.
+
+03:12.610 --> 03:15.610
+It's setting up Google Apps with all of this kind of stuff.
+
+03:15.640 --> 03:19.240
+If you're not used to doing it so you can get started doing all that.
+
+03:19.240 --> 03:20.740
+So it's got all the stuff here for you.
+
+03:20.740 --> 03:23.710
+Shows you your Google and MX records if you haven't done this yet.
+
+03:23.830 --> 03:27.070
+Down here we have user e-mail uploads.
+
+03:27.220 --> 03:31.300
+You can allow users to upload mail using email migration.
+
+03:31.640 --> 03:38.270
+And if you turn that on you can also allow them to import from things like Yahoo Hotmail AOL.
+
+03:38.290 --> 03:43.330
+The one thing about this I would say is now we're talking security issues in a sense because the more
+
+03:43.390 --> 03:49.420
+access you give people the more potential there is for something happening that you don't want to happen.
+
+03:49.450 --> 03:52.570
+You can totally uninstalled the service right here.
+
+03:53.020 --> 04:00.040
+You can let the users choose their own themes which studies show that if you allow a user even things
+
+04:00.040 --> 04:04.750
+as simple as choosing a background color they are going to be more efficient because they feel like
+
+04:04.750 --> 04:06.460
+they're more controlled There's nothing wrong with that.
+
+04:06.460 --> 04:08.860
+I leave that on unless I'm a dictator.
+
+04:08.920 --> 04:15.050
+Do you not want e-mail read receipts sent or allow them as well as if you want to the following email
+
+04:15.110 --> 04:22.010
+addresses separate them by a comma it's go down a little bit further here you've got name format I like
+
+04:22.010 --> 04:26.090
+first to last but I also allow my users to customize their own settings.
+
+04:26.970 --> 04:32.130
+Now you've got an app search right here that's a locally applied option and that extends the capabilities
+
+04:32.130 --> 04:38.610
+of Google Docs and searching down here you can disable pop and I met you can get into BlackBerry support.
+
+04:38.610 --> 04:41.430
+These are pretty straightforward kind of questions.
+
+04:41.430 --> 04:45.390
+In a sense what do you want to allow and what don't you want to allow.
+
+04:45.380 --> 04:46.960
+On a global basis.
+
+04:47.400 --> 04:53.550
+This one I like online Gmail it allows my users to be productive even if they don't have access to the
+
+04:53.550 --> 04:54.230
+cloud.
+
+04:54.660 --> 05:01.060
+And we've got information on gateways here and it's good on a little bit further and get into spam.
+
+05:01.140 --> 05:05.220
+Now you have something called the white list and those are trusted sites.
+
+05:05.440 --> 05:07.690
+They should not be marked to spam.
+
+05:07.780 --> 05:13.660
+If you are using some gateways for your e-mail if you enter them in here it will improve spam handling.
+
+05:13.670 --> 05:16.330
+Now here on spam it's not configured yet.
+
+05:16.540 --> 05:20.120
+I can configure over here create approved senders list.
+
+05:20.200 --> 05:26.130
+Now this bypasses the spam filter so you want to be very careful about who you put in the approved list.
+
+05:26.140 --> 05:28.020
+You can always come back later and take them out.
+
+05:28.850 --> 05:30.680
+You do have a blocked one here.
+
+05:30.830 --> 05:36.980
+If we go a little bit further down automatically delete e-mails for all users when Now right now nothing
+
+05:36.980 --> 05:37.710
+is deleted.
+
+05:37.910 --> 05:39.980
+It's up to you to decide if you want this to happen.
+
+05:40.010 --> 05:45.010
+And if some messages have a particular label don't delete them.
+
+05:45.290 --> 05:51.530
+Another one here I like is a pen footer and what that does if we selected it allows me to put together
+
+05:51.530 --> 05:57.240
+a footer like maybe a legal notice that will appear on all of the e-mails and once you do it here it
+
+05:57.240 --> 05:59.290
+spread and populated throughout the system.
+
+06:00.230 --> 06:05.390
+Now you can also restrict the domains that your users are allowed to exchange email with.
+
+06:05.450 --> 06:11.930
+You can also configure content filters based on words phrases or patterns and objectionable content.
+
+06:12.200 --> 06:13.670
+Particular word lists.
+
+06:13.730 --> 06:18.580
+Now we all know certain words I won't say them that I think we would all find objectionable.
+
+06:18.740 --> 06:19.870
+And you can actually create a list.
+
+06:19.880 --> 06:20.500
+Let me show you.
+
+06:21.380 --> 06:24.340
+You can decide which messages to effect.
+
+06:24.410 --> 06:30.920
+You can add a word list right here and then decide what you want to do if those words are found.
+
+06:30.920 --> 06:33.490
+Coming down a little bit more.
+
+06:33.570 --> 06:40.590
+We have routeing we have something called a catch all address for particular routing but it's only used
+
+06:40.590 --> 06:43.350
+if you really need it because spammers do this.
+
+06:43.350 --> 06:48.520
+They will try real Andy dotcom and they have programs that just put in all kinds of names.
+
+06:48.810 --> 06:53.340
+So if it's not there if that account isn't there route them to a catchall address.
+
+06:53.340 --> 06:58.410
+But the problem with that is is if you get a lot of those it could block up your system.
+
+06:58.620 --> 07:00.940
+The best thing to do would be just discard them.
+
+07:00.960 --> 07:06.120
+In my opinion you do have the ability to work with Microsoft Exchange even outlook for that matter and
+
+07:06.120 --> 07:12.100
+you can configure that information right here if you've made changes and you want to save those changes.
+
+07:12.330 --> 07:15.580
+Click here if you don't want to start all over again.
+
+07:15.600 --> 07:23.400
+You can say discard but working with G-mail settings just fine tunes the experience for all of your
+
+07:23.400 --> 07:24.090
+users.
+
+07:24.300 --> 07:27.970
+That's what it's designed to do but it is up to you to set it up.

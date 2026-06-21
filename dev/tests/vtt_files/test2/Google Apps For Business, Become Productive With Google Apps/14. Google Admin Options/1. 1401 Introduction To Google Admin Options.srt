@@ -1,0 +1,27 @@
+1
+00:00:01,460 --> 00:00:05,240
+In this final chapter let's do a little bit more in the admin.
+
+2
+00:00:05,360 --> 00:00:09,670
+Let's look at further adjusting and fine tuning our G-mail options.
+
+3
+00:00:09,680 --> 00:00:12,430
+Let's look at some of the other options we have in calendar.
+
+4
+00:00:12,680 --> 00:00:15,230
+Let's work with passwords and security.
+
+5
+00:00:15,230 --> 00:00:21,510
+How about adjusting your company profile in generating something that's really very important reports.
+
+6
+00:00:21,830 --> 00:00:26,960
+And then I'll kind of wrap up the whole thing for us and summarize it in this final chapter.
+
+7
+00:00:26,990 --> 00:00:27,410
+Let's go.

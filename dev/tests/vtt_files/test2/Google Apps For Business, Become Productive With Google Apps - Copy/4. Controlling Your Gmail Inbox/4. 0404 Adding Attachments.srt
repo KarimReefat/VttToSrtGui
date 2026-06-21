@@ -1,0 +1,179 @@
+1
+00:00:01,450 --> 00:00:08,090
+In this lesson we want to compose a G-mail and we want to add something to it could be a text file could
+
+2
+00:00:08,090 --> 00:00:12,790
+be a link could be an image could be a combination of one or all three of those.
+
+3
+00:00:13,040 --> 00:00:17,340
+So let's start by composing a letter compose ourselves here.
+
+4
+00:00:17,420 --> 00:00:19,330
+I'm going to send this one to James.
+
+5
+00:00:19,400 --> 00:00:25,370
+My father in law and he's a pretty good cook but he's not as good as me and we're going to say a New
+
+6
+00:00:25,940 --> 00:00:27,090
+York dinner.
+
+7
+00:00:27,090 --> 00:00:30,000
+So I come down here give minimal body texture.
+
+8
+00:00:30,080 --> 00:00:33,110
+James excellent pork recipe you've got to try it out.
+
+9
+00:00:33,100 --> 00:00:36,540
+And I think well maybe I should send him a photograph of it.
+
+10
+00:00:36,970 --> 00:00:42,310
+I do have the text document where I made the menu or the recipe itself and maybe I can give him a link
+
+11
+00:00:42,310 --> 00:00:45,340
+to that page that actually talks about the pork recipe.
+
+12
+00:00:45,340 --> 00:00:48,990
+Let's start with the link when it come down a bit like about here.
+
+13
+00:00:49,150 --> 00:00:54,600
+And if I come down and touch this little paperclip I can attach files.
+
+14
+00:00:54,610 --> 00:00:57,370
+Insert files using Dr who will talk about that later.
+
+15
+00:00:57,490 --> 00:00:59,120
+Here's photographs Here's links.
+
+16
+00:00:59,180 --> 00:01:04,750
+So insert link I could say a text to display.
+
+17
+00:01:04,980 --> 00:01:07,950
+It will come down here and say w w w dot.
+
+18
+00:01:07,960 --> 00:01:12,950
+Now how many of you want to wager with me that there probably actually is a web address called pork
+
+19
+00:01:12,950 --> 00:01:13,400
+dinner.
+
+20
+00:01:14,020 --> 00:01:16,330
+If it were an e-mail address we could test it quick.
+
+21
+00:01:16,350 --> 00:01:16,960
+OK.
+
+22
+00:01:17,110 --> 00:01:18,500
+So we got a link.
+
+23
+00:01:18,850 --> 00:01:23,530
+OK I don't want to remove it or change it's fine I'm going to click here and you know what I think he
+
+24
+00:01:23,530 --> 00:01:26,830
+would benefit from an image I took of the dish.
+
+25
+00:01:26,890 --> 00:01:31,340
+So I come back down here again we're going to pack it all into one here come over to this button here.
+
+26
+00:01:31,390 --> 00:01:37,180
+Don't forget that since I'm using Google Chrome I can drag it over if I want it's on my computer it's
+
+27
+00:01:37,180 --> 00:01:38,450
+not a web address.
+
+28
+00:01:38,740 --> 00:01:42,180
+And there it is porc.
+
+29
+00:01:42,200 --> 00:01:45,260
+Now if we like that feel it's OK click OK.
+
+30
+00:01:45,290 --> 00:01:51,120
+Last but certainly not least I think I want to give them the actual recipe that I put together.
+
+31
+00:01:51,280 --> 00:01:56,390
+Going to Come back over here again and actually this time attach a file and that would be this one right
+
+32
+00:01:56,390 --> 00:02:01,080
+here click open it's a word document and there it is.
+
+33
+00:02:01,080 --> 00:02:05,150
+Now if you want to open it to check it out you can come down here and click on it.
+
+34
+00:02:06,280 --> 00:02:08,500
+And it'll put it down here by default.
+
+35
+00:02:08,500 --> 00:02:14,540
+Now if I click on it again it will then open go ahead and get out of there.
+
+36
+00:02:14,880 --> 00:02:18,750
+If I come back over here again I can of course and I'll send it.
+
+37
+00:02:18,760 --> 00:02:23,560
+Now one thing about sending images and text documents.
+
+38
+00:02:23,740 --> 00:02:28,570
+They do increase obviously the size of the file when you're working and when you're sending it.
+
+39
+00:02:28,630 --> 00:02:33,160
+So if you are sending say a lot of images might not be a bad idea to have a good compression utility
+
+40
+00:02:33,610 --> 00:02:36,140
+so that you could compress the files and make them a little bit smaller.
+
+41
+00:02:36,940 --> 00:02:41,260
+But if we click send James will now get his excellent pork in a recipe.
+
+42
+00:02:41,380 --> 00:02:46,420
+And don't forget if we click here we can save it as a draft.
+
+43
+00:02:46,640 --> 00:02:47,570
+And now it's over here.
+
+44
+00:02:48,730 --> 00:02:54,700
+Adding attachments whether they are text images links is actually very easy.
+
+45
+00:02:54,700 --> 00:02:57,760
+Just be careful about the size of the files that you're sending.

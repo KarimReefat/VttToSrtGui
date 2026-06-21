@@ -1,0 +1,115 @@
+1
+00:00:01,480 --> 00:00:05,850
+What is it Google for business account without workers users.
+
+2
+00:00:05,890 --> 00:00:12,380
+So let's go back into our admin Council and let's come down here to users.
+
+3
+00:00:12,390 --> 00:00:14,890
+Now there's only one which is Me of course.
+
+4
+00:00:15,010 --> 00:00:22,260
+Go and click over on the left shows my name last signed in and my email usage which I haven't done anything
+
+5
+00:00:22,260 --> 00:00:22,790
+yet.
+
+6
+00:00:23,130 --> 00:00:27,400
+Over here we have controls like number one this one right here adding more users.
+
+7
+00:00:27,420 --> 00:00:28,670
+So let's do that.
+
+8
+00:00:28,670 --> 00:00:34,230
+Now do you want to add them manually or using a CFE file upload.
+
+9
+00:00:34,230 --> 00:00:38,430
+In other words you're putting them all into a document and it just takes them and just puts them all
+
+10
+00:00:38,430 --> 00:00:39,570
+in for you.
+
+11
+00:00:39,570 --> 00:00:40,790
+I'm going to do it manually.
+
+12
+00:00:40,800 --> 00:00:42,990
+We'll just do one you do one you can do 100.
+
+13
+00:00:43,340 --> 00:00:46,430
+I want to say manually continue.
+
+14
+00:00:46,440 --> 00:00:50,930
+So let's set up an account here for Bonnie Lloyd.
+
+15
+00:00:51,120 --> 00:00:58,730
+Now her primary email address for me will be Bonnie real Andy dotcom.
+
+16
+00:00:58,740 --> 00:01:01,190
+It will allow you to set up a temporary password.
+
+17
+00:01:01,200 --> 00:01:07,160
+So let's go ahead and click here and give her a temporary password.
+
+18
+00:01:07,170 --> 00:01:13,290
+Now we can choose to require her to change it at the next sign in which I think is a pretty smart thing
+
+19
+00:01:13,290 --> 00:01:14,090
+to do.
+
+20
+00:01:14,130 --> 00:01:21,110
+Let her make her own password create new user give the user name is Bonnie Bonnie a real Andy dotcom.
+
+21
+00:01:21,180 --> 00:01:26,650
+What I want to do basically is e-mail the instructions to her which I could do by clicking right here.
+
+22
+00:01:26,760 --> 00:01:30,510
+I could print them if I want it to which I usually do and I put them in a folder.
+
+23
+00:01:30,510 --> 00:01:36,960
+But if we want to create another user we go here if we are finished as we build our organization we
+
+24
+00:01:36,960 --> 00:01:38,010
+build our users.
+
+25
+00:01:38,010 --> 00:01:38,790
+No we're not done.
+
+26
+00:01:38,790 --> 00:01:40,610
+This is the easy part obviously.
+
+27
+00:01:40,800 --> 00:01:46,530
+But we will talk about permissions and what they can and can't do but start setting up it's one of the
+
+28
+00:01:46,530 --> 00:01:47,940
+first things that you're going to do.
+
+29
+00:01:48,060 --> 00:01:49,530
+Start setting up your users.

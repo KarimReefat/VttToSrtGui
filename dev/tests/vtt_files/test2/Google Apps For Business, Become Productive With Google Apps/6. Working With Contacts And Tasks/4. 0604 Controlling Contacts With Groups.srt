@@ -1,0 +1,247 @@
+1
+00:00:01,450 --> 00:00:06,700
+It's time to start getting a little bit practical here I would think contacts are there but what do
+
+2
+00:00:06,700 --> 00:00:07,630
+we do with them.
+
+3
+00:00:07,870 --> 00:00:09,160
+Well there are a lot of things.
+
+4
+00:00:09,160 --> 00:00:10,850
+How about sending somebody an email.
+
+5
+00:00:10,960 --> 00:00:13,640
+You can do that here you don't have to go back to G-mail.
+
+6
+00:00:14,020 --> 00:00:21,940
+So if I come up say to Dirk and hover under the click just hover I can do contact info emails recent
+
+7
+00:00:21,940 --> 00:00:23,410
+emails and he's never sent me any.
+
+8
+00:00:23,410 --> 00:00:29,820
+He's a brand new addition but I can do a chat or I can send an e-mail if I want to right from here.
+
+9
+00:00:29,890 --> 00:00:32,520
+So I click and I think well wait a minute wait a minute.
+
+10
+00:00:32,590 --> 00:00:33,900
+It's not just Dirk is it.
+
+11
+00:00:33,910 --> 00:00:36,850
+It's three other people or two other people or 10 other people.
+
+12
+00:00:36,850 --> 00:00:40,190
+So you come up here you click and you start typing.
+
+13
+00:00:40,420 --> 00:00:47,500
+So how about James but notice it gives me to me James Marley and James Lloyd James Lloyd is a part of
+
+14
+00:00:47,500 --> 00:00:50,750
+our domain but he's not part of my contacts yet.
+
+15
+00:00:50,770 --> 00:00:52,190
+Doesn't matter it's going to give it to me.
+
+16
+00:00:52,210 --> 00:00:57,340
+If he's there now you can use your up and down arrow keys to choose the one you want and just go ahead
+
+17
+00:00:57,340 --> 00:00:58,900
+and press the return key.
+
+18
+00:00:58,900 --> 00:01:05,650
+Speaking of keys the return key is the name of the key on a Macintosh keyboard and the enter key is
+
+19
+00:01:05,650 --> 00:01:08,760
+the name of the very same key on a Windows keyboard.
+
+20
+00:01:09,160 --> 00:01:11,100
+Same keys different frustrating names.
+
+21
+00:01:11,260 --> 00:01:12,890
+I need also my camera.
+
+22
+00:01:13,120 --> 00:01:13,990
+Am I.
+
+23
+00:01:13,990 --> 00:01:15,200
+There is.
+
+24
+00:01:15,430 --> 00:01:16,570
+This is not a big deal.
+
+25
+00:01:16,600 --> 00:01:18,010
+But what if it's 30 people.
+
+26
+00:01:18,010 --> 00:01:21,170
+What if it's 50 people you want to type in 50 names.
+
+27
+00:01:21,220 --> 00:01:22,150
+I don't.
+
+28
+00:01:22,150 --> 00:01:26,740
+We're here to talk about groups groups this is our first introduction to them.
+
+29
+00:01:26,890 --> 00:01:31,500
+The groups that we set up in contexts are different than some of the other types of groups.
+
+30
+00:01:31,510 --> 00:01:33,190
+We're going to do because these are not shared.
+
+31
+00:01:33,190 --> 00:01:34,210
+They're yours.
+
+32
+00:01:34,270 --> 00:01:36,430
+I'm going to get out of here.
+
+33
+00:01:36,490 --> 00:01:43,390
+We're working on a project and Dirk and James and Mike are all part of this group.
+
+34
+00:01:43,390 --> 00:01:44,190
+I want to create.
+
+35
+00:01:44,190 --> 00:01:49,750
+You can tick off as many as you want a new kind of peer's up here with the three headed monster on its
+
+36
+00:01:49,750 --> 00:01:50,520
+called group.
+
+37
+00:01:50,520 --> 00:01:57,760
+So go into it and go down to create new enter the group name the three of us are working on a project
+
+38
+00:01:57,760 --> 00:01:58,500
+for the company.
+
+39
+00:01:58,500 --> 00:02:02,650
+It's kind of a top secret kind of thing so I called it code named Starfox.
+
+40
+00:02:02,800 --> 00:02:04,140
+I just made that up actually.
+
+41
+00:02:04,420 --> 00:02:06,120
+Click OK.
+
+42
+00:02:06,210 --> 00:02:09,290
+We now have a group called Starfire.
+
+43
+00:02:09,300 --> 00:02:14,640
+Now let's go ahead and do another group let's say Dirk is part of management.
+
+44
+00:02:14,880 --> 00:02:17,420
+And Sam is part of management.
+
+45
+00:02:17,460 --> 00:02:20,370
+Dirk is already in one group doesn't matter.
+
+46
+00:02:20,370 --> 00:02:22,540
+He can be in as many groups as you want him to be.
+
+47
+00:02:22,800 --> 00:02:28,970
+If we come over here and do another new group here or up here come down create new We'll call this one
+
+48
+00:02:29,360 --> 00:02:33,620
+exec's click OK I want you to notice something over here.
+
+49
+00:02:33,770 --> 00:02:41,210
+It's telling me what groups they are in Starfire and exact Starfire Staffa exec OK and you get the idea
+
+50
+00:02:41,690 --> 00:02:45,600
+you can create as many and you can put as many people and duplicate them in there.
+
+51
+00:02:45,620 --> 00:02:52,560
+No big deal if we go back now say into male and we want to compose an email.
+
+52
+00:02:52,600 --> 00:02:53,450
+G-mail actually.
+
+53
+00:02:53,460 --> 00:02:56,560
+Sorry about that and start typing in Starfire.
+
+54
+00:02:56,580 --> 00:02:57,360
+There it is.
+
+55
+00:02:57,510 --> 00:03:00,730
+With one click you have added all of those people.
+
+56
+00:03:00,750 --> 00:03:03,900
+Now three is not a big number but 20 or 30.
+
+57
+00:03:04,020 --> 00:03:05,070
+That's a big number.
+
+58
+00:03:05,190 --> 00:03:09,330
+If you've got a lot of e-mails to do if you're working with a lot of different kind of people you go
+
+59
+00:03:09,330 --> 00:03:10,440
+in your contacts.
+
+60
+00:03:10,440 --> 00:03:11,490
+You make these groups.
+
+61
+00:03:11,490 --> 00:03:13,960
+It can save you a ton of time.
+
+62
+00:03:14,040 --> 00:03:17,370
+And I measured it and I weighed it and it's actually one physical pun.

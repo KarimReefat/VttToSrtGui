@@ -1,0 +1,299 @@
+1
+00:00:01,430 --> 00:00:05,510
+If you're not in your Gmail go ahead and get there we're going to be spending some time here.
+
+2
+00:00:05,660 --> 00:00:09,460
+What I want to talk about further is how we organize ourselves.
+
+3
+00:00:09,490 --> 00:00:15,950
+I agree that we only have a few things but e-mail Gmail whatever you want to call it can get away from
+
+4
+00:00:15,950 --> 00:00:17,390
+you very fast.
+
+5
+00:00:17,390 --> 00:00:21,760
+By Apple Mail System has tens of thousands of messages in it.
+
+6
+00:00:21,770 --> 00:00:24,020
+They're not all just stuck here like this.
+
+7
+00:00:24,230 --> 00:00:25,380
+I've labeled them.
+
+8
+00:00:25,610 --> 00:00:30,150
+I've started that I've given them certain priorities certain key words.
+
+9
+00:00:30,170 --> 00:00:32,590
+Let's talk a little bit about this now.
+
+10
+00:00:32,630 --> 00:00:35,380
+One of my items is important.
+
+11
+00:00:35,580 --> 00:00:36,370
+Just one right here.
+
+12
+00:00:36,440 --> 00:00:43,760
+If I click on any one of these I can market just with a click as important I can filter it by clicking
+
+13
+00:00:43,760 --> 00:00:45,790
+right over here very easy.
+
+14
+00:00:46,170 --> 00:00:48,130
+Let's go back to inbox.
+
+15
+00:00:48,140 --> 00:00:51,080
+We can control what goes on over here.
+
+16
+00:00:51,080 --> 00:00:56,870
+Go over to our settings button and click Settings go into labels.
+
+17
+00:00:58,080 --> 00:01:02,210
+Now you can see we've got all these different labels over here.
+
+18
+00:01:02,250 --> 00:01:04,590
+We have inbox star important.
+
+19
+00:01:04,650 --> 00:01:07,830
+Some are showing and some are hidden.
+
+20
+00:01:07,830 --> 00:01:13,740
+If we for example want spam we click right here and now it's over here.
+
+21
+00:01:13,740 --> 00:01:18,250
+And if we had any spam we could click that button over there and we'd see just our spam.
+
+22
+00:01:18,390 --> 00:01:20,060
+Let's go ahead hide that one again.
+
+23
+00:01:21,740 --> 00:01:28,700
+If we come further down we can create our very own labels if you will and then use them over on the
+
+24
+00:01:28,700 --> 00:01:30,800
+left to further filter out what we're doing.
+
+25
+00:01:30,830 --> 00:01:34,580
+So we can even create our own it's out here for many.
+
+26
+00:01:34,590 --> 00:01:40,260
+Another thing that we can do besides just putting these things over here so that we can filter and see
+
+27
+00:01:40,260 --> 00:01:44,390
+what we've got is actually changing what they are over here.
+
+28
+00:01:44,400 --> 00:01:50,100
+So if I come in and select Google Apps team right here I can then go on and you can choose as many as
+
+29
+00:01:50,100 --> 00:01:50,960
+you want.
+
+30
+00:01:51,150 --> 00:01:58,140
+I come over here and sign it a label or I can create a new one right now or I can manage labels which
+
+31
+00:01:58,140 --> 00:02:00,090
+will take us back to where we just were.
+
+32
+00:02:00,300 --> 00:02:05,320
+This one is labeled as a promotion and an update which is what they are exactly.
+
+33
+00:02:05,670 --> 00:02:07,350
+Now to get back out of here for a second.
+
+34
+00:02:07,350 --> 00:02:10,290
+You say well promotion and update aren't here.
+
+35
+00:02:10,290 --> 00:02:13,350
+So we can go back in and actually get those and you're correct.
+
+36
+00:02:13,350 --> 00:02:18,910
+But if you click more right here you'll notice promotions and updates are right here too.
+
+37
+00:02:19,030 --> 00:02:23,600
+And like a temporary pulled on menu system if you want to use it get back up here.
+
+38
+00:02:23,940 --> 00:02:30,180
+So we have labels we can create our own labels like he could have a label called business or one of
+
+39
+00:02:30,180 --> 00:02:32,560
+a kind productions or something like that.
+
+40
+00:02:32,620 --> 00:02:38,350
+Bonnie I don't have anything I want and then I could put them over here so I could get to them quickly.
+
+41
+00:02:38,550 --> 00:02:40,230
+We have another thing called a star.
+
+42
+00:02:40,360 --> 00:02:41,200
+This right here.
+
+43
+00:02:41,410 --> 00:02:46,600
+And if I click right there I've added a yellow star to that particular G-man.
+
+44
+00:02:46,650 --> 00:02:47,410
+What does that mean.
+
+45
+00:02:47,580 --> 00:02:53,250
+Well it can mean anything you want it to mean obviously a star could mean it needs to be worked up.
+
+46
+00:02:53,250 --> 00:02:54,860
+It's a work in progress.
+
+47
+00:02:55,140 --> 00:03:03,420
+But if we go over to our settings again and go into settings here and go into general come down here
+
+48
+00:03:03,450 --> 00:03:06,930
+and look at all the different kinds of stars that you can use.
+
+49
+00:03:07,070 --> 00:03:09,380
+Now right now we only have a yellow star.
+
+50
+00:03:09,660 --> 00:03:11,100
+We can do four stars.
+
+51
+00:03:11,100 --> 00:03:16,760
+Or we can say all you say well I don't want these for I don't want just one.
+
+52
+00:03:16,800 --> 00:03:18,440
+And I don't want all of that.
+
+53
+00:03:18,690 --> 00:03:19,310
+You can do this.
+
+54
+00:03:19,310 --> 00:03:21,100
+Let's go back to one star for a second.
+
+55
+00:03:21,150 --> 00:03:24,350
+I want this one right here which is called a red bang.
+
+56
+00:03:24,390 --> 00:03:25,170
+Interesting.
+
+57
+00:03:25,350 --> 00:03:32,490
+And I can drag it up now and put it in any order that I want and maybe I want the purple or the blue
+
+58
+00:03:32,490 --> 00:03:33,920
+star appear.
+
+59
+00:03:34,080 --> 00:03:39,390
+In other words not only can you drag them up here and if I could do that again but I can decide the
+
+60
+00:03:39,450 --> 00:03:41,610
+order that they're used in.
+
+61
+00:03:41,640 --> 00:03:46,470
+So if we've done this don't forget you got to come down here and you've got to say save changes.
+
+62
+00:03:47,660 --> 00:03:53,830
+If we now come in here and click on one of these it goes through the order of the way we place them
+
+63
+00:03:54,220 --> 00:03:55,930
+so we can cycle through them.
+
+64
+00:03:55,930 --> 00:04:00,970
+The cool thing here and we're going to do this in the next lesson is how we can then focus in in search
+
+65
+00:04:01,060 --> 00:04:02,120
+for this kind of thing.
+
+66
+00:04:02,340 --> 00:04:05,940
+Now let's do this to remember our conversation up here.
+
+67
+00:04:05,980 --> 00:04:14,170
+If I open that up I have the ability to come over here and say Well that particular part of the conversation
+
+68
+00:04:14,170 --> 00:04:14,860
+was important.
+
+69
+00:04:14,860 --> 00:04:21,060
+That's right bang this one over here is not a red bang it's going to be a Blue Star.
+
+70
+00:04:21,070 --> 00:04:23,490
+This one wasn't important at all.
+
+71
+00:04:23,710 --> 00:04:26,040
+So you can even put them together like this.
+
+72
+00:04:26,140 --> 00:04:32,800
+If we then come over here and say inbox and we click on start it will list not only the ones that we
+
+73
+00:04:32,800 --> 00:04:41,100
+started here but even the ones on the inside of the conversation that Bonnie and I had stars labels
+
+74
+00:04:41,580 --> 00:04:50,100
+important are always not the only ones for sure but always to help you organize a huge amount of mail.
+
+75
+00:04:50,130 --> 00:04:51,240
+Inside Google Apps.

@@ -1,0 +1,791 @@
+1
+00:00:00,370 --> 00:00:01,658
+<v ->In this video, we're going to take a look at</v>
+
+2
+00:00:01,658 --> 00:00:05,240
+some ports and protocols on a remote system.
+
+3
+00:00:05,240 --> 00:00:07,830
+What we're going to do is we're going to scan a remote computer,
+
+4
+00:00:07,830 --> 00:00:11,080
+in this case a server, and see what things are open,
+
+5
+00:00:11,080 --> 00:00:14,050
+which ports are listening on what services.
+
+6
+00:00:14,050 --> 00:00:15,970
+So, for example, if I scan it and find that
+
+7
+00:00:15,970 --> 00:00:19,190
+port 21 is open, that means there's an FTP server
+
+8
+00:00:19,190 --> 00:00:22,240
+sitting there, listening, and waiting for a connection.
+
+9
+00:00:22,240 --> 00:00:25,130
+To do this, I'm going to use a tool known as Nmap,
+
+10
+00:00:25,130 --> 00:00:26,970
+which stands for the network mapper.
+
+11
+00:00:26,970 --> 00:00:30,610
+Nmap is a very popular command line tool that's used to
+
+12
+00:00:30,610 --> 00:00:32,050
+be able to map the network.
+
+13
+00:00:32,050 --> 00:00:35,260
+You can do ping sweeps and look at what is up and available.
+
+14
+00:00:35,260 --> 00:00:36,910
+You can look at each individual port.
+
+15
+00:00:36,910 --> 00:00:38,830
+You can even figure out what operating system
+
+16
+00:00:38,830 --> 00:00:40,500
+that remote server is running.
+
+17
+00:00:40,500 --> 00:00:42,550
+Now, for our case, we're really focused on
+
+18
+00:00:42,550 --> 00:00:44,730
+those open ports for this example,
+
+19
+00:00:44,730 --> 00:00:45,730
+and so I'm going to show you how
+
+20
+00:00:45,730 --> 00:00:48,280
+we can do a scan of the network on a particular host
+
+21
+00:00:48,280 --> 00:00:51,620
+using its IP and return every single port that's open
+
+22
+00:00:51,620 --> 00:00:52,757
+on that machine.
+
+23
+00:00:52,757 --> 00:00:55,330
+Nmap is used by network technicians or
+
+24
+00:00:55,330 --> 00:00:57,350
+network administrators during troubleshooting,
+
+25
+00:00:57,350 --> 00:00:59,320
+as well as by security professionals to
+
+26
+00:00:59,320 --> 00:01:01,850
+figure out what is open on a remote system.
+
+27
+00:01:01,850 --> 00:01:06,000
+So, as you move into security+, CySA+, and pentOS+,
+
+28
+00:01:06,000 --> 00:01:08,800
+you're going to come back and use Nmap once more.
+
+29
+00:01:08,800 --> 00:01:11,420
+Let's jump into the environment and take a look.
+
+30
+00:01:11,420 --> 00:01:13,690
+Alright, so here I am, at the command prompt
+
+31
+00:01:13,690 --> 00:01:16,000
+within my Kali Linux machine.
+
+32
+00:01:16,000 --> 00:01:18,530
+This is a machine that's on my local area network,
+
+33
+00:01:18,530 --> 00:01:20,650
+and I'm going to go and scan a web server
+
+34
+00:01:20,650 --> 00:01:23,310
+that happens to be sitting on my local area network.
+
+35
+00:01:23,310 --> 00:01:25,220
+To do that, I'm going to use the command line:
+
+36
+00:01:25,220 --> 00:01:28,990
+nmap, the -sS, which tells it to do a
+
+37
+00:01:28,990 --> 00:01:32,360
+SYN scan, using just those SYN packets from the
+
+38
+00:01:32,360 --> 00:01:36,150
+SYN-ACK-SYN-ACK relationship from a 3-way handshake.
+
+39
+00:01:36,150 --> 00:01:38,783
+I'm going to use -O, which is going to tell me that
+
+40
+00:01:38,783 --> 00:01:40,220
+I want to be able to figure out
+
+41
+00:01:40,220 --> 00:01:41,890
+what operating system it's using,
+
+42
+00:01:41,890 --> 00:01:44,900
+and then the IP that I'm going after--in my case,
+
+43
+00:01:44,900 --> 00:01:47,990
+10.0.2.6.
+
+44
+00:01:47,990 --> 00:01:50,910
+And then, I'm going to put this: pipe more,
+
+45
+00:01:50,910 --> 00:01:52,860
+which is just going to give me one screen at a time,
+
+46
+00:01:52,860 --> 00:01:54,560
+because sometimes Nmap can give you
+
+47
+00:01:54,560 --> 00:01:56,750
+multiple screens worth of text.
+
+48
+00:01:56,750 --> 00:01:58,650
+When I hit enter, it's going to go out and
+
+49
+00:01:58,650 --> 00:02:00,650
+start scanning that machine.
+
+50
+00:02:00,650 --> 00:02:03,200
+And you'll see it came back in just a couple of seconds,
+
+51
+00:02:03,200 --> 00:02:04,970
+and it shows me that out of the
+
+52
+00:02:04,970 --> 00:02:07,030
+thousand ports that it looked for,
+
+53
+00:02:07,030 --> 00:02:10,510
+977 of those were closed.
+
+54
+00:02:10,510 --> 00:02:13,820
+But there are 23 open ports on this machine.
+
+55
+00:02:13,820 --> 00:02:17,160
+That means an attacker has 23 opportunities to
+
+56
+00:02:17,160 --> 00:02:18,500
+break into this machine, because
+
+57
+00:02:18,500 --> 00:02:20,950
+each of these is running a different service.
+
+58
+00:02:20,950 --> 00:02:23,180
+Now, ideally, we would want to minimize that
+
+59
+00:02:23,180 --> 00:02:25,730
+just down to the things that we need open.
+
+60
+00:02:25,730 --> 00:02:27,610
+For example, if this is a web server,
+
+61
+00:02:27,610 --> 00:02:29,970
+we would expect port 80 to be open, and
+
+62
+00:02:29,970 --> 00:02:31,710
+in this case, it is.
+
+63
+00:02:31,710 --> 00:02:33,410
+If this was an FTP server, we would
+
+64
+00:02:33,410 --> 00:02:35,550
+expect port 21 to be open, and
+
+65
+00:02:35,550 --> 00:02:36,948
+again, here it is.
+
+66
+00:02:36,948 --> 00:02:39,160
+We also see some other common ones,
+
+67
+00:02:39,160 --> 00:02:41,080
+like SSH, for remote control.
+
+68
+00:02:41,080 --> 00:02:42,523
+This is port 22.
+
+69
+00:02:42,523 --> 00:02:45,630
+We can see telnet, which is port 23.
+
+70
+00:02:45,630 --> 00:02:47,050
+Now I'm getting a little ahead of ourselves,
+
+71
+00:02:47,050 --> 00:02:48,507
+but when you get into security+,
+
+72
+00:02:48,507 --> 00:02:51,550
+you're going to learn about telnet being very insecure.
+
+73
+00:02:51,550 --> 00:02:53,240
+And so, you never want telnet to
+
+74
+00:02:53,240 --> 00:02:54,890
+actually be open and listening.
+
+75
+00:02:54,890 --> 00:02:56,720
+You want to disable that service.
+
+76
+00:02:56,720 --> 00:02:58,640
+In this case, this is one of my servers
+
+77
+00:02:58,640 --> 00:03:00,470
+that I use for my pen testing courses,
+
+78
+00:03:00,470 --> 00:03:01,883
+so I have a lot of open things here
+
+79
+00:03:01,883 --> 00:03:05,000
+that people can scan and attack.
+
+80
+00:03:05,000 --> 00:03:07,300
+Next, you can see SMTP, which is
+
+81
+00:03:07,300 --> 00:03:10,460
+our simple mail transfer protocol, port 25.
+
+82
+00:03:10,460 --> 00:03:12,990
+That allows the server to send mail.
+
+83
+00:03:12,990 --> 00:03:14,830
+I also have DNS open, because it's
+
+84
+00:03:14,830 --> 00:03:16,120
+running a DNS server.
+
+85
+00:03:16,120 --> 00:03:19,070
+You can see that here, port 53: domain.
+
+86
+00:03:19,070 --> 00:03:21,350
+And that's domain name service.
+
+87
+00:03:21,350 --> 00:03:23,340
+We have a lot of other ones here as we go down,
+
+88
+00:03:23,340 --> 00:03:24,360
+but you get the idea.
+
+89
+00:03:24,360 --> 00:03:26,930
+You can see here that there are 23 different ports
+
+90
+00:03:26,930 --> 00:03:29,620
+that are all open and waiting for a connection.
+
+91
+00:03:29,620 --> 00:03:32,110
+We can see that open state here in the middle column,
+
+92
+00:03:32,110 --> 00:03:34,940
+and we can also see that these are TCP or UDP,
+
+93
+00:03:34,940 --> 00:03:37,870
+and in my case all of these are TCP.
+
+94
+00:03:37,870 --> 00:03:40,010
+And on the right we see the service name.
+
+95
+00:03:40,010 --> 00:03:42,260
+Now, again, I did use that -O,
+
+96
+00:03:42,260 --> 00:03:43,220
+which is going to tell me what type of
+
+97
+00:03:43,220 --> 00:03:45,050
+operating system this is running.
+
+98
+00:03:45,050 --> 00:03:46,930
+In this case, the operating system is
+
+99
+00:03:46,930 --> 00:03:50,055
+running Linux 2.6.X, and that's not
+
+100
+00:03:50,055 --> 00:03:51,696
+the operating system being run by my
+
+101
+00:03:51,696 --> 00:03:53,890
+Kali Linux machine that you're seeing.
+
+102
+00:03:53,890 --> 00:03:55,570
+That's the operating system being run
+
+103
+00:03:55,570 --> 00:03:57,900
+by the server I just scanned.
+
+104
+00:03:57,900 --> 00:03:59,980
+And then, I can go ahead and we'll see
+
+105
+00:03:59,980 --> 00:04:01,730
+that we had finished that scan,
+
+106
+00:04:01,730 --> 00:04:04,490
+we've scanned only one host, one host was up,
+
+107
+00:04:04,490 --> 00:04:07,240
+and it took us 1.7 seconds.
+
+108
+00:04:07,240 --> 00:04:10,070
+Now, Zenmap is great and it's really powerful,
+
+109
+00:04:10,070 --> 00:04:11,504
+and it's fairly easy to use, once you
+
+110
+00:04:11,504 --> 00:04:14,210
+get used to the way the command line works.
+
+111
+00:04:14,210 --> 00:04:16,800
+But, if you want to do something even easier,
+
+112
+00:04:16,800 --> 00:04:19,880
+you can use a program known as Zenmap, which is a
+
+113
+00:04:19,880 --> 00:04:22,506
+graphical user interface for Nmap.
+
+114
+00:04:22,506 --> 00:04:26,030
+Now, once we're in Zenmap, it's really easy to use.
+
+115
+00:04:26,030 --> 00:04:27,400
+You're just going to put in your target,
+
+116
+00:04:27,400 --> 00:04:31,610
+which, again, was that server: 10.0.2.6, and then
+
+117
+00:04:31,610 --> 00:04:34,180
+you're going to select the profile that you want to scan with,
+
+118
+00:04:34,180 --> 00:04:36,390
+and it will create the command line for
+
+119
+00:04:36,390 --> 00:04:37,960
+Nmap that you would've used.
+
+120
+00:04:37,960 --> 00:04:41,210
+So, here, for example, is what an intense scan looks like.
+
+121
+00:04:41,210 --> 00:04:42,490
+If I wanted to go through here,
+
+122
+00:04:42,490 --> 00:04:44,660
+and maybe I just want to do a quick scan,
+
+123
+00:04:44,660 --> 00:04:46,610
+it'll go ahead and change that for me.
+
+124
+00:04:46,610 --> 00:04:49,050
+And then, hit scan, and off it goes,
+
+125
+00:04:49,050 --> 00:04:50,760
+and it's going to scan that server.
+
+126
+00:04:50,760 --> 00:04:51,718
+In this case, it came back in
+
+127
+00:04:51,718 --> 00:04:54,580
+just about a fifth of a second.
+
+128
+00:04:54,580 --> 00:04:56,280
+And you can see, again, all of those
+
+129
+00:04:56,280 --> 00:04:59,580
+ports and all of those protocols that are being used.
+
+130
+00:04:59,580 --> 00:05:01,370
+It also puts it in a nice, graphical format
+
+131
+00:05:01,370 --> 00:05:04,000
+where I can click on the ports and see them here
+
+132
+00:05:04,000 --> 00:05:06,759
+in the port tab, or I can look the typology and
+
+133
+00:05:06,759 --> 00:05:09,620
+see how it looks on the network.
+
+134
+00:05:09,620 --> 00:05:10,453
+And, in this case, I only had one host,
+
+135
+00:05:10,453 --> 00:05:12,230
+so it's not very interesting, but
+
+136
+00:05:12,230 --> 00:05:14,350
+if I looked at an entire network scope,
+
+137
+00:05:14,350 --> 00:05:15,980
+I could see all the different hosts there,
+
+138
+00:05:15,980 --> 00:05:17,930
+and then click into them for their details.
+
+139
+00:05:17,930 --> 00:05:20,030
+And if I click on host details, I'll be able to
+
+140
+00:05:20,030 --> 00:05:22,970
+figure out what information I know about that host.
+
+141
+00:05:22,970 --> 00:05:24,840
+Because I did a quick scan, I don't get
+
+142
+00:05:24,840 --> 00:05:27,080
+the operating system and other details that
+
+143
+00:05:27,080 --> 00:05:29,180
+I would've if I'd done an in-depth scan.
+
+144
+00:05:29,180 --> 00:05:30,980
+And so, let's go back here, and we'll
+
+145
+00:05:30,980 --> 00:05:32,993
+just change it and do a deeper scan.
+
+146
+00:05:38,190 --> 00:05:40,640
+And here, you'll see we'll do an intense scan.
+
+147
+00:05:40,640 --> 00:05:41,980
+I'll give it just about a minute here.
+
+148
+00:05:41,980 --> 00:05:44,630
+I'm going to fast forward so I can show you the results.
+
+149
+00:05:46,000 --> 00:05:49,470
+And now, if I go over here to my ports and hosts,
+
+150
+00:05:49,470 --> 00:05:51,040
+you'll see even more details.
+
+151
+00:05:51,040 --> 00:05:53,780
+Not only do I have the ports, the protocols,
+
+152
+00:05:53,780 --> 00:05:55,183
+the state -- whether it's open or closed -- and
+
+153
+00:05:55,183 --> 00:05:58,030
+the service, but now I know the version
+
+154
+00:05:58,030 --> 00:06:00,240
+of the application that's even running there.
+
+155
+00:06:00,240 --> 00:06:02,690
+So before we were able to find out that FTP was running
+
+156
+00:06:02,690 --> 00:06:05,820
+on port 21, but now I can find out that they're
+
+157
+00:06:05,820 --> 00:06:09,059
+actually running the application called vsftp at
+
+158
+00:06:09,059 --> 00:06:10,653
+version 2.3.4.
+
+159
+00:06:12,210 --> 00:06:14,440
+Now, as a network technician, this probably isn't
+
+160
+00:06:14,440 --> 00:06:16,820
+very helpful to me, but as you go into security
+
+161
+00:06:16,820 --> 00:06:19,300
+later on, this is really important information,
+
+162
+00:06:19,300 --> 00:06:21,530
+because it helps you to identify what version is
+
+163
+00:06:21,530 --> 00:06:23,758
+running on your different servers, and that version
+
+164
+00:06:23,758 --> 00:06:25,821
+can then be tied to different vulnerabilities
+
+165
+00:06:25,821 --> 00:06:27,450
+or attack methods.
+
+166
+00:06:27,450 --> 00:06:31,780
+So, again, as you get into security+, and CySA+, and pentOS+
+
+167
+00:06:31,780 --> 00:06:34,160
+these type of details are going to become really
+
+168
+00:06:34,160 --> 00:06:35,640
+important to you.
+
+169
+00:06:35,640 --> 00:06:37,860
+Next, if I go over here and go to host details,
+
+170
+00:06:37,860 --> 00:06:39,480
+we should see the operating system.
+
+171
+00:06:39,480 --> 00:06:40,710
+And in this case, we do.
+
+172
+00:06:40,710 --> 00:06:45,440
+It's Linux, version 2.6.9 through 2.6.33.
+
+173
+00:06:45,440 --> 00:06:48,750
+Somewhere in that range is what this server is running.
+
+174
+00:06:48,750 --> 00:06:51,770
+And so, that's the idea here as you're using Zenmap.
+
+175
+00:06:51,770 --> 00:06:53,616
+Zenmap just puts it into a nice, graphical
+
+176
+00:06:53,616 --> 00:06:55,350
+format for you to see it.
+
+177
+00:06:55,350 --> 00:06:58,520
+You can do all the same things using Nmap.
+
+178
+00:06:58,520 --> 00:07:01,820
+I hope you've enjoyed this introduction to Nmap and Zenmap.
+
+179
+00:07:01,820 --> 00:07:04,230
+They are both very powerful tools that you use
+
+180
+00:07:04,230 --> 00:07:06,528
+both in your technician days and administrator days,
+
+181
+00:07:06,528 --> 00:07:08,770
+as well as in your security days as you
+
+182
+00:07:08,770 --> 00:07:10,350
+progress through your career.
+
+183
+00:07:10,350 --> 00:07:13,210
+Now, what I would recommend is downloading Zenmap.
+
+184
+00:07:13,210 --> 00:07:15,640
+Go to Google, and type in Zenmap, and you'll
+
+185
+00:07:15,640 --> 00:07:17,580
+find it and be able to download it quickly.
+
+186
+00:07:17,580 --> 00:07:21,750
+It runs on all platforms, including Windows, Linux, and Mac,
+
+187
+00:07:21,750 --> 00:07:23,360
+and you can run it on your network, you can
+
+188
+00:07:23,360 --> 00:07:25,090
+run it against your friends, you can even
+
+189
+00:07:25,090 --> 00:07:27,880
+run it against scanme.org, which is a server set up
+
+190
+00:07:27,880 --> 00:07:30,520
+by Nmap for you specifically to scan and learn
+
+191
+00:07:30,520 --> 00:07:31,960
+how to use these tools.
+
+192
+00:07:31,960 --> 00:07:34,110
+Play around with them and get comfortable with it.
+
+193
+00:07:34,110 --> 00:07:36,050
+It's not something you need to know specifically
+
+194
+00:07:36,050 --> 00:07:38,850
+in depth for the Network+ exam, but it is
+
+195
+00:07:38,850 --> 00:07:41,060
+a great tool to have in your toolbox
+
+196
+00:07:41,060 --> 00:07:43,540
+as you go forth and start working in the real world
+
+197
+00:07:43,540 --> 00:07:46,040
+because you're going to see it come up time and time again,
+
+198
+00:07:46,040 --> 00:07:49,040
+and it gives you lots of great information that you can use.

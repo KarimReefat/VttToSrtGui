@@ -1,0 +1,235 @@
+1
+00:00:01,410 --> 00:00:07,160
+Open up your G-mail and take a good look at what you have I'm talking about the interface are OK.
+
+2
+00:00:07,230 --> 00:00:12,570
+What we see how it translates to us if you don't like it you can change it.
+
+3
+00:00:12,570 --> 00:00:16,530
+Now here is my take on going too crazy with the interface.
+
+4
+00:00:16,530 --> 00:00:19,080
+This to me is primarily a business tool.
+
+5
+00:00:19,140 --> 00:00:21,950
+It is called Google Apps for business.
+
+6
+00:00:22,020 --> 00:00:27,510
+If I make it too much like fun I don't think I want to work anymore and I want something else.
+
+7
+00:00:27,720 --> 00:00:35,960
+But with that said Go up to your gear right here and go into settings in settings go into themes.
+
+8
+00:00:36,090 --> 00:00:38,390
+You've got all kinds of things here.
+
+9
+00:00:38,420 --> 00:00:42,190
+Mr. McCann like wasabi.
+
+10
+00:00:42,310 --> 00:00:46,390
+You can get a little bit more crazy as you go down the thing.
+
+11
+00:00:46,480 --> 00:00:49,850
+Now notice some of them have that dog ear down here.
+
+12
+00:00:49,870 --> 00:00:51,780
+This one for example has a clock.
+
+13
+00:00:51,790 --> 00:00:52,700
+Now check this out.
+
+14
+00:00:52,810 --> 00:00:57,910
+If I click it it's going to ask where I live in the city that I live in and believe it or not the image
+
+15
+00:00:57,910 --> 00:01:00,040
+will change based on the time of day.
+
+16
+00:01:00,310 --> 00:01:05,370
+We'll give you a sunset image in the evenings and a nice bright sunny one during the day.
+
+17
+00:01:05,380 --> 00:01:07,530
+It changes based on time and location.
+
+18
+00:01:07,540 --> 00:01:08,520
+It's kind of interesting.
+
+19
+00:01:09,810 --> 00:01:11,600
+We can customize our themes.
+
+20
+00:01:12,330 --> 00:01:16,910
+Bring in your own photos if you want to.
+
+21
+00:01:17,020 --> 00:01:20,190
+And we do have some classic themes down here.
+
+22
+00:01:20,210 --> 00:01:26,700
+The one I would use might be high contrast that one does make it look a little bit easier to work with.
+
+23
+00:01:26,710 --> 00:01:32,080
+But I'm going to go back to default over here not just because I'm boring which I think I am is so we're
+
+24
+00:01:32,080 --> 00:01:33,300
+all kind of on the same page.
+
+25
+00:01:33,310 --> 00:01:37,520
+But please feel free to change this if you want to go back to my inbox.
+
+26
+00:01:38,330 --> 00:01:41,110
+That's going to say I changed things because I did move around.
+
+27
+00:01:41,110 --> 00:01:44,900
+I would say OK we're back to the same old boring look.
+
+28
+00:01:45,040 --> 00:01:49,700
+Now here's another thing that I want to show you these buttons up here the way they look.
+
+29
+00:01:49,840 --> 00:01:50,770
+They're icons.
+
+30
+00:01:50,930 --> 00:01:56,500
+And it might be easier to tell what they are if they were words and not icons.
+
+31
+00:01:56,500 --> 00:02:00,290
+So if we come over here let's go into here and go into settings again.
+
+32
+00:02:01,640 --> 00:02:05,930
+If we scroll down in general make sure you're in general in default you usually are
+
+33
+00:02:08,950 --> 00:02:10,390
+button labels.
+
+34
+00:02:10,560 --> 00:02:13,000
+Do you want icons or do you want text.
+
+35
+00:02:13,180 --> 00:02:13,860
+It's up to you.
+
+36
+00:02:13,900 --> 00:02:15,490
+Let's go and change that to text.
+
+37
+00:02:15,550 --> 00:02:17,920
+And while we're here we've got time for this.
+
+38
+00:02:17,960 --> 00:02:19,290
+How about putting in a photograph.
+
+39
+00:02:19,300 --> 00:02:22,000
+And if you didn't do that well you can do it right here.
+
+40
+00:02:22,050 --> 00:02:25,550
+Select a picture that everyone will see when you e-mail that.
+
+41
+00:02:25,600 --> 00:02:27,100
+Sounds exciting.
+
+42
+00:02:27,100 --> 00:02:29,040
+Is it on your computer or you don't want any.
+
+43
+00:02:29,140 --> 00:02:30,130
+I'm going to choose a file.
+
+44
+00:02:31,750 --> 00:02:34,210
+I've got to over here that I might use.
+
+45
+00:02:34,330 --> 00:02:39,820
+One is me in the Test Kitchen and one is probably better for what I'm doing looks a little bit more
+
+46
+00:02:39,820 --> 00:02:41,410
+like I'm studious.
+
+47
+00:02:41,530 --> 00:02:42,750
+I'm going to use that one.
+
+48
+00:02:42,910 --> 00:02:48,280
+Now you can use Peggs and piano keys and just they don't want you using anything that has nudity in
+
+49
+00:02:48,280 --> 00:02:48,520
+it.
+
+50
+00:02:48,540 --> 00:02:53,710
+And I think I'm fully clothed there and I'm going to go ahead and bring that out.
+
+51
+00:02:54,640 --> 00:02:59,180
+And you could say something about like that and apply the changes.
+
+52
+00:03:00,780 --> 00:03:03,020
+Now I have my own little photograph.
+
+53
+00:03:03,120 --> 00:03:06,610
+Don't forget to come down here and save the changes.
+
+54
+00:03:07,450 --> 00:03:08,280
+Now check this out.
+
+55
+00:03:08,300 --> 00:03:10,750
+If I select this they're all words.
+
+56
+00:03:10,750 --> 00:03:16,110
+Now not icons though it changes fundamentally how we look at the buttons.
+
+57
+00:03:16,260 --> 00:03:19,850
+We can change the background if we just happen to be bored.
+
+58
+00:03:20,040 --> 00:03:24,110
+And I have my own little photograph right here every time I e-mail somebody.
+
+59
+00:03:24,360 --> 00:03:26,280
+Not too bad for a day's work.

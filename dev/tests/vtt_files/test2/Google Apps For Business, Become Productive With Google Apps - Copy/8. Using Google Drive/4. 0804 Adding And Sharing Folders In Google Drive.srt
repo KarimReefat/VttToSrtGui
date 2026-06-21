@@ -1,0 +1,503 @@
+1
+00:00:01,440 --> 00:00:08,700
+We've got Dr. setup the beating heart of Google Apps for business and we're ready to do some stuff.
+
+2
+00:00:08,700 --> 00:00:14,190
+Now you'll notice I already have some stuff over here on the right where I was experimenting around.
+
+3
+00:00:14,190 --> 00:00:15,630
+Don't worry about that stuff.
+
+4
+00:00:15,630 --> 00:00:17,160
+We'll talk about that in a minute.
+
+5
+00:00:17,160 --> 00:00:21,970
+I still only have one document meeting notes and it's not even in a folder.
+
+6
+00:00:22,320 --> 00:00:25,580
+So what I'm going to do here is go to the word Croma and go on to quit.
+
+7
+00:00:25,620 --> 00:00:27,880
+I'm going to get out of krump.
+
+8
+00:00:27,990 --> 00:00:30,970
+Now what I have here let me start from the beginning.
+
+9
+00:00:31,260 --> 00:00:36,030
+Whether you're on a Windows system or a Mac system you will have the option of creating a shortcut to
+
+10
+00:00:36,030 --> 00:00:38,180
+get into your Google Drive.
+
+11
+00:00:38,320 --> 00:00:40,820
+And remember I'm not in google drive now.
+
+12
+00:00:40,950 --> 00:00:45,630
+I'm on my computer and I'm going to come up here if I'm on a Mac and I'm going to open the Google Drive
+
+13
+00:00:45,650 --> 00:00:50,100
+for you know what I need organization.
+
+14
+00:00:50,150 --> 00:00:53,310
+How do we organize the computer folders.
+
+15
+00:00:53,450 --> 00:00:54,300
+That's how we do it.
+
+16
+00:00:54,320 --> 00:00:59,840
+We create folders maybe additional drives maybe like I have over here but folders this Google Drive
+
+17
+00:00:59,840 --> 00:01:01,880
+that I just opened up is the cloud.
+
+18
+00:01:02,880 --> 00:01:08,730
+And it's waiting for me to do something so we can attack the problem of organizing our Google Drive
+
+19
+00:01:09,030 --> 00:01:10,420
+in two different ways.
+
+20
+00:01:10,650 --> 00:01:15,240
+We can attack it directly from our computer locally or we can attack it from Google Drive and let's
+
+21
+00:01:15,240 --> 00:01:15,990
+do both.
+
+22
+00:01:16,380 --> 00:01:18,300
+I don't want that sticking out there all by itself.
+
+23
+00:01:18,300 --> 00:01:22,110
+I need a folder I need at least a folder for PDA.
+
+24
+00:01:22,470 --> 00:01:26,580
+If not PDA for business ideas for personal we'll handle that in a second.
+
+25
+00:01:26,790 --> 00:01:30,100
+So Mac or Windows it doesn't matter just right click your mouse.
+
+26
+00:01:30,360 --> 00:01:32,810
+What are your options will be new folder.
+
+27
+00:01:34,980 --> 00:01:41,620
+I see that that means it's sinking with the cloud and eventually it will come to a checkmark like this
+
+28
+00:01:41,620 --> 00:01:41,910
+one.
+
+29
+00:01:41,950 --> 00:01:47,420
+Meaning it has successfully sunk XEDIT word sun is in sync.
+
+30
+00:01:47,540 --> 00:01:48,800
+I'm going to change the name to
+
+31
+00:01:52,830 --> 00:01:56,380
+and I'm going to move this one inside there.
+
+32
+00:01:56,680 --> 00:01:59,930
+Again it's going to try to think again not try it will.
+
+33
+00:01:59,950 --> 00:02:02,800
+And when you get that check mark it's done.
+
+34
+00:02:02,810 --> 00:02:07,890
+Let's close this now I'm going to reopen chrome or explorer safari.
+
+35
+00:02:07,890 --> 00:02:15,940
+Doesn't matter it right back in come up here and when type in drive it will remember what I did so drive.
+
+36
+00:02:16,130 --> 00:02:17,990
+Google dot com.
+
+37
+00:02:18,410 --> 00:02:24,700
+And I should already be signed in again and take me back.
+
+38
+00:02:24,780 --> 00:02:28,230
+I've got a folder I don't have as many folders as I want.
+
+39
+00:02:28,230 --> 00:02:32,140
+That folder is basically holding my PTF dock.
+
+40
+00:02:32,190 --> 00:02:33,630
+And there it is.
+
+41
+00:02:33,870 --> 00:02:36,380
+And you can see PTF docks over here.
+
+42
+00:02:36,390 --> 00:02:37,860
+How do we do this.
+
+43
+00:02:37,860 --> 00:02:43,620
+If we're in Google although I will admit to being very comfortable working with an operating system
+
+44
+00:02:44,370 --> 00:02:48,840
+I do a lot of my basic setup the basic setup just right in that folder.
+
+45
+00:02:48,930 --> 00:02:51,830
+And then I come back here and then I fine tune it.
+
+46
+00:02:51,950 --> 00:02:57,490
+So we've got PTF docks right here let's say in PTF docks.
+
+47
+00:02:57,770 --> 00:03:03,380
+We want a subfolder for business and one for personal so we can click here and make sure you have the
+
+48
+00:03:03,380 --> 00:03:10,290
+selected we can click here and we can go into new folder and let's call this one business.
+
+49
+00:03:10,400 --> 00:03:10,910
+We create
+
+50
+00:03:13,950 --> 00:03:17,350
+and if we open this up right here you can see it.
+
+51
+00:03:17,470 --> 00:03:21,960
+Stay selected here because if we slot business it'll put the folder inside of business.
+
+52
+00:03:22,210 --> 00:03:25,620
+So stay on this make it read and we can do that again.
+
+53
+00:03:25,630 --> 00:03:29,500
+This is not the only place we can do this and we can send you folder again.
+
+54
+00:03:31,010 --> 00:03:35,040
+And this one will be family.
+
+55
+00:03:35,080 --> 00:03:40,450
+So now we have business and we have family and we can drag and drop.
+
+56
+00:03:40,450 --> 00:03:43,600
+That's one of the things I like and that's part of the Crome experience.
+
+57
+00:03:43,750 --> 00:03:47,620
+We can drag and drop stuff in there from our computer.
+
+58
+00:03:47,740 --> 00:03:50,450
+I work off multiple drives and a lot of you might.
+
+59
+00:03:50,560 --> 00:03:54,380
+But I've also got chrome completely expanded in my window.
+
+60
+00:03:54,750 --> 00:03:59,750
+I could shrink that down just a little bit and just start dragging in a drop in.
+
+61
+00:03:59,840 --> 00:04:04,780
+Let's go back to PTF docs because this one is kind of left hanging isn't it.
+
+62
+00:04:05,210 --> 00:04:10,610
+If I grab it here I can move it into business.
+
+63
+00:04:10,840 --> 00:04:12,670
+I mean this is just like any other computer.
+
+64
+00:04:12,760 --> 00:04:16,560
+We're just doing it through the cloud through Google Apps drive.
+
+65
+00:04:16,570 --> 00:04:21,400
+Now let's go further with this and say well you know what my business.
+
+66
+00:04:21,400 --> 00:04:27,520
+I probably need to share with a couple of people on notice the icon right now is just as kind of a gray
+
+67
+00:04:27,520 --> 00:04:28,910
+folder looking thing.
+
+68
+00:04:29,110 --> 00:04:31,400
+What that means is it isn't shared.
+
+69
+00:04:31,630 --> 00:04:33,750
+But I do want to share that folder.
+
+70
+00:04:33,820 --> 00:04:38,470
+The business one not the family I want to leave that alone or maybe I want to share that with specific
+
+71
+00:04:38,560 --> 00:04:39,620
+family members.
+
+72
+00:04:39,670 --> 00:04:41,610
+So let's get to business first.
+
+73
+00:04:42,230 --> 00:04:47,990
+Make it read Come over here and click this little button again and you do have an option to share now
+
+74
+00:04:48,000 --> 00:04:50,010
+we can get that another way.
+
+75
+00:04:50,010 --> 00:04:53,300
+I actually can get it about three or four ways but this one is kind of convenient.
+
+76
+00:04:53,370 --> 00:04:56,750
+We're going to share.
+
+77
+00:04:56,790 --> 00:04:57,450
+There it is.
+
+78
+00:04:57,450 --> 00:04:58,200
+That's the link.
+
+79
+00:04:58,200 --> 00:04:59,780
+Who has access.
+
+80
+00:04:59,950 --> 00:05:02,850
+Me Who do I want to invite.
+
+81
+00:05:02,850 --> 00:05:07,740
+Now remember we haven't gotten too far into groups yet although we did create one group in a previous
+
+82
+00:05:07,740 --> 00:05:12,690
+chapter you could type in the group name and everybody in the group would have access.
+
+83
+00:05:12,750 --> 00:05:18,220
+Or you could type in individual names like maybe that's what Mike they have access to this.
+
+84
+00:05:18,270 --> 00:05:23,750
+So come down like Mike now can edit or can he just view.
+
+85
+00:05:23,940 --> 00:05:25,160
+Of course that's up to you.
+
+86
+00:05:25,260 --> 00:05:29,800
+And you can add more than one person up here just separate them by a comma Mike.
+
+87
+00:05:29,820 --> 00:05:35,920
+He's management and he would have or should have the ability to edit some leave that as can edit.
+
+88
+00:05:36,830 --> 00:05:42,740
+I do want to notify him you know actually put a message in here it's optional because it'll give him
+
+89
+00:05:42,740 --> 00:05:43,310
+information
+
+90
+00:05:46,880 --> 00:05:48,510
+here is access to the folder.
+
+91
+00:05:48,730 --> 00:05:51,220
+Do I want to send a copy to myself.
+
+92
+00:05:51,310 --> 00:05:53,560
+I usually do for record purposes.
+
+93
+00:05:53,560 --> 00:05:54,250
+Some would say yes.
+
+94
+00:05:55,030 --> 00:05:57,970
+Now you have one more option down here on editors.
+
+95
+00:05:58,380 --> 00:06:04,920
+And if you click Change you can say editors are allowed to add people and change the permissions or
+
+96
+00:06:05,010 --> 00:06:07,920
+only the owner can change the permissions.
+
+97
+00:06:07,920 --> 00:06:11,010
+And I think on that one I'm going to leave it on.
+
+98
+00:06:11,010 --> 00:06:18,350
+Editors are a lock and click save.
+
+99
+00:06:18,450 --> 00:06:21,420
+Now there is no further action required by Mike.
+
+100
+00:06:21,430 --> 00:06:25,660
+In other words to confirm it because he already has access.
+
+101
+00:06:25,790 --> 00:06:30,440
+Any time I want to I can come back into sharing I can select here.
+
+102
+00:06:30,630 --> 00:06:35,370
+I can say no he can only view or I can take him out completely right here.
+
+103
+00:06:35,460 --> 00:06:37,890
+I don't know if you want to do that to your manager.
+
+104
+00:06:37,890 --> 00:06:41,550
+Click on now you will notice something that's changed.
+
+105
+00:06:44,320 --> 00:06:46,800
+Looks like a little tiny person doesn't it.
+
+106
+00:06:46,930 --> 00:06:50,140
+That means that that particular folder is shared.
+
+107
+00:06:50,140 --> 00:06:55,210
+And now something else happens if you add another folder to that folder.
+
+108
+00:06:56,070 --> 00:07:00,750
+So we have it selected its read them over your come down into new folder
+
+109
+00:07:04,200 --> 00:07:09,630
+if you have a shared folder and you put another folder inside the shared folder it takes on the properties
+
+110
+00:07:09,630 --> 00:07:10,930
+of the parent.
+
+111
+00:07:10,980 --> 00:07:14,630
+It is a shared folder by default so we'll call this one
+
+112
+00:07:17,990 --> 00:07:21,780
+create and share not just create.
+
+113
+00:07:21,840 --> 00:07:25,830
+You can see now that one has a little tiny icon there too.
+
+114
+00:07:25,870 --> 00:07:36,130
+Let's get out of here if we come back in an open up our drive folder on our drive and go into theirs.
+
+115
+00:07:36,170 --> 00:07:44,660
+You have docks the old one we have so far this one has a little tiny people icon on it indicating it's
+
+116
+00:07:44,660 --> 00:07:45,380
+a share.
+
+117
+00:07:45,380 --> 00:07:50,080
+Of course if we open that one up we have another one in there that's a share.
+
+118
+00:07:50,330 --> 00:07:56,480
+When you're creating the drive or after you've created it I should say it's then up to you to begin
+
+119
+00:07:56,750 --> 00:08:03,590
+organizing your information which takes me back to something that I harp on a lot in harping means pushing
+
+120
+00:08:03,590 --> 00:08:04,960
+it organization.
+
+121
+00:08:04,970 --> 00:08:09,750
+You now have your drive put the folders together for your business.
+
+122
+00:08:10,040 --> 00:08:18,080
+Put the folders together for family and personal begin the organizational process drop into those folders
+
+123
+00:08:18,140 --> 00:08:23,260
+the things that you want on the cloud and whether you want to give people access or not.
+
+124
+00:08:23,450 --> 00:08:27,200
+That's what Google Drive does or at least that's the beginnings that Google Drive.
+
+125
+00:08:27,200 --> 00:08:28,130
+We're not done.
+
+126
+00:08:28,550 --> 00:08:31,230
+Let's go ahead and close out here and move on.

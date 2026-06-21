@@ -1,0 +1,380 @@
+1
+00:00:00,550 --> 00:00:03,410
+The TCP/IP model.
+
+2
+00:00:03,410 --> 00:00:05,570
+Now, if you remember all the way back
+
+3
+00:00:05,570 --> 00:00:07,490
+when we did the OSI model overview,
+
+4
+00:00:07,490 --> 00:00:10,550
+I mentioned that the OSI model was a reference model.
+
+5
+00:00:10,550 --> 00:00:13,270
+But it wasn't the only reference model out there.
+
+6
+00:00:13,270 --> 00:00:15,270
+The other big one that we're going to talk about here
+
+7
+00:00:15,270 --> 00:00:18,580
+for Network Plus is the TCP/IP model.
+
+8
+00:00:18,580 --> 00:00:23,580
+This is also known as the TCP/IP stack or the DoD model.
+
+9
+00:00:23,840 --> 00:00:27,100
+Now, this is an alternative to the OSI model,
+
+10
+00:00:27,100 --> 00:00:29,460
+and the nice thing is, it's only four layers.
+
+11
+00:00:29,460 --> 00:00:30,690
+So it's a little bit easier for
+
+12
+00:00:30,690 --> 00:00:33,170
+most people to understand and learn.
+
+13
+00:00:33,170 --> 00:00:35,990
+It is actually more relevant than the OSI model
+
+14
+00:00:35,990 --> 00:00:39,470
+because today's networks are all TCP/IP based,
+
+15
+00:00:39,470 --> 00:00:43,310
+and the TCP/IP model refers to it specifically
+
+16
+00:00:43,310 --> 00:00:45,770
+in its four layers, where the OSI model,
+
+17
+00:00:45,770 --> 00:00:48,550
+sometimes things get a little bit more blurred.
+
+18
+00:00:48,550 --> 00:00:52,830
+So how does the OSI model compare to the TCP/IP model?
+
+19
+00:00:52,830 --> 00:00:54,990
+Well, it's actually pretty simple.
+
+20
+00:00:54,990 --> 00:00:57,480
+If I take layers five, six, and seven,
+
+21
+00:00:57,480 --> 00:01:00,350
+the top three layers, and merge them all together,
+
+22
+00:01:00,350 --> 00:01:02,410
+I get the application layer.
+
+23
+00:01:02,410 --> 00:01:05,200
+So application, presentation, and session,
+
+24
+00:01:05,200 --> 00:01:08,110
+all of those functions occur under application
+
+25
+00:01:08,110 --> 00:01:10,230
+in the TCP/IP model.
+
+26
+00:01:10,230 --> 00:01:13,010
+Transport gets carried right over.
+
+27
+00:01:13,010 --> 00:01:14,850
+Network gets carried right over,
+
+28
+00:01:14,850 --> 00:01:17,180
+but we call it Internet instead of network
+
+29
+00:01:17,180 --> 00:01:19,310
+because it is really all about routing
+
+30
+00:01:19,310 --> 00:01:22,670
+to external networks, or Internets.
+
+31
+00:01:22,670 --> 00:01:25,040
+And then the final two is the bottom two layers,
+
+32
+00:01:25,040 --> 00:01:26,610
+which is data link and physical,
+
+33
+00:01:26,610 --> 00:01:28,820
+which is all about your internal network.
+
+34
+00:01:28,820 --> 00:01:31,540
+And so we call that network interface,
+
+35
+00:01:31,540 --> 00:01:35,430
+which is how you, the user, interfaces with the network.
+
+36
+00:01:35,430 --> 00:01:36,290
+So that's how it is.
+
+37
+00:01:36,290 --> 00:01:38,700
+It's pretty simple when you start looking at it that way.
+
+38
+00:01:38,700 --> 00:01:41,440
+Take the top three, squish 'em together.
+
+39
+00:01:41,440 --> 00:01:43,930
+Take the bottom two, squish them together.
+
+40
+00:01:43,930 --> 00:01:47,680
+And that's how you get the four layers of your TCP/IP model.
+
+41
+00:01:47,680 --> 00:01:51,622
+Now for the exam, you do need to understand the TCP/IP model
+
+42
+00:01:51,622 --> 00:01:54,210
+and so, if you can draw this diagram,
+
+43
+00:01:54,210 --> 00:01:57,070
+you're going to be covered there as you go through the test.
+
+44
+00:01:58,210 --> 00:02:00,770
+The network interface layer, layer one,
+
+45
+00:02:00,770 --> 00:02:03,720
+is all about physical and electrical characteristics,
+
+46
+00:02:03,720 --> 00:02:05,940
+just like in the OSI model.
+
+47
+00:02:05,940 --> 00:02:07,790
+It's going to describe how to transmit
+
+48
+00:02:07,790 --> 00:02:09,979
+bits across the networks, those ones and zeros
+
+49
+00:02:09,979 --> 00:02:11,670
+that we had in the physical layer,
+
+50
+00:02:11,670 --> 00:02:14,320
+and it's going to determine how the network medium
+
+51
+00:02:14,320 --> 00:02:17,050
+is going to be used, whether it's going to be coax,
+
+52
+00:02:17,050 --> 00:02:20,570
+optical fiber, or twisted-pair copper cabling.
+
+53
+00:02:20,570 --> 00:02:22,240
+This would be things like ethernet,
+
+54
+00:02:22,240 --> 00:02:27,240
+token ring, fiber distribution networks, or RS-232.
+
+55
+00:02:27,360 --> 00:02:31,290
+All of that gets put together inside of network interface.
+
+56
+00:02:31,290 --> 00:02:33,820
+Now layer two here is the Internet layer.
+
+57
+00:02:33,820 --> 00:02:37,600
+This is where we take data and package it into IP datagrams,
+
+58
+00:02:37,600 --> 00:02:40,110
+like we did at layer three of the OSI model.
+
+59
+00:02:40,110 --> 00:02:43,020
+It's going to contain your source and destination IPs and
+
+60
+00:02:43,020 --> 00:02:46,990
+forward those datagrams between hosts across the network.
+
+61
+00:02:46,990 --> 00:02:49,370
+These datagrams are going to be pushed around the networks
+
+62
+00:02:49,370 --> 00:02:51,390
+through routing, and this connectivity
+
+63
+00:02:51,390 --> 00:02:53,160
+is going to occur externally.
+
+64
+00:02:53,160 --> 00:02:57,340
+This is where your Internet gets connected to your Internet,
+
+65
+00:02:57,340 --> 00:02:59,140
+internal versus external.
+
+66
+00:02:59,140 --> 00:03:02,980
+Examples of this are going to be IP, ICMP,
+
+67
+00:03:02,980 --> 00:03:05,030
+ARP, and reverse ARP.
+
+68
+00:03:05,030 --> 00:03:06,520
+And we will talk about all of those
+
+69
+00:03:06,520 --> 00:03:08,440
+as we go through switching and routing
+
+70
+00:03:08,440 --> 00:03:10,190
+in the next section of this course.
+
+71
+00:03:11,400 --> 00:03:13,880
+Layer three here is going to be the transport layer,
+
+72
+00:03:13,880 --> 00:03:17,430
+and it's exactly the same as transport in OSI.
+
+73
+00:03:17,430 --> 00:03:19,440
+It gives you communication session management
+
+74
+00:03:19,440 --> 00:03:22,430
+between hosts, and it's going to define the level of service
+
+75
+00:03:22,430 --> 00:03:24,210
+and the status of the connection used
+
+76
+00:03:24,210 --> 00:03:28,820
+using TCP, UDP or RTP, the real-time protocol,
+
+77
+00:03:28,820 --> 00:03:30,710
+which is used for voice and video.
+
+78
+00:03:32,270 --> 00:03:34,630
+Application, or layer four, is going to combine
+
+79
+00:03:34,630 --> 00:03:36,820
+the top three layers of the OSI model,
+
+80
+00:03:36,820 --> 00:03:40,240
+and it's going to define the application protocols being used.
+
+81
+00:03:40,240 --> 00:03:42,360
+It's going to tell you how the programs are going to interface
+
+82
+00:03:42,360 --> 00:03:45,290
+with the transport layer, and it's going to be the layer
+
+83
+00:03:45,290 --> 00:03:47,920
+where the user is going to interact with.
+
+84
+00:03:47,920 --> 00:03:51,940
+Now, examples of this come from layers five, six, and seven
+
+85
+00:03:51,940 --> 00:03:53,530
+of the OSI model again, right,
+
+86
+00:03:53,530 --> 00:03:55,190
+because we squished those down.
+
+87
+00:03:55,190 --> 00:03:57,870
+This would be things like hypertext transfer protocol
+
+88
+00:03:57,870 --> 00:04:01,530
+for web browsing, TELNET for remote control,
+
+89
+00:04:01,530 --> 00:04:05,170
+FTP, or file transfer protocol, for file-sharing,
+
+90
+00:04:05,170 --> 00:04:07,272
+SNMP for network management,
+
+91
+00:04:07,272 --> 00:04:10,510
+DNS for domain name resolution,
+
+92
+00:04:10,510 --> 00:04:12,960
+SMTP for sending mail,
+
+93
+00:04:12,960 --> 00:04:17,550
+SSL and TLS for secure web browsing and encryption.
+
+94
+00:04:17,550 --> 00:04:19,660
+All of these things are going to be found here
+
+95
+00:04:19,660 --> 00:04:21,990
+in layer four, the application layer.
+

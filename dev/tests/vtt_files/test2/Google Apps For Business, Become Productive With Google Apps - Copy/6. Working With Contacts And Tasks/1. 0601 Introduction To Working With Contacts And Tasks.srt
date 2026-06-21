@@ -1,0 +1,35 @@
+1
+00:00:01,430 --> 00:00:04,250
+In this chapter we're going to talk about contacts and tasks.
+
+2
+00:00:04,400 --> 00:00:10,430
+A lot of you know contacts are going to take a walk through the contacts app and talk about adding and
+
+3
+00:00:10,430 --> 00:00:13,850
+removing contacts controlling contacts with groups.
+
+4
+00:00:13,850 --> 00:00:15,830
+I absolutely love groups.
+
+5
+00:00:15,860 --> 00:00:19,250
+It gives you a way to send a message to a whole bunch of people very easily.
+
+6
+00:00:19,250 --> 00:00:22,510
+We're going to control access to our contacts.
+
+7
+00:00:22,550 --> 00:00:25,360
+We're going to understand what tasks are which are very important.
+
+8
+00:00:25,600 --> 00:00:28,880
+And we're going to work through and work with asks.
+
+9
+00:00:28,970 --> 00:00:33,140
+This chapter is about context and it's about asks Let's go.

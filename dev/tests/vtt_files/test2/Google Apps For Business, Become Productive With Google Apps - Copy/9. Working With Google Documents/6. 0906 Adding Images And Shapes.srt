@@ -1,0 +1,335 @@
+1
+00:00:01,510 --> 00:00:07,420
+In this lesson tell you what let's spice up one of our documents by adding maybe some images maybe even
+
+2
+00:00:07,420 --> 00:00:08,740
+some drawings.
+
+3
+00:00:08,800 --> 00:00:14,580
+I'm going to go into documents and in documents we have an employee notice and open that up.
+
+4
+00:00:15,010 --> 00:00:18,610
+We need to up our production people get in slap dash around here.
+
+5
+00:00:18,610 --> 00:00:24,430
+Supreme leader I want an image that really shows me as supreme leader.
+
+6
+00:00:24,430 --> 00:00:27,340
+So let's talk about how you might do that now you could add a logo.
+
+7
+00:00:27,340 --> 00:00:29,880
+There's a lot of more practical ways to do things here.
+
+8
+00:00:29,890 --> 00:00:30,990
+But let's have some fun.
+
+9
+00:00:31,000 --> 00:00:35,680
+I'm going to move my cursor by clicking down here and pressing the return key once or twice.
+
+10
+00:00:35,840 --> 00:00:37,290
+Go up to the word insert.
+
+11
+00:00:37,300 --> 00:00:39,100
+I keep one come up here.
+
+12
+00:00:39,220 --> 00:00:46,360
+This is the pull down menu we're using go to insert and go into images links equations drawings tables
+
+13
+00:00:46,690 --> 00:00:47,540
+all kinds of things.
+
+14
+00:00:47,740 --> 00:00:56,110
+Let's concentrate on images now under images we can upload an image I can drag it in or I can choose
+
+15
+00:00:56,110 --> 00:00:56,900
+it right here.
+
+16
+00:00:56,910 --> 00:01:02,090
+Now I happened to have on my other monitor to the right an image I want to use.
+
+17
+00:01:02,170 --> 00:01:07,480
+Now I could get it this way but I could drag it in it's easy drag it in.
+
+18
+00:01:07,530 --> 00:01:08,800
+I'm talking here.
+
+19
+00:01:08,850 --> 00:01:10,120
+Fearless Leader.
+
+20
+00:01:10,170 --> 00:01:15,320
+Now once you select it we can resize it of course make it bigger or smaller.
+
+21
+00:01:15,570 --> 00:01:21,060
+But down here it's an inline graphic right now which means it's going to move with the text.
+
+22
+00:01:21,090 --> 00:01:26,300
+This one will wrap around in other words if the image is in the text the text will wrap around it.
+
+23
+00:01:26,520 --> 00:01:28,810
+This is the one I use a lot it's called break.
+
+24
+00:01:28,980 --> 00:01:32,040
+Just select it and what it does is allows you to move it anywhere you want.
+
+25
+00:01:32,460 --> 00:01:33,880
+If it's in line you can't do that.
+
+26
+00:01:33,960 --> 00:01:36,760
+So don't move it say write about over to here.
+
+27
+00:01:36,920 --> 00:01:39,190
+That is my fearless leader.
+
+28
+00:01:39,210 --> 00:01:43,400
+Let's go back to the word insert and go back to image.
+
+29
+00:01:43,450 --> 00:01:49,040
+That's not the only way that we can take an image from here and move it into a document.
+
+30
+00:01:49,200 --> 00:01:51,490
+We can take a snapshot.
+
+31
+00:01:51,580 --> 00:01:54,430
+Now this would be with your say Web camera.
+
+32
+00:01:54,640 --> 00:01:59,850
+So we have to allow it right here and if you've got it set up on here I am.
+
+33
+00:01:59,980 --> 00:02:01,660
+Is that a cute face or what.
+
+34
+00:02:01,920 --> 00:02:03,810
+I can take a snapshot if I wanted to.
+
+35
+00:02:03,810 --> 00:02:05,090
+I'm not going to.
+
+36
+00:02:05,280 --> 00:02:11,400
+We could do a u r l if you know the proper address if you have anything in your albums.
+
+37
+00:02:11,400 --> 00:02:12,870
+We're just getting started out.
+
+38
+00:02:13,020 --> 00:02:19,860
+Google Drive my drive and you go to search right down here you can search Google life or stock images.
+
+39
+00:02:19,860 --> 00:02:23,050
+So we're on Google right now maybe type in dogs.
+
+40
+00:02:23,190 --> 00:02:24,100
+I'm a dog guy.
+
+41
+00:02:26,600 --> 00:02:31,480
+Now they will tell you down here only select images that you have confirmed that you have the license
+
+42
+00:02:31,480 --> 00:02:38,770
+to use but I'm assuming since these are here in the Google search they are for public consumption.
+
+43
+00:02:38,770 --> 00:02:41,370
+However I wouldn't just necessarily take that for granted.
+
+44
+00:02:41,500 --> 00:02:44,410
+So if you want one of these you could select it click down here.
+
+45
+00:02:44,500 --> 00:02:46,540
+Let's not do that let's stick with what we have.
+
+46
+00:02:46,540 --> 00:02:49,830
+I like that Fearless Leader but I'm not done.
+
+47
+00:02:50,030 --> 00:02:51,870
+Go back up to the word insert.
+
+48
+00:02:52,620 --> 00:02:55,020
+And go into drawing right here.
+
+49
+00:02:55,020 --> 00:02:56,370
+You know a lot of fun here.
+
+50
+00:02:56,700 --> 00:03:01,190
+If you go into actions you can even do things as Word Art.
+
+51
+00:03:01,230 --> 00:03:07,320
+I haven't seen that in a while but it creates kind of like very descriptive and very artistic type of
+
+52
+00:03:07,320 --> 00:03:08,720
+text.
+
+53
+00:03:08,750 --> 00:03:14,760
+I'm going to come over here and start with this option shapes all kinds of different shapes I'm going
+
+54
+00:03:14,760 --> 00:03:17,350
+to do a call out like this one here.
+
+55
+00:03:17,430 --> 00:03:18,350
+That's a color.
+
+56
+00:03:18,720 --> 00:03:21,970
+Now let me go ahead and draw the color.
+
+57
+00:03:22,740 --> 00:03:25,960
+Pick up my text you let's put a text box in there.
+
+58
+00:03:28,820 --> 00:03:31,930
+I am the fearless leader.
+
+59
+00:03:31,940 --> 00:03:41,910
+Now we need to make that little bit bigger and maybe select the text come over to more.
+
+60
+00:03:42,070 --> 00:03:44,020
+We could move it around we could line it.
+
+61
+00:03:44,020 --> 00:03:49,450
+We could change the color of it bold it change the size you know just about anything that you want to
+
+62
+00:03:49,450 --> 00:03:51,540
+do here and let's move that over just a little like that.
+
+63
+00:03:51,540 --> 00:03:53,030
+Put it in the center.
+
+64
+00:03:53,110 --> 00:03:55,960
+I am the fearless leader.
+
+65
+00:03:55,960 --> 00:03:57,890
+Now I like that.
+
+66
+00:03:57,910 --> 00:04:01,590
+So what I'm going to do is say save and close.
+
+67
+00:04:01,990 --> 00:04:03,720
+And there it is down here.
+
+68
+00:04:03,930 --> 00:04:09,460
+But I can select it and go into break text and maybe move it up here.
+
+69
+00:04:09,460 --> 00:04:11,110
+Like I said have some fun with it.
+
+70
+00:04:11,110 --> 00:04:14,960
+Now notice what it's doing now because this text is here.
+
+71
+00:04:15,220 --> 00:04:18,640
+It's forcing it down and putting it in this one area.
+
+72
+00:04:18,670 --> 00:04:22,930
+So I'm going to do is I'm going to move this guy down a little bit like this and see if we can fix that
+
+73
+00:04:22,930 --> 00:04:23,730
+problem.
+
+74
+00:04:24,350 --> 00:04:25,150
+Here we go.
+
+75
+00:04:25,410 --> 00:04:28,260
+I think you have to move down just a little bit.
+
+76
+00:04:28,260 --> 00:04:30,470
+You have to play around with these things but that's all right.
+
+77
+00:04:30,490 --> 00:04:31,350
+Have some fun with it.
+
+78
+00:04:31,990 --> 00:04:39,910
+Now we know I am the fearless leader so we can add images of course if we don't like it we can delete
+
+79
+00:04:39,910 --> 00:04:41,590
+it just like that.
+
+80
+00:04:41,830 --> 00:04:44,970
+More practical or at least on a more practical approach.
+
+81
+00:04:44,980 --> 00:04:48,260
+We're talking logos here signatures.
+
+82
+00:04:48,370 --> 00:04:52,640
+A lot of things that you can use as images very easy to put in.
+
+83
+00:04:52,750 --> 00:04:54,500
+All you have to do is go up to the word insert.
+
+84
+00:04:54,550 --> 00:05:00,480
+And we went into images and drawings but you also have equations and links if you want to add those.

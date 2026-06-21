@@ -1,0 +1,35 @@
+1
+00:00:01,170 --> 00:00:05,840
+This chapter just happens to be everybody's favorite subject spreadsheets.
+
+2
+00:00:05,840 --> 00:00:08,380
+I actually do like them Google Spreadsheets.
+
+3
+00:00:08,640 --> 00:00:13,940
+We're going to talk about how you make them either alone or with a template of lots of templates here.
+
+4
+00:00:14,040 --> 00:00:19,410
+We'll talk about formatting tips will work with functions like you know adding subtracting whatever.
+
+5
+00:00:19,650 --> 00:00:24,690
+We'll talk about adding charts but then we'll work with the aspect of Google Apps for business which
+
+6
+00:00:24,690 --> 00:00:25,990
+makes this so important.
+
+7
+00:00:26,070 --> 00:00:33,120
+And that's how we share these things and we add comments how we interact with our group with a spreadsheet.
+
+8
+00:00:33,120 --> 00:00:35,510
+So this chapter is about spreadsheets.
+
+9
+00:00:35,610 --> 00:00:36,110
+Let's go.

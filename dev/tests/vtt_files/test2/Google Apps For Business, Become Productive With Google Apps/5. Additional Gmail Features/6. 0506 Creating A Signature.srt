@@ -1,0 +1,115 @@
+1
+00:00:01,450 --> 00:00:09,490
+Anytime you compose a G-mail basically there's a subject who you're sending it to CCCC the body and
+
+2
+00:00:09,490 --> 00:00:10,900
+then a signature isn't it.
+
+3
+00:00:10,970 --> 00:00:12,370
+We're talking about signatures.
+
+4
+00:00:12,370 --> 00:00:13,700
+A signature could be.
+
+5
+00:00:13,700 --> 00:00:16,300
+Regards Cheerz whatever your name.
+
+6
+00:00:16,380 --> 00:00:20,860
+Maybe some information about company maybe even a phone number or something down at the bottom.
+
+7
+00:00:20,890 --> 00:00:22,470
+Even an image.
+
+8
+00:00:22,960 --> 00:00:27,280
+But I don't really want to do that every time I compose a message.
+
+9
+00:00:27,280 --> 00:00:32,920
+So Google gives us the ability in Gmail to create our own permanent signature if you will.
+
+10
+00:00:32,920 --> 00:00:33,880
+Let's do that.
+
+11
+00:00:33,880 --> 00:00:37,290
+Let's go up to this button right here and go down to settings.
+
+12
+00:00:37,460 --> 00:00:39,350
+Now you should be on General.
+
+13
+00:00:39,610 --> 00:00:44,410
+Go down down down down and eventually you will see signature right here.
+
+14
+00:00:44,410 --> 00:00:49,060
+Now of course by default there is no let's go ahead and click here and let's make a signature.
+
+15
+00:00:51,340 --> 00:00:53,110
+Come back up again and do this
+
+16
+00:00:56,040 --> 00:00:59,860
+whatever you want to put down the that's a good phone number.
+
+17
+00:00:59,860 --> 00:01:03,480
+Now you of course have the ability here to reformat it.
+
+18
+00:01:03,580 --> 00:01:09,070
+You can add a link if you want to maybe to your Web site you can add an image if you want to it's up
+
+19
+00:01:09,070 --> 00:01:09,970
+to you.
+
+20
+00:01:09,970 --> 00:01:13,810
+You can insert this signature before quoted text in replies.
+
+21
+00:01:13,830 --> 00:01:16,750
+That's in reply and remove that line that precedes it.
+
+22
+00:01:16,750 --> 00:01:18,640
+That's an option if you want to choose.
+
+23
+00:01:18,850 --> 00:01:20,970
+I like what I've got here I think I'm OK.
+
+24
+00:01:21,190 --> 00:01:22,660
+So let's go ahead and come down here.
+
+25
+00:01:22,660 --> 00:01:28,250
+Don't forget you have to save the changes if we now go over to compose something.
+
+26
+00:01:28,660 --> 00:01:30,010
+Well there it is.
+
+27
+00:01:30,010 --> 00:01:34,720
+Now it's not really that big of a deal I understand that but it's something that can save you some time
+
+28
+00:01:34,720 --> 00:01:39,290
+when you're composing your messages to have one standardized signature.
+
+29
+00:01:39,550 --> 00:01:42,830
+And don't forget you can add links and you can add images if you want.

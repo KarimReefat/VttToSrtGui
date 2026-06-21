@@ -1,0 +1,59 @@
+1
+00:00:01,410 --> 00:00:06,560
+IT guys in this chapter we're going to continue our exploration of G-mail features.
+
+2
+00:00:06,560 --> 00:00:11,390
+We're going to start with working with chat and even making landline phone calls if you want to.
+
+3
+00:00:11,450 --> 00:00:17,020
+We're going to talk about doing video chats when you talk about what a people widget is and know what
+
+4
+00:00:17,060 --> 00:00:21,170
+you know what it is when we get into the chapter we're going to adjust our G-mail theme.
+
+5
+00:00:21,170 --> 00:00:22,360
+Think of it this way.
+
+6
+00:00:22,370 --> 00:00:27,230
+Studies show that if you can have an environment that you work in that you're happy you're going to
+
+7
+00:00:27,230 --> 00:00:28,210
+be more efficient.
+
+8
+00:00:28,340 --> 00:00:30,230
+So we're going to adjust our theme.
+
+9
+00:00:30,230 --> 00:00:34,490
+We're going to create a signature reading going to show you how you announce you're out of the office
+
+10
+00:00:35,060 --> 00:00:39,660
+if you want to we'll talk about setting a pop and I'm map accounts you don't have to but there we're
+
+11
+00:00:39,760 --> 00:00:44,810
+going to work in something called the experimental lab which allows you to add additional functionality
+
+12
+00:00:44,810 --> 00:00:46,510
+to G-mail based on what you do.
+
+13
+00:00:46,610 --> 00:00:50,210
+And then we're going to just wrap it up and talk about what we've learned in these last three chapters
+
+14
+00:00:50,600 --> 00:00:52,530
+all about G-mail.
+
+15
+00:00:52,570 --> 00:00:53,270
+We go.

@@ -1,0 +1,175 @@
+1
+00:00:01,490 --> 00:00:07,220
+One of the beauties of working with spreadsheets presentations documents in Google Apps for business
+
+2
+00:00:07,490 --> 00:00:13,800
+is the ability to share obviously and the ability to add comments that can be disseminated across anybody
+
+3
+00:00:13,800 --> 00:00:15,440
+you're sharing this with.
+
+4
+00:00:15,440 --> 00:00:19,940
+Now remember if I come up here we are sharing this with me.
+
+5
+00:00:20,000 --> 00:00:22,080
+I'm pretending to be Bonnie.
+
+6
+00:00:22,100 --> 00:00:24,540
+Bonnie wants to leave me a comment.
+
+7
+00:00:24,590 --> 00:00:26,110
+Now could be a presentation.
+
+8
+00:00:26,240 --> 00:00:27,280
+It could be a document.
+
+9
+00:00:27,320 --> 00:00:28,440
+Works the same way.
+
+10
+00:00:28,640 --> 00:00:34,580
+In this case select maybe a cell that you want to attach the comment to which I just did.
+
+11
+00:00:34,610 --> 00:00:36,490
+You can click this button right here.
+
+12
+00:00:36,860 --> 00:00:42,160
+You can click this button right here you go up the word insert and good on the comments over here doesn't
+
+13
+00:00:42,170 --> 00:00:44,220
+matter where you do it you're going to get the same thing.
+
+14
+00:00:44,360 --> 00:00:49,430
+So we have that cell selected and we come up here and we click say here insert it.
+
+15
+00:00:49,460 --> 00:00:52,220
+Now notice what happened down here first.
+
+16
+00:00:52,440 --> 00:00:55,850
+It's telling me the sheet now will have a comment on it.
+
+17
+00:00:55,950 --> 00:00:58,610
+Any sheet that has a comment will have that icon.
+
+18
+00:00:58,860 --> 00:01:01,650
+Let's get back over here and type in.
+
+19
+00:01:01,650 --> 00:01:03,900
+What do you think of this format.
+
+20
+00:01:04,620 --> 00:01:06,040
+Go and click that.
+
+21
+00:01:06,070 --> 00:01:07,960
+So she now has that comment right there.
+
+22
+00:01:07,960 --> 00:01:14,640
+Notice the little tiny dog ear right in that corner which shows you where that comment is.
+
+23
+00:01:14,770 --> 00:01:19,860
+Now let's do maybe another one up here is blue the right color.
+
+24
+00:01:21,930 --> 00:01:27,420
+If at any time she wants to see her comments then she can do it just by touching them hovering.
+
+25
+00:01:27,450 --> 00:01:30,050
+But if you click up here on comments they will appear.
+
+26
+00:01:30,210 --> 00:01:32,390
+But don't forget she's sharing this with me.
+
+27
+00:01:32,610 --> 00:01:33,990
+So let's go ahead and do this.
+
+28
+00:01:33,990 --> 00:01:35,830
+Let's come back out of here.
+
+29
+00:01:36,740 --> 00:01:39,370
+Let's go ahead and log out of Bonnie.
+
+30
+00:01:39,370 --> 00:01:40,240
+Sign up.
+
+31
+00:01:40,670 --> 00:01:43,400
+Let's go in to meet.
+
+32
+00:01:43,600 --> 00:01:46,860
+Let's come over here and go into shared with me.
+
+33
+00:01:46,980 --> 00:01:52,810
+And there it is sharing in the I can come into it and open it up and you can see I can come over to
+
+34
+00:01:52,810 --> 00:01:55,340
+these right here and see them.
+
+35
+00:01:55,510 --> 00:01:57,440
+I can also respond.
+
+36
+00:01:57,460 --> 00:02:01,060
+Send it back in when the Google server saves my comments.
+
+37
+00:02:01,060 --> 00:02:08,020
+If she's online she can actually work with it back and forth comments are a great way to collaborate
+
+38
+00:02:08,020 --> 00:02:09,940
+on things as complex as spreadsheets.
+
+39
+00:02:09,940 --> 00:02:11,390
+Make sure everything is right.
+
+40
+00:02:11,410 --> 00:02:15,970
+But as long as it's being shared and I can share this or she can share this with as many people as she
+
+41
+00:02:15,970 --> 00:02:16,850
+wants.
+
+42
+00:02:16,930 --> 00:02:21,720
+That's where the power of Google Apps for business really begins to shine.
+
+43
+00:02:21,760 --> 00:02:25,400
+Doesn't matter if it's a spreadsheet a presentation a document doesn't matter.
+
+44
+00:02:25,420 --> 00:02:31,780
+Being able to communicate from any point on the planet back and forth in real time is a tremendous asset.

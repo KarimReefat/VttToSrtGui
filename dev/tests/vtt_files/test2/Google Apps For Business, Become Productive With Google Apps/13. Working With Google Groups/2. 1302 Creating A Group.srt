@@ -1,0 +1,343 @@
+1
+00:00:01,560 --> 00:00:04,200
+This chapter we're going to talk about groups.
+
+2
+00:00:04,380 --> 00:00:08,180
+Now to me groups are an excellent way to communicate.
+
+3
+00:00:08,250 --> 00:00:12,970
+Now Google Apps for business is all about communication but we're talking about almost like a blogging
+
+4
+00:00:12,970 --> 00:00:18,240
+kind of atmosphere where you can get people together certain groups of people to discuss certain things.
+
+5
+00:00:18,310 --> 00:00:20,130
+Groups are really cool.
+
+6
+00:00:20,200 --> 00:00:22,210
+Now I'm in Croma.
+
+7
+00:00:22,210 --> 00:00:28,710
+I could come up here in typing groups that Google dot com but since I am in Chrome and I am signed in
+
+8
+00:00:28,720 --> 00:00:32,540
+I can go right here if I want to and go into groups right there.
+
+9
+00:00:32,800 --> 00:00:36,940
+We're going to create a group in this lesson and so let's get started by looking at kind of what we
+
+10
+00:00:36,940 --> 00:00:39,030
+got here over here.
+
+11
+00:00:39,100 --> 00:00:42,970
+You have a create group button which we will be using.
+
+12
+00:00:42,970 --> 00:00:48,980
+Over here you have my groups we don't have any at home which is where we just were started.
+
+13
+00:00:49,000 --> 00:00:54,700
+So you have a lot of groups you can start to kind of emphasize them and put them into favorite's makes
+
+14
+00:00:54,700 --> 00:00:56,300
+it easier to get to them.
+
+15
+00:00:56,320 --> 00:01:00,160
+We over here we have a button for my settings.
+
+16
+00:01:00,190 --> 00:01:06,580
+You have for example my global settings and you have things in here like notifications for example to
+
+17
+00:01:06,580 --> 00:01:12,760
+allow group managers to direct add me to their groups or invite me to their groups notification settings.
+
+18
+00:01:12,940 --> 00:01:15,390
+Product help is a matter of fact is here too.
+
+19
+00:01:15,580 --> 00:01:20,380
+Down here you have something besides the language you want it to be in canned responses.
+
+20
+00:01:20,380 --> 00:01:22,090
+Let me talk about that for a second.
+
+21
+00:01:22,300 --> 00:01:31,490
+If you go back into May you set this up in mail now you go into your gear and go into settings and we've
+
+22
+00:01:31,490 --> 00:01:32,600
+been here before.
+
+23
+00:01:32,780 --> 00:01:38,910
+Go to labs in labs we're looking for one of the labs that has the word canned in it.
+
+24
+00:01:39,740 --> 00:01:45,740
+And well there it is e-mail for the truly lazy canned responses.
+
+25
+00:01:45,740 --> 00:01:53,120
+It's possible there are responses that you would use in a particular blogging or e-mail type of situation
+
+26
+00:01:53,120 --> 00:01:57,440
+that you can use over and over again if you enable this it will take you through the steps it's pretty
+
+27
+00:01:57,440 --> 00:02:00,500
+easy where you can create canned responses.
+
+28
+00:02:00,500 --> 00:02:05,030
+So I just wanted to show you that if you ever wondered were canned responses were let's go back into
+
+29
+00:02:05,030 --> 00:02:12,950
+Google Groups now over here you have some typical things like display density from comfortable to compact.
+
+30
+00:02:12,950 --> 00:02:17,510
+You can take a guided tour keyboard shortcuts to forget those.
+
+31
+00:02:17,510 --> 00:02:18,830
+I love keyboard shortcuts.
+
+32
+00:02:18,830 --> 00:02:20,600
+They save you one hour out of every eight.
+
+33
+00:02:20,600 --> 00:02:26,890
+If you learn them and then down here finally you have something called fiend's and you've got to count
+
+34
+00:02:26,890 --> 00:02:31,330
+them to at least so far you have light and you have soft gray.
+
+35
+00:02:31,570 --> 00:02:32,630
+So think about it.
+
+36
+00:02:32,680 --> 00:02:33,890
+Make a decision.
+
+37
+00:02:33,940 --> 00:02:34,950
+Choose one.
+
+38
+00:02:34,960 --> 00:02:37,880
+Let's go ahead and get out of here and let's create a group.
+
+39
+00:02:37,930 --> 00:02:39,160
+Click the button right here.
+
+40
+00:02:39,970 --> 00:02:41,010
+We need a name.
+
+41
+00:02:41,140 --> 00:02:47,440
+We have a group that we call Starfire and it's people that are working with us on this top secret project
+
+42
+00:02:47,440 --> 00:02:49,510
+that we don't want anyone else to know about.
+
+43
+00:02:49,510 --> 00:02:56,680
+So let's call this Starfire project now the group e-mail address will emulate what you put up here.
+
+44
+00:02:56,680 --> 00:02:59,230
+Start a Fire project if you want to change that.
+
+45
+00:02:59,230 --> 00:03:05,080
+Feel free to use that name has already been used it will say down here it's already in use so we're
+
+46
+00:03:05,080 --> 00:03:06,790
+fine with that group description.
+
+47
+00:03:06,890 --> 00:03:15,170
+Now how about this group will discuss the new Star Fire project my primary language is English United
+
+48
+00:03:15,170 --> 00:03:15,990
+States.
+
+49
+00:03:16,010 --> 00:03:17,090
+Here's the group type.
+
+50
+00:03:17,120 --> 00:03:18,210
+This is where it gets fun.
+
+51
+00:03:18,410 --> 00:03:20,880
+You have four different choices.
+
+52
+00:03:21,050 --> 00:03:24,980
+E-mail List is what you think it's a discussion group based on e-mail.
+
+53
+00:03:25,280 --> 00:03:26,210
+You have a web form.
+
+54
+00:03:26,210 --> 00:03:33,020
+Again just what you might think it is a web forum Q&amp;A and the newer one collaborative inbox.
+
+55
+00:03:33,020 --> 00:03:35,750
+So you have a lot of choices here and you might want to play around with these.
+
+56
+00:03:35,930 --> 00:03:39,080
+Let's do Q&amp;A Q&amp;A for now.
+
+57
+00:03:39,080 --> 00:03:43,460
+It will tell you a little bit about it right here if you want to learn more about it view topics.
+
+58
+00:03:43,610 --> 00:03:45,170
+Now these are basic permissions.
+
+59
+00:03:45,170 --> 00:03:47,210
+We'll talk more about permissions later on.
+
+60
+00:03:47,300 --> 00:03:54,010
+But the basic ones are who gets to view the topics managers and all members of the group know public.
+
+61
+00:03:54,050 --> 00:03:57,420
+If you go public it goes outside the group anybody can get in.
+
+62
+00:03:57,470 --> 00:03:58,070
+Don't want that.
+
+63
+00:03:58,070 --> 00:04:05,780
+This is a top secret project post no public but all members who gets to join the group only invited
+
+64
+00:04:05,780 --> 00:04:06,600
+users.
+
+65
+00:04:06,800 --> 00:04:08,290
+It's not public.
+
+66
+00:04:08,390 --> 00:04:10,010
+This is top secret stuff.
+
+67
+00:04:10,070 --> 00:04:11,540
+So we've got that set up.
+
+68
+00:04:11,570 --> 00:04:17,190
+Not really rocket science click Create now you'll probably get this on verification.
+
+69
+00:04:17,200 --> 00:04:21,440
+Make sure you are who you are and you're not some kind of robo machine.
+
+70
+00:04:21,610 --> 00:04:26,200
+If you can't really read that trouble with these things I think they're crazy sometimes you can click
+
+71
+00:04:26,200 --> 00:04:32,040
+the button over here to find one that you can actually work with and that I can do that on.
+
+72
+00:04:32,110 --> 00:04:35,700
+Let me get in here and type in upper lower case doesn't matter here.
+
+73
+00:04:35,890 --> 00:04:38,250
+I think that's t I guess we'll find out.
+
+74
+00:04:38,320 --> 00:04:44,080
+Click Continue Star Fire project group has been created.
+
+75
+00:04:44,180 --> 00:04:49,010
+The next step would be to invite people to join the group so go ahead and start to do that.
+
+76
+00:04:50,300 --> 00:04:56,340
+I have a group called Starfighter makes sense we use it.
+
+77
+00:04:56,420 --> 00:04:59,080
+There's three people in the Starfire group.
+
+78
+00:04:59,180 --> 00:05:00,580
+We can write if we want to.
+
+79
+00:05:00,590 --> 00:05:02,960
+An invitation message.
+
+80
+00:05:02,960 --> 00:05:11,630
+Please join me in this group to discuss the Starfire Project send invites invitations have been sent.
+
+81
+00:05:11,690 --> 00:05:17,580
+We can show them right here and we have just created our first of hopefully many groups.
+
+82
+00:05:17,750 --> 00:05:24,950
+If we go back into groups up here and go to my groups it can take sometimes a minute or two.
+
+83
+00:05:24,950 --> 00:05:31,030
+My longest wait was actually 11 minutes before the Google servers actually brought it to me.
+
+84
+00:05:31,060 --> 00:05:35,690
+That was a little bit disconcerting to be honest with you but usually it takes about 30 seconds or so
+
+85
+00:05:36,010 --> 00:05:37,160
+and you've got your group.
+
+86
+00:05:37,190 --> 00:05:41,610
+We've invited people to the group and we're ready to go to the next lesson.

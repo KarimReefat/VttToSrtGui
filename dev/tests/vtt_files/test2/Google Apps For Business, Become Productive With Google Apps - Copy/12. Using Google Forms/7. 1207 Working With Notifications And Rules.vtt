@@ -1,0 +1,79 @@
+WEBVTT
+
+00:01.630 --> 00:03.960
+We've got our form we're sending it out.
+
+00:04.060 --> 00:10.180
+But we want to be involved in terms of when people send back to us maybe make changes in other words
+
+00:10.180 --> 00:11.800
+I want a notification.
+
+00:11.800 --> 00:13.090
+So let's do this.
+
+00:13.090 --> 00:21.300
+I'm going to go and it forms I'm going to go into the responses now in responses go up to the word tools
+
+00:22.140 --> 00:26.210
+and go down to notification rules.
+
+00:26.230 --> 00:27.190
+This is pretty cool.
+
+00:27.220 --> 00:31.170
+When do you want to be notified any changes are made.
+
+00:31.180 --> 00:37.510
+Anything on this sheet is changed any of these particular cells or changed collaborators or added or
+
+00:37.510 --> 00:39.870
+removed or a user submits the form.
+
+00:39.880 --> 00:46.450
+Now I do want to know when they submit it but I also want to know if they change this up here.
+
+00:46.450 --> 00:49.170
+Let's say we give them permission to change it later on.
+
+00:49.270 --> 00:52.160
+And somebody says yes and then they say no or vice versa.
+
+00:52.330 --> 00:55.490
+Well that's going to impact the hotels and how I get everything set up.
+
+00:55.720 --> 01:00.210
+So I'm going to go into right here and then I'll click this button here.
+
+01:00.550 --> 01:04.090
+And those are cells BE2 through before.
+
+01:04.090 --> 01:09.810
+So BE2 colon which has come through B for before and after.
+
+01:09.980 --> 01:19.390
+Click OK if a user submits the form or that cell changes email me a daily digest or right away click
+
+01:19.390 --> 01:20.230
+safe.
+
+01:20.230 --> 01:20.800
+Now there it is.
+
+01:20.800 --> 01:23.370
+You can have as many of these as you want.
+
+01:23.380 --> 01:25.090
+You can add another one right here.
+
+01:25.210 --> 01:32.320
+But if you're done click down here now any time somebody submits the form I'll get an e-mail or if anybody
+
+01:32.320 --> 01:34.290
+changes that one field.
+
+01:34.330 --> 01:35.620
+Are you going to attend.
+
+01:35.740 --> 01:40.200
+I'll get an e-mail notifications that can really help you stay on top of stuff.

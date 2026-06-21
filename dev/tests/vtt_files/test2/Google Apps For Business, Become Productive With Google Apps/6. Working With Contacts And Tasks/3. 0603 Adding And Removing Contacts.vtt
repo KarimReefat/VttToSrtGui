@@ -1,0 +1,217 @@
+WEBVTT
+
+00:01.430 --> 00:07.520
+Talk about adding contacts and even removing them if necessary understand something about removing when
+
+00:07.520 --> 00:12.940
+you remove a contact from Google contacts you're not really leading that person.
+
+00:12.980 --> 00:13.500
+OK.
+
+00:13.520 --> 00:16.060
+You don't have administrator capability to do that.
+
+00:16.070 --> 00:18.760
+You're just taking him out of your context.
+
+00:18.860 --> 00:22.030
+And I've got just one because I'm just setting this thing up.
+
+00:22.070 --> 00:23.110
+I want more.
+
+00:23.150 --> 00:26.610
+Let's talk about a couple of ways that we can accomplish this.
+
+00:26.650 --> 00:28.740
+Now I know somebody I want to add.
+
+00:28.760 --> 00:32.590
+That's not part of this Google domain but I still want to add them.
+
+00:32.630 --> 00:36.390
+I know their name and I know their e-mail address.
+
+00:36.830 --> 00:39.640
+So one way I could add this is what I call down and dirty.
+
+00:39.830 --> 00:44.270
+It's come up here and put this button add to my contacts.
+
+00:44.450 --> 00:45.320
+I know your name.
+
+00:45.320 --> 00:46.400
+I know their e-mail.
+
+00:46.400 --> 00:52.010
+How do we format that so that Google knows this is a name and this is an e-mail.
+
+00:52.150 --> 00:54.520
+We'll start with an open quote and type in their name.
+
+00:56.200 --> 00:56.950
+Close quote.
+
+00:57.310 --> 01:00.400
+Use the less than sign in typing their email.
+
+01:00.400 --> 01:02.420
+Now make up one here.
+
+01:02.560 --> 01:09.490
+He does live in the Washington D.C. area in the United States so called D.C. dot com which I'm sure
+
+01:09.490 --> 01:12.060
+there probably is a domain like that.
+
+01:12.260 --> 01:14.320
+Let's go ahead and use the greater than sign.
+
+01:14.520 --> 01:15.960
+So in quotes.
+
+01:15.970 --> 01:19.600
+His name in less than and greater than signs is the map.
+
+01:19.690 --> 01:22.120
+Down and Dirty look at.
+
+01:22.150 --> 01:26.290
+So that's one way we can add a new contact the other way.
+
+01:26.290 --> 01:30.070
+Or the second way I should say there's several ways is click new contact over here.
+
+01:30.070 --> 01:37.060
+Of course now I could have done the exact same thing and added Graig this way and gotten more information
+
+01:37.060 --> 01:38.680
+if I wanted to use it.
+
+01:39.430 --> 01:42.450
+But how do I do that now with Greg since I already added them.
+
+01:42.490 --> 01:47.060
+Let's come back here.
+
+01:47.070 --> 01:47.930
+Well there you go.
+
+01:48.150 --> 01:55.050
+You can add more information as she get down and dirty way to kind of add a contact scroll back here.
+
+01:55.970 --> 02:00.860
+Another way in the way I do use a lot is by importing from a C S V.
+
+02:01.460 --> 02:03.300
+Comma separated value file.
+
+02:03.350 --> 02:07.310
+So if I come down here there is import contact's.
+
+02:07.530 --> 02:10.030
+I need a c s v v card file.
+
+02:10.050 --> 02:10.850
+I'm going to choose it.
+
+02:12.400 --> 02:14.020
+And here it is.
+
+02:14.020 --> 02:19.290
+Click open and go ahead and click the import button.
+
+02:19.320 --> 02:21.620
+Now I did something sneaky.
+
+02:21.750 --> 02:23.940
+Why you have all these imported things over here.
+
+02:24.810 --> 02:29.780
+What I wanted to do is bring in a duplicate when you first bring in a CSP file.
+
+02:29.790 --> 02:35.700
+It will ask you I'm going to check for duplicates now but if you re-import some that you're deleting
+
+02:36.030 --> 02:39.040
+it doesn't do that because it assumes you know what you were doing.
+
+02:39.240 --> 02:40.330
+I don't know what I'm doing.
+
+02:40.530 --> 02:42.530
+I got a derk block twice don't I.
+
+02:42.780 --> 02:48.330
+Well it would be so easy for me to click here and just simply go over to more and say remove it delete
+
+02:48.330 --> 02:48.760
+it.
+
+02:49.050 --> 02:50.170
+OK that's easy.
+
+02:50.420 --> 02:53.650
+But what if you get hundreds and hundreds of contacts.
+
+02:53.790 --> 02:55.140
+Do I have any duplicates.
+
+02:55.140 --> 02:59.400
+I guess I could sort them by name and I'd be able to see them but I just don't want to do that.
+
+02:59.700 --> 03:05.500
+So I have an option under more right here which is fine in merge duplicates.
+
+03:05.520 --> 03:06.870
+Now what's the merge part.
+
+03:06.870 --> 03:12.090
+Well what if you have a duplicate of somebody that has more contact information than the other duplicate
+
+03:12.570 --> 03:17.940
+it will merge the information together to produce one.
+
+03:17.950 --> 03:18.750
+There it is.
+
+03:18.820 --> 03:20.850
+Do I want to merge it or is there something different.
+
+03:20.850 --> 03:25.370
+Maybe it just happens to have the same name and I need to change that manually.
+
+03:26.150 --> 03:27.920
+Now I know what it is.
+
+03:28.140 --> 03:29.110
+I'm going to merge.
+
+03:29.430 --> 03:30.490
+There you go.
+
+03:30.600 --> 03:32.940
+Now the other thing which I've already mentioned to you.
+
+03:32.940 --> 03:38.790
+If you want to remove somebody you can come over and select that person and then just go up to the word
+
+03:38.790 --> 03:43.700
+more right here and say delete them adding is very easy.
+
+03:43.700 --> 03:47.730
+You have several different ways you can do it from down and dirty to detail.
+
+03:48.140 --> 03:53.340
+You can do it from C S V or v card files if you want to get rid of one or more than one.
+
+03:53.360 --> 03:58.580
+Just check them over on the left here and basically come up here and say delete.
+
+03:58.880 --> 04:02.480
+But these are your contacts not anybody else's.
+
+04:02.480 --> 04:04.620
+It can be anybody you want them to be.

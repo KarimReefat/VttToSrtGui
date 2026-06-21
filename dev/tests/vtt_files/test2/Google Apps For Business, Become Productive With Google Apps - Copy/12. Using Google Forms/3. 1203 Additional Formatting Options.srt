@@ -1,0 +1,351 @@
+1
+00:00:01,490 --> 00:00:06,780
+We've created a form in we like it but we want to do more to it.
+
+2
+00:00:06,800 --> 00:00:10,370
+We've made some mistakes maybe we decide we want to add or take something out.
+
+3
+00:00:10,370 --> 00:00:15,050
+Obviously anything on a computer can be modified if it couldn't it would be useless.
+
+4
+00:00:15,080 --> 00:00:16,130
+So let's go into forms.
+
+5
+00:00:17,050 --> 00:00:19,380
+Then go into Starfire.
+
+6
+00:00:19,480 --> 00:00:22,900
+Let's start with the form settings that you see right up there.
+
+7
+00:00:22,900 --> 00:00:25,360
+One is require one of a kind of Productions Inc.
+
+8
+00:00:25,360 --> 00:00:31,330
+Log in to view the form that makes it very specific and I'm going to use that one automatically collect
+
+9
+00:00:31,330 --> 00:00:38,380
+respondents one of a kind productions username and show progress bar at the bottom of foreign pages.
+
+10
+00:00:38,380 --> 00:00:44,710
+Now we have all either seen or participated in online surveys and there's a progress bar at the bottom
+
+11
+00:00:44,710 --> 00:00:46,000
+of the screen.
+
+12
+00:00:46,110 --> 00:00:47,630
+Just one note about that.
+
+13
+00:00:47,650 --> 00:00:48,950
+This is in a survey.
+
+14
+00:00:49,060 --> 00:00:54,420
+They have to fill this out but surveys people don't take them according to studies.
+
+15
+00:00:54,430 --> 00:01:01,150
+If they last longer than 12 to 14 minutes they just don't want to sit there for a quarter of an hour
+
+16
+00:01:01,480 --> 00:01:02,580
+filling out a form.
+
+17
+00:01:02,740 --> 00:01:07,280
+I'm going to come up to the Word file on the pull down menu to show you something else up here.
+
+18
+00:01:07,360 --> 00:01:10,080
+I'm not really sure about the design.
+
+19
+00:01:10,180 --> 00:01:11,530
+I don't know that Gray.
+
+20
+00:01:11,680 --> 00:01:19,490
+I need another set of eyes on this so I can add collaborators now and adding collaborators what you're
+
+21
+00:01:19,490 --> 00:01:26,430
+doing is you're giving that person the ability to edit even to add more people to the list.
+
+22
+00:01:26,540 --> 00:01:29,380
+You're doing all of that is going on that Bonnie right here.
+
+23
+00:01:29,750 --> 00:01:31,350
+Click send.
+
+24
+00:01:31,510 --> 00:01:33,330
+And she can add it.
+
+25
+00:01:33,430 --> 00:01:38,980
+Now what that means is if she's online we could have a dialogue going back and forth right now.
+
+26
+00:01:38,980 --> 00:01:43,630
+We could both be working on the same document collaboration we've talked about that before and other
+
+27
+00:01:43,630 --> 00:01:49,900
+chapters is really a nice feature of Google lots for business if at any time now that she's a collaborator
+
+28
+00:01:50,380 --> 00:01:55,120
+that you feel like you want to give her an email all you have to do is go up here and go down to e-mail
+
+29
+00:01:55,120 --> 00:01:59,720
+collaborators and you could send an e-mail to everybody that's involved in this project that you will
+
+30
+00:01:59,730 --> 00:02:03,280
+want to share it so we can do that now under Edit.
+
+31
+00:02:03,280 --> 00:02:06,370
+You only have two things really undo and redo.
+
+32
+00:02:06,580 --> 00:02:08,510
+And those are my two favorite keys in the whole world.
+
+33
+00:02:08,530 --> 00:02:13,230
+I wish life had an undo button and make it real nice but I need to make some changes down here.
+
+34
+00:02:13,480 --> 00:02:19,750
+Number one if we go all the way down to our confirmation page I can change this text if I want to.
+
+35
+00:02:19,750 --> 00:02:23,310
+That's what they see when they submit your response has been recorded.
+
+36
+00:02:23,330 --> 00:02:28,110
+Thank you show a link to submit another response.
+
+37
+00:02:28,110 --> 00:02:28,920
+That was a mistake.
+
+38
+00:02:28,920 --> 00:02:30,450
+I need to turn that off.
+
+39
+00:02:30,510 --> 00:02:32,320
+They get one response.
+
+40
+00:02:32,490 --> 00:02:38,720
+Publish and show a link to the results that allow responders to edit responses after submitting.
+
+41
+00:02:38,730 --> 00:02:40,570
+And I'm not going to let him do that either.
+
+42
+00:02:40,590 --> 00:02:44,180
+I don't like that over here or coming up a little bit.
+
+43
+00:02:44,190 --> 00:02:45,990
+Why are you not attending.
+
+44
+00:02:46,080 --> 00:02:47,070
+Click here.
+
+45
+00:02:47,750 --> 00:02:52,940
+That box doesn't really give him a lot for explanations so I'm going to change it from a question type
+
+46
+00:02:52,940 --> 00:02:57,820
+text into paragraph text so they get a longer answer there.
+
+47
+00:02:58,100 --> 00:03:01,580
+So that gives him more room to tell me why they are not coming.
+
+48
+00:03:01,580 --> 00:03:05,810
+Another thing the theme itself I'm not sure about that theme.
+
+49
+00:03:05,810 --> 00:03:11,420
+Gray is OK but we're going on a trip and we're going to be in a hotel or whatever going a little bit
+
+50
+00:03:11,420 --> 00:03:17,930
+of fun to maybe making this a little bit too serious so we can come back over here again and change
+
+51
+00:03:17,960 --> 00:03:19,740
+into a different theme.
+
+52
+00:03:19,760 --> 00:03:23,080
+Now you've got some pretty wonky ones in here like birthday balloons.
+
+53
+00:03:23,090 --> 00:03:24,120
+How about Argo.
+
+54
+00:03:24,200 --> 00:03:25,190
+Let's see what that looks like.
+
+55
+00:03:26,520 --> 00:03:30,010
+Now we come up here in view live form that's not too bad.
+
+56
+00:03:30,010 --> 00:03:30,730
+I like that.
+
+57
+00:03:30,730 --> 00:03:35,410
+It changed the font change the background color change the background itself and there is no longer
+
+58
+00:03:35,410 --> 00:03:36,160
+when they submit.
+
+59
+00:03:36,160 --> 00:03:38,440
+Going to be a button saying you want to do it all over again.
+
+60
+00:03:39,710 --> 00:03:42,020
+Let's go ahead and go in to edit this form go back again.
+
+61
+00:03:42,820 --> 00:03:49,750
+If we go to the word insert we can insert things such as if you want to do this an image or a video.
+
+62
+00:03:49,750 --> 00:03:55,810
+I'm not quite sure how that would work unless you had a video for example of the lobby of the hotel
+
+63
+00:03:55,900 --> 00:04:00,520
+that you're going to stay at in a lot of hotels under web sites do have videos that you could link to
+
+64
+00:04:00,520 --> 00:04:03,930
+if you wanted to do that under Tools right here.
+
+65
+00:04:03,940 --> 00:04:08,800
+We have something called a script manager an editor now that just takes you into another level of control.
+
+66
+00:04:08,800 --> 00:04:14,860
+We're not going to get there today but script manager and script editor allow you to manage scripts
+
+67
+00:04:15,310 --> 00:04:18,200
+and that is like I said another level of control.
+
+68
+00:04:18,580 --> 00:04:21,730
+But I think I like what I want I want to add one more page.
+
+69
+00:04:21,960 --> 00:04:24,580
+So I want to add one more page down here.
+
+70
+00:04:24,580 --> 00:04:29,280
+Maybe right after transportation we can say add item page break.
+
+71
+00:04:31,300 --> 00:04:34,660
+How about guest's description optional.
+
+72
+00:04:34,660 --> 00:04:36,280
+Come down here and add an item.
+
+73
+00:04:36,280 --> 00:04:44,380
+And on this one let's go ahead and do choose from a list question title will be how many additional
+
+74
+00:04:44,380 --> 00:04:45,970
+guests will you be bringing.
+
+75
+00:04:46,790 --> 00:04:47,370
+Over here.
+
+76
+00:04:47,390 --> 00:04:47,960
+Option 1
+
+77
+00:04:50,830 --> 00:04:57,100
+2 3 4 and we'll leave it at that required question
+
+78
+00:04:59,880 --> 00:05:01,720
+and let's see how it works.
+
+79
+00:05:01,840 --> 00:05:03,730
+Let's come back up here one more time.
+
+80
+00:05:03,900 --> 00:05:04,510
+Are you coming.
+
+81
+00:05:04,560 --> 00:05:05,700
+Yeah I'm coming.
+
+82
+00:05:05,700 --> 00:05:06,990
+Can't wait.
+
+83
+00:05:07,000 --> 00:05:08,290
+Will you arrive.
+
+84
+00:05:08,430 --> 00:05:09,800
+Submarine this time.
+
+85
+00:05:10,780 --> 00:05:13,630
+How many additional guests will you be bringing.
+
+86
+00:05:13,870 --> 00:05:15,660
+And then submit it works.
+
+87
+00:05:15,700 --> 00:05:20,320
+Let's go back to edit and I'm not submitting because if I do it will add it to my results and we're
+
+88
+00:05:20,310 --> 00:05:21,570
+going to talk about those later.

@@ -1,0 +1,195 @@
+1
+00:00:01,530 --> 00:00:08,520
+Before I started this lesson I took the liberty of answering for two of the three people in Starfire.
+
+2
+00:00:08,520 --> 00:00:11,330
+Mike is the one that's left so let's see how this works.
+
+3
+00:00:11,330 --> 00:00:12,950
+We're going to sign him in right now.
+
+4
+00:00:14,080 --> 00:00:16,540
+Now here's the e-mail right here.
+
+5
+00:00:16,660 --> 00:00:22,750
+Now I like this when you see a time or date with the dotted underline you can click on and added automatically
+
+6
+00:00:22,750 --> 00:00:24,590
+to what Google calendar.
+
+7
+00:00:24,600 --> 00:00:25,690
+It's pretty cool.
+
+8
+00:00:25,700 --> 00:00:26,780
+I mean get out of here.
+
+9
+00:00:26,820 --> 00:00:30,310
+He's the last one to fill out the form so let's do it for him right here.
+
+10
+00:00:30,790 --> 00:00:33,210
+Yes I am coming.
+
+11
+00:00:33,270 --> 00:00:44,080
+I will arrive by submarine and I will bring one other person and I'm going to submit your response has
+
+12
+00:00:44,080 --> 00:00:44,930
+been recorded.
+
+13
+00:00:44,950 --> 00:00:45,960
+Thank you very much.
+
+14
+00:00:46,730 --> 00:00:49,180
+Let's go ahead and get out of this one here.
+
+15
+00:00:49,490 --> 00:00:51,460
+Let's sign Mike out.
+
+16
+00:00:52,320 --> 00:00:55,280
+And let's sign me back in.
+
+17
+00:00:55,290 --> 00:01:00,750
+Anybody can make a form as a user if they're set up correctly and all that means is they own it.
+
+18
+00:01:00,750 --> 00:01:03,350
+So going back to me I'm the owner.
+
+19
+00:01:03,550 --> 00:01:08,380
+Let's go into Google Dr. let's go into forms.
+
+20
+00:01:08,380 --> 00:01:09,780
+Now check this out.
+
+21
+00:01:09,850 --> 00:01:13,620
+There are the responses and there they are.
+
+22
+00:01:13,670 --> 00:01:15,990
+There's a time stamp there is.
+
+23
+00:01:15,990 --> 00:01:19,790
+And are you going to attend In other words for each one of our questions.
+
+24
+00:01:19,850 --> 00:01:20,820
+Everybody's coming.
+
+25
+00:01:20,930 --> 00:01:25,100
+Auto plane and submarine 2 1 1 Bonnie brought a point to me.
+
+26
+00:01:25,100 --> 00:01:28,130
+I'm not going to change it since we're kind of just playing around here.
+
+27
+00:01:28,220 --> 00:01:30,550
+But she said something to me that made sense.
+
+28
+00:01:30,710 --> 00:01:34,520
+She said you made a mistake on how many guests and I said What.
+
+29
+00:01:34,640 --> 00:01:36,810
+She said well you made it a required field.
+
+30
+00:01:36,830 --> 00:01:37,880
+I said yes.
+
+31
+00:01:38,210 --> 00:01:40,030
+He said but you didn't give them a zero.
+
+32
+00:01:40,280 --> 00:01:41,920
+So they have to bring somebody.
+
+33
+00:01:42,140 --> 00:01:46,050
+So you're saying I'm in I wasn't going to bring anybody but Andy won't let me type in zero.
+
+34
+00:01:46,080 --> 00:01:48,640
+So obviously that's something you would have to correct.
+
+35
+00:01:48,650 --> 00:01:49,060
+We won't.
+
+36
+00:01:49,070 --> 00:01:50,440
+But you know how to do that.
+
+37
+00:01:50,510 --> 00:01:52,940
+What can we do now from here.
+
+38
+00:01:52,940 --> 00:01:57,560
+Well some of the things you can do kind of cool if you go up to the Word form on the pull down menu
+
+39
+00:01:58,160 --> 00:02:01,110
+go down to show summary of responses.
+
+40
+00:02:02,240 --> 00:02:03,500
+This is really nice.
+
+41
+00:02:03,500 --> 00:02:08,410
+Now we don't have a lot of data but it's giving us information over here.
+
+42
+00:02:08,510 --> 00:02:13,060
+And I saw a pie chart over there showing us how we are doing.
+
+43
+00:02:13,290 --> 00:02:15,320
+Go ahead and close that out.
+
+44
+00:02:15,370 --> 00:02:16,510
+One more thing.
+
+45
+00:02:16,600 --> 00:02:22,480
+If on the spreadsheet you go to the Word file and you go down to download as you get a whole lot more
+
+46
+00:02:22,480 --> 00:02:23,300
+options.
+
+47
+00:02:23,320 --> 00:02:29,800
+You can download this as a Microsoft Excel spreadsheet open document format PTF there's CXXVI again
+
+48
+00:02:29,830 --> 00:02:34,840
+comma separated values tab separated values or a web page.
+
+49
+00:02:34,840 --> 00:02:40,470
+All the information you need tabulated on the spreadsheet to make your meeting a success.

@@ -1,0 +1,311 @@
+1
+00:00:01,530 --> 00:00:05,910
+In this lesson let's talk about the dreaded function calculations.
+
+2
+00:00:06,010 --> 00:00:08,540
+But that's where spreadsheets really shine.
+
+3
+00:00:08,560 --> 00:00:11,500
+So let's go back into our demo right here.
+
+4
+00:00:11,500 --> 00:00:13,210
+We've done so much to this.
+
+5
+00:00:13,210 --> 00:00:18,490
+We have columns of figures and you know what I really don't want to have to add those up with a calculator.
+
+6
+00:00:18,610 --> 00:00:19,590
+Do we have to do it.
+
+7
+00:00:19,750 --> 00:00:21,130
+No of course not.
+
+8
+00:00:21,340 --> 00:00:26,650
+So let's look at several different ways that we can sum up these columns.
+
+9
+00:00:26,650 --> 00:00:28,990
+Number one get into this one right here.
+
+10
+00:00:29,780 --> 00:00:31,660
+Type in an equal sign.
+
+11
+00:00:31,730 --> 00:00:36,220
+Now just like in Microsoft Excel that means you're about to enter a function.
+
+12
+00:00:36,400 --> 00:00:43,300
+The function is going to be some sort going to type in s u m Gnosis trying to help you out here.
+
+13
+00:00:43,300 --> 00:00:45,890
+Go ahead and put in a left right like that.
+
+14
+00:00:46,000 --> 00:00:47,140
+Now stop.
+
+15
+00:00:47,140 --> 00:00:48,410
+Pick up cursor.
+
+16
+00:00:48,610 --> 00:00:50,800
+Come up here and click on this cell.
+
+17
+00:00:50,810 --> 00:00:58,930
+Now that's b three in drag down because I don't want to have to type in B-3 through B 11 now press your
+
+18
+00:00:58,930 --> 00:01:01,920
+return key and that's the enter key in Windows return on a Mac.
+
+19
+00:01:02,140 --> 00:01:02,990
+There you go.
+
+20
+00:01:03,060 --> 00:01:04,440
+You now have a calculation now.
+
+21
+00:01:04,510 --> 00:01:09,560
+Obviously if I change a number it'll change the calculation.
+
+22
+00:01:09,570 --> 00:01:11,500
+That's what I love about spreadsheets.
+
+23
+00:01:11,580 --> 00:01:13,670
+They're so much better than a calculator.
+
+24
+00:01:13,680 --> 00:01:15,950
+Now we've got to do it for the next five columns.
+
+25
+00:01:15,960 --> 00:01:16,710
+Yes or no.
+
+26
+00:01:16,860 --> 00:01:19,800
+Well yes but there are ways that we can do this.
+
+27
+00:01:19,800 --> 00:01:21,990
+It's going to make it a whole lot easier for you.
+
+28
+00:01:21,990 --> 00:01:25,290
+Number one get into this area here.
+
+29
+00:01:25,390 --> 00:01:28,380
+Now you can see up here what we've done.
+
+30
+00:01:28,650 --> 00:01:33,520
+So that's not really a number it's a calculation result from this column and that's all we need to know.
+
+31
+00:01:33,780 --> 00:01:39,620
+If we come over and say EDID copy we are copying a formula.
+
+32
+00:01:39,870 --> 00:01:47,430
+If I get into this area right here and press control V which is the shortcut control V on Windows command
+
+33
+00:01:47,450 --> 00:01:52,840
+Viana Mac as you can see every time I do that it puts it in.
+
+34
+00:01:53,080 --> 00:01:59,500
+But it's smart enough to understand by default that I don't want the same calculation over and over
+
+35
+00:01:59,500 --> 00:02:02,620
+again change the numbers for the columns.
+
+36
+00:02:02,620 --> 00:02:09,230
+So if you look up here it's now ef 3 through F 11 D.
+
+37
+00:02:09,970 --> 00:02:11,230
+Well let's do this.
+
+38
+00:02:11,370 --> 00:02:13,650
+We have a button up here for undoing multiple undo.
+
+39
+00:02:13,680 --> 00:02:14,460
+I love Hindus.
+
+40
+00:02:14,480 --> 00:02:17,260
+It's my favorite key in the whole world.
+
+41
+00:02:17,280 --> 00:02:20,030
+Let's go ahead and take those back down to the first one.
+
+42
+00:02:20,340 --> 00:02:22,510
+Here's an even easier way to do it.
+
+43
+00:02:22,860 --> 00:02:28,620
+If I click right here you'll see a little tiny square come up right there you see it.
+
+44
+00:02:28,740 --> 00:02:31,570
+I talk low when I'm trying to get your attention right.
+
+45
+00:02:31,600 --> 00:02:34,940
+If you touch it you can turn it into a little plus sign.
+
+46
+00:02:35,170 --> 00:02:36,480
+That's what you want to see.
+
+47
+00:02:37,250 --> 00:02:40,630
+Now click and drag and you see that dotted line come up.
+
+48
+00:02:40,630 --> 00:02:45,830
+That's what you want but go all the way across did it again.
+
+49
+00:02:45,880 --> 00:02:48,120
+That one was a whole lot easier.
+
+50
+00:02:48,130 --> 00:02:52,450
+You say Well Andy I don't know about some I don't know a lot about calculations I saw when you typed
+
+51
+00:02:52,450 --> 00:02:53,640
+it in that kind of helped you out.
+
+52
+00:02:53,650 --> 00:02:54,840
+That was really kind of cool.
+
+53
+00:02:55,090 --> 00:03:00,520
+But some obviously is not the only one I want and can I find more information on doing this kind of
+
+54
+00:03:00,520 --> 00:03:03,030
+thing without buying a book.
+
+55
+00:03:03,080 --> 00:03:05,050
+And the answer to that is yes.
+
+56
+00:03:05,050 --> 00:03:07,690
+See this button up here for functions.
+
+57
+00:03:07,870 --> 00:03:12,430
+If you click it it will give you some average count max and min.
+
+58
+00:03:12,430 --> 00:03:13,720
+So we can do this.
+
+59
+00:03:13,720 --> 00:03:15,090
+Let me get rid of this one.
+
+60
+00:03:15,400 --> 00:03:20,110
+Just delete it so that one is not done yet but we want to summit but we don't really know how to put
+
+61
+00:03:20,110 --> 00:03:20,960
+it together.
+
+62
+00:03:21,160 --> 00:03:22,020
+So we click here.
+
+63
+00:03:22,890 --> 00:03:28,140
+And we come up here and we say some or average or count or max or min.
+
+64
+00:03:28,170 --> 00:03:30,230
+Now what do you do while you could type in.
+
+65
+00:03:30,590 --> 00:03:35,230
+But do the same thing just grab indirect back at square one.
+
+66
+00:03:35,260 --> 00:03:36,170
+We got it done.
+
+67
+00:03:36,170 --> 00:03:40,320
+Now I'm going to put the word totals over here because that's what they are.
+
+68
+00:03:40,780 --> 00:03:44,820
+And let's go ahead and put that on the right hand side I suppose.
+
+69
+00:03:45,680 --> 00:03:52,510
+And I think totals deserve probably at least being bold and maybe even having a darker color in here.
+
+70
+00:03:52,520 --> 00:04:00,710
+So let's go across and select all of the cells like that come up to bold and let's give them a different
+
+71
+00:04:00,710 --> 00:04:01,320
+color.
+
+72
+00:04:01,990 --> 00:04:03,790
+Blue color of trust.
+
+73
+00:04:03,790 --> 00:04:05,120
+Do you trust my figures.
+
+74
+00:04:05,190 --> 00:04:08,720
+I'll tell you what is doing a whole lot better job than I could do with a calculator.
+
+75
+00:04:08,740 --> 00:04:13,540
+So when you're doing functions Incidentally if you come back up here again and you go to more functions
+
+76
+00:04:13,540 --> 00:04:15,540
+it will list them all for you.
+
+77
+00:04:15,790 --> 00:04:21,550
+In my opinion the most difficult thing yet the most beneficial thing about spreadsheets is functions
+
+78
+00:04:22,000 --> 00:04:26,140
+and once you get them figured out well you can do just about anything you want.

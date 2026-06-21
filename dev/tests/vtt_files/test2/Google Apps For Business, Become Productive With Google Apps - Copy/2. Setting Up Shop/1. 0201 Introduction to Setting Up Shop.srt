@@ -1,0 +1,43 @@
+1
+00:00:01,170 --> 00:00:07,310
+All right now that we're done with the pleasantries in this chapter we need to set up shop.
+
+2
+00:00:07,520 --> 00:00:14,060
+Now in my opinion this is the most difficult chapter in the entire series because there are some things
+
+3
+00:00:14,060 --> 00:00:20,210
+either you or your I.T. people are going to have to do to coordinate Google Apps with business with
+
+4
+00:00:20,210 --> 00:00:21,430
+your host server.
+
+5
+00:00:21,770 --> 00:00:24,710
+That's going to be different for every host server that's out there.
+
+6
+00:00:24,710 --> 00:00:28,490
+But I think I've got a good idea on how I'm going to teach this.
+
+7
+00:00:28,610 --> 00:00:32,160
+Once you get over this hurdle and believe me it's not really that big of a hurdle.
+
+8
+00:00:32,930 --> 00:00:38,540
+Once you get over it I would say it's not necessarily down hill but you get into the fun of setting
+
+9
+00:00:38,540 --> 00:00:40,750
+things up because now it's going to work for you.
+
+10
+00:00:40,760 --> 00:00:48,880
+So this chapter is the most crucial chapter in getting Google Apps for business up and running.
+
+11
+00:00:49,010 --> 00:00:49,660
+You're ready.

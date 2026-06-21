@@ -1,0 +1,374 @@
+﻿WEBVTT
+
+1
+00:00:00.580 --> 00:00:03.370 line:15% 
+<v ->Data transfer over networks.</v>
+
+2
+00:00:03.370 --> 00:00:05.300
+So when we transfer data over networks,
+
+3
+00:00:05.300 --> 00:00:09.090
+we have to have a way to tell it where it's going to go.
+
+4
+00:00:09.090 --> 00:00:12.000
+Now we use IP addresses to get you to the system,
+
+5
+00:00:12.000 --> 00:00:12.833
+but how does it know what
+
+6
+00:00:12.833 --> 00:00:15.110
+application is listening on that system?
+
+7
+00:00:15.110 --> 00:00:17.450
+Well, that's where a port comes in,
+
+8
+00:00:17.450 --> 00:00:18.930
+and ports are going to be numbered
+
+9
+00:00:18.930 --> 00:00:23.930
+from zero all the way up to 65,536.
+
+10
+00:00:23.960 --> 00:00:25.330
+That's a lot of ports,
+
+11
+00:00:25.330 --> 00:00:28.110
+so even though you only have one IP on our machine,
+
+12
+00:00:28.110 --> 00:00:31.850
+you can have over 65,000 different openings
+
+13
+00:00:31.850 --> 00:00:34.220
+for you to be able to run services on.
+
+14
+00:00:34.220 --> 00:00:36.840
+Now, we break these up into two buckets.
+
+15
+00:00:36.840 --> 00:00:40.120
+The first is called the well-known and reserved ports.
+
+16
+00:00:40.120 --> 00:00:43.440
+These are ports from zero through 1024.
+
+17
+00:00:43.440 --> 00:00:46.360
+These might be things like file transfer protocol
+
+18
+00:00:46.360 --> 00:00:51.360
+on port 21, web browsing on port 80, and things like that.
+
+19
+00:00:51.450 --> 00:00:53.310
+Ephemeral ports, on the other hand,
+
+20
+00:00:53.310 --> 00:00:55.640
+are short-lived temporary ports
+
+21
+00:00:55.640 --> 00:00:59.220
+that are open for a short time from this predefined range,
+
+22
+00:00:59.220 --> 00:01:00.700
+and these ports can be things
+
+23
+00:01:00.700 --> 00:01:03.680
+from 1025 all the way up to 65,536.
+
+24
+00:01:06.400 --> 00:01:08.760
+For example, as I'm recording this lecture,
+
+25
+00:01:08.760 --> 00:01:11.470
+I record the audio on my iPad.
+
+26
+00:01:11.470 --> 00:01:13.688
+The iPad then acts as a file server
+
+27
+00:01:13.688 --> 00:01:17.570
+and picks a random port around 60,000ish,
+
+28
+00:01:17.570 --> 00:01:20.100
+and my web browser on my laptop
+
+29
+00:01:20.100 --> 00:01:23.160
+can then access that and download the audio file.
+
+30
+00:01:23.160 --> 00:01:25.800
+That is opened just as long as I download the file
+
+31
+00:01:25.800 --> 00:01:28.110
+and then it closes again, just that quickly.
+
+32
+00:01:29.470 --> 00:01:31.680
+Now, data transfer occurs using
+
+33
+00:01:31.680 --> 00:01:34.330
+these IP addresses and these ports,
+
+34
+00:01:34.330 --> 00:01:36.420
+so what does this look like in the real world?
+
+35
+00:01:36.420 --> 00:01:37.670
+Well, as you can see here,
+
+36
+00:01:37.670 --> 00:01:41.290
+I have a client on the left and a website on the right.
+
+37
+00:01:41.290 --> 00:01:44.280
+The client is at the address 192.168.1.24.
+
+38
+00:01:47.130 --> 00:01:49.700
+The website is at 64.82.46.21,
+
+39
+00:01:52.810 --> 00:01:56.230
+so from the client to make a request to the website,
+
+40
+00:01:56.230 --> 00:01:58.920
+it's going to come from the source IP,
+
+41
+00:01:58.920 --> 00:02:02.760
+that 192 address, and a port, just a random port
+
+42
+00:02:02.760 --> 00:02:05.290
+it's going to pick in those ephemeral ports.
+
+43
+00:02:05.290 --> 00:02:10.290
+In this case, it chose 49,163.
+
+44
+00:02:10.540 --> 00:02:13.290
+It's going to send it to the destination of the website,
+
+45
+00:02:13.290 --> 00:02:17.290
+which is that 64 dot-dot-dot address
+
+46
+00:02:17.290 --> 00:02:20.340
+on the web server which is at Destination IP.
+
+47
+00:02:20.340 --> 00:02:21.750
+What port does it go to?
+
+48
+00:02:21.750 --> 00:02:25.100
+The default one for websites, which is port 80.
+
+49
+00:02:25.100 --> 00:02:28.180
+Now, the website on the other hand, is going to reverse that
+
+50
+00:02:28.180 --> 00:02:31.010
+and go from its source, and its port 80,
+
+51
+00:02:31.010 --> 00:02:34.690
+back to the client on its random high port, 49,163.
+
+52
+00:02:36.690 --> 00:02:39.070
+So you can see how this communication will happen
+
+53
+00:02:39.070 --> 00:02:42.370
+to establish the session and communicate over that port.
+
+54
+00:02:42.370 --> 00:02:44.580
+Whenever we're done transmitting this website,
+
+55
+00:02:44.580 --> 00:02:47.230
+that random high port that was opened on your client,
+
+56
+00:02:47.230 --> 00:02:49.970
+it's closed and another random one will be opened,
+
+57
+00:02:49.970 --> 00:02:52.770
+but port 80 will always be sitting there on that web server
+
+58
+00:02:52.770 --> 00:02:54.720
+ready to serve requests from
+
+59
+00:02:54.720 --> 00:02:56.550
+anybody else who wants a website.
+
+60
+00:02:57.930 --> 00:03:01.790
+Now IP version four packets are going to consist of
+
+61
+00:03:01.790 --> 00:03:04.700
+the source address, that IP of the sender,
+
+62
+00:03:04.700 --> 00:03:07.820
+a destination address, the IP of the receiver,
+
+63
+00:03:07.820 --> 00:03:09.690
+the IP flags, which will allow
+
+64
+00:03:09.690 --> 00:03:12.500
+packet fragmentation and other special things,
+
+65
+00:03:12.500 --> 00:03:16.690
+and the protocol, is it going to be using TCP or UDP.
+
+66
+00:03:16.690 --> 00:03:20.840
+All of those things will go to make up this packet header,
+
+67
+00:03:20.840 --> 00:03:24.500
+and you can see it here shown on the screen in blue.
+
+68
+00:03:24.500 --> 00:03:26.930
+Do you have to memorize this packet header?
+
+69
+00:03:26.930 --> 00:03:29.780
+No, no, no, no, no, don't worry about it,
+
+70
+00:03:29.780 --> 00:03:32.060
+but do understand that your header is what's going to contain
+
+71
+00:03:32.060 --> 00:03:34.950
+your source and destination, as well as the port,
+
+72
+00:03:34.950 --> 00:03:37.060
+the protocol, and things of that nature,
+
+73
+00:03:37.060 --> 00:03:39.220
+so your packets know where to be routed to.
+
+74
+00:03:40.190 --> 00:03:42.920
+Now back when we talked about TCP and UDP,
+
+75
+00:03:42.920 --> 00:03:46.680
+we talked about the fact that TCP had a lot more overhead.
+
+76
+00:03:46.680 --> 00:03:48.890
+Now, what does that really look like?
+
+77
+00:03:48.890 --> 00:03:51.230
+Well, that's what I have here on the screen.
+
+78
+00:03:51.230 --> 00:03:56.010
+Up top, we have the TCP header, which is 20 bytes in length,
+
+79
+00:03:56.010 --> 00:03:58.490
+and you can see it contains things like the source port,
+
+80
+00:03:58.490 --> 00:04:01.170
+the destination port, the sequence number,
+
+81
+00:04:01.170 --> 00:04:04.440
+the acknowledgement number, and then a bunch of other flags.
+
+82
+00:04:04.440 --> 00:04:07.060
+All of that with the checksum and the pointers,
+
+83
+00:04:07.060 --> 00:04:08.810
+it all adds to this overall length,
+
+84
+00:04:08.810 --> 00:04:11.330
+making it a pretty bulky protocol.
+
+85
+00:04:11.330 --> 00:04:13.660
+Now compare that with UDP at the bottom.
+
+86
+00:04:13.660 --> 00:04:15.930
+It only has four pieces of information,
+
+87
+00:04:15.930 --> 00:04:18.360
+the source port, the destination port,
+
+88
+00:04:18.360 --> 00:04:20.820
+the length of the packet, and the checksum.
+
+89
+00:04:20.820 --> 00:04:23.290
+That's it, and it's only eight bytes long,
+
+90
+00:04:23.290 --> 00:04:27.290
+so you can see that there's less of the data there in UDP
+
+91
+00:04:27.290 --> 00:04:28.970
+because there's less that needs to be contained,
+
+92
+00:04:28.970 --> 00:04:30.010
+and so it allows us to have
+
+93
+00:04:30.010 --> 00:04:32.300
+a faster, more efficient protocol.
+

@@ -1,0 +1,327 @@
+1
+00:00:01,560 --> 00:00:03,370
+I am in and Google.
+
+2
+00:00:03,540 --> 00:00:07,720
+I'm going to go into my groups and I'm going to select manage again.
+
+3
+00:00:07,810 --> 00:00:09,760
+Writer.
+
+4
+00:00:09,890 --> 00:00:14,970
+Now we've got James in we've got my camera but we don't have Dirk yet do we.
+
+5
+00:00:15,020 --> 00:00:16,080
+So let's do this.
+
+6
+00:00:16,220 --> 00:00:17,950
+Let's answer for Dirk.
+
+7
+00:00:18,030 --> 00:00:29,100
+When mean come out of here and sign out real quick sign back in with a different account.
+
+8
+00:00:29,170 --> 00:00:34,730
+Let's go into his G-mail.
+
+9
+00:00:34,790 --> 00:00:36,210
+Do you want to accept or not.
+
+10
+00:00:36,590 --> 00:00:37,000
+Yes.
+
+11
+00:00:38,650 --> 00:00:40,060
+You've successfully joined.
+
+12
+00:00:40,060 --> 00:00:41,920
+You can now immediately go in.
+
+13
+00:00:41,980 --> 00:00:45,450
+But let's go into my account first.
+
+14
+00:00:45,490 --> 00:00:47,110
+So I have to get out of this one again.
+
+15
+00:00:50,450 --> 00:00:51,590
+Let's go back into groups
+
+16
+00:00:58,060 --> 00:00:59,500
+and there he is.
+
+17
+00:00:59,680 --> 00:01:02,700
+All the members are here we can start having fun.
+
+18
+00:01:02,720 --> 00:01:07,900
+Some of the things that we can do I can click say on Bonnie Lloyd and it opens up another area right
+
+19
+00:01:07,900 --> 00:01:12,130
+here says actions and I could choose more than one person if I want to.
+
+20
+00:01:12,310 --> 00:01:20,740
+If I come up to actions one is add to roll I can make one or more people owner and or managers if I
+
+21
+00:01:20,740 --> 00:01:23,030
+want to I own it I can do anything I want.
+
+22
+00:01:23,110 --> 00:01:27,330
+I could remove her from the group her ban her like I'm going to do that to my own wife.
+
+23
+00:01:27,460 --> 00:01:32,760
+I can change delivery settings and I can set posting permissions.
+
+24
+00:01:32,770 --> 00:01:37,960
+Now we know how to invite people we've talked about that but let me show you one other area here and
+
+25
+00:01:37,960 --> 00:01:40,530
+that's join requests.
+
+26
+00:01:40,540 --> 00:01:43,490
+You can only join this group if I ask you to come in.
+
+27
+00:01:43,750 --> 00:01:45,150
+But let's say it's more open.
+
+28
+00:01:45,340 --> 00:01:47,660
+Well you would have here we don't have any.
+
+29
+00:01:47,740 --> 00:01:53,320
+But you would have here join requests and you would make the decision saying OK this person can join
+
+30
+00:01:53,320 --> 00:01:56,050
+the group join requests down here.
+
+31
+00:01:56,050 --> 00:02:01,120
+I want to talk a little bit about permissions because this is where you kind of set it up to make it
+
+32
+00:02:01,120 --> 00:02:02,220
+work for you.
+
+33
+00:02:02,260 --> 00:02:06,350
+The basic ones we've already kind of talked about who gets to view topics.
+
+34
+00:02:06,400 --> 00:02:08,680
+Who gets to post who gets to join the group.
+
+35
+00:02:08,680 --> 00:02:13,750
+And you have a new member question you want to ask people posting permissions down here.
+
+36
+00:02:14,000 --> 00:02:16,130
+And basically these are pretty straightforward.
+
+37
+00:02:16,210 --> 00:02:22,990
+Who gets to do what this one none selected yet so select group or users managers who gets to assign
+
+38
+00:02:22,990 --> 00:02:30,210
+topics were all managers in a sense were all executives and say everybody who gets to attach files.
+
+39
+00:02:30,210 --> 00:02:36,500
+Now we don't have free form tags we can enable that if we want to but we don't have that option.
+
+40
+00:02:36,570 --> 00:02:40,350
+Mark favorites metoo topic that's like oh me too me too.
+
+41
+00:02:40,350 --> 00:02:41,160
+I like that topic.
+
+42
+00:02:41,160 --> 00:02:42,520
+I like that one.
+
+43
+00:02:42,540 --> 00:02:43,770
+So who gets to do that one.
+
+44
+00:02:43,920 --> 00:02:48,790
+And it tells you over here what it is all the different ones post announcements.
+
+45
+00:02:48,810 --> 00:02:49,830
+Who gets to do that.
+
+46
+00:02:50,130 --> 00:02:55,960
+Everybody replying to auto close topics we're all execs.
+
+47
+00:02:56,030 --> 00:02:59,950
+How about canned responses which I find kind of amusing sometimes.
+
+48
+00:03:00,010 --> 00:03:02,450
+Everybody want to click save.
+
+49
+00:03:02,680 --> 00:03:03,950
+If you don't it will warn you.
+
+50
+00:03:04,900 --> 00:03:07,390
+Come down to moderation permissions.
+
+51
+00:03:08,250 --> 00:03:16,290
+Now again all these are questions on who gets to do what and it's up to you to go through them edit
+
+52
+00:03:16,290 --> 00:03:17,300
+other posts.
+
+53
+00:03:17,520 --> 00:03:20,380
+Well I tell you what I think I'm going to leave that up to me.
+
+54
+00:03:21,690 --> 00:03:23,010
+Mark duplicate.
+
+55
+00:03:23,070 --> 00:03:25,790
+I'll let all members do that if they think it's a duplicate.
+
+56
+00:03:25,800 --> 00:03:27,410
+Like I said we're all executives.
+
+57
+00:03:27,460 --> 00:03:29,630
+Mark no response needed.
+
+58
+00:03:29,630 --> 00:03:31,480
+No I think I'll leave that to me.
+
+59
+00:03:32,170 --> 00:03:36,320
+Take topic all members on a sign.
+
+60
+00:03:36,430 --> 00:03:38,040
+I think I'll leave that to me.
+
+61
+00:03:38,320 --> 00:03:42,300
+And then click Save access permissions.
+
+62
+00:03:42,300 --> 00:03:47,580
+Who gets to contact the owner who gets to view members view member e-mail addresses and view topics
+
+63
+00:03:48,210 --> 00:03:52,610
+the defaults are pretty much what you're going to use in most cases.
+
+64
+00:03:52,860 --> 00:03:58,350
+But it is important as the owner of this particular group to go through them and make sure everything
+
+65
+00:03:58,350 --> 00:04:00,870
+is exactly the way it's supposed to be.
+
+66
+00:04:00,870 --> 00:04:04,410
+Now let me show you one more thing down here under information.
+
+67
+00:04:04,410 --> 00:04:07,610
+Go into advanced in advanced.
+
+68
+00:04:07,610 --> 00:04:14,380
+You can disable the group nobody can post to it but they can still see it you can delete the group.
+
+69
+00:04:14,510 --> 00:04:15,190
+It's over.
+
+70
+00:04:15,190 --> 00:04:21,020
+We don't want any record of it so we're going to delete it or you can reset it and even choose a different
+
+71
+00:04:21,020 --> 00:04:22,310
+type of group if you want to.
+
+72
+00:04:22,670 --> 00:04:27,440
+All under the Advanced Settings in information and I have had a lot of people ask me How do you get
+
+73
+00:04:27,440 --> 00:04:29,170
+rid of a group if you don't want it anymore.
+
+74
+00:04:29,210 --> 00:04:30,130
+Well that's how you do it.
+
+75
+00:04:30,320 --> 00:04:31,810
+Right down here in advance.
+
+76
+00:04:31,910 --> 00:04:35,100
+Right there it is permanent.
+
+77
+00:04:35,120 --> 00:04:39,690
+Let's go ahead and get back out of here and go back into our groups.
+
+78
+00:04:40,770 --> 00:04:41,650
+There you go.
+
+79
+00:04:41,650 --> 00:04:42,810
+We've created a group.
+
+80
+00:04:42,820 --> 00:04:48,040
+We've invited people to our group and we've looked at working through permissions.
+
+81
+00:04:48,070 --> 00:04:50,870
+The next step is to see how the thing actually works.
+
+82
+00:04:50,950 --> 00:04:51,690
+So let's do that.

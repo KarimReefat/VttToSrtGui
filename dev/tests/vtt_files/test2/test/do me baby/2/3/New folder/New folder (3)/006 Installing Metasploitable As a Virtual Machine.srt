@@ -1,0 +1,251 @@
+1
+00:00:02,130 --> 00:00:08,910
+OK so after install on Kali Linux We're going to proceed to install and the second machine in our lab
+
+2
+00:00:08,920 --> 00:00:09,140
+.
+
+3
+00:00:09,360 --> 00:00:16,360
+So the second machine is going to be exploitable exploitable is another Kali is another Linux machine
+
+4
+00:00:16,370 --> 00:00:16,560
+.
+
+5
+00:00:16,920 --> 00:00:22,470
+You can think of it as the opposite to call the So-Cal is designed so that you can use it to hack into
+
+6
+00:00:22,470 --> 00:00:27,750
+other devices middes light a will is designed so that you hack into it.
+
+7
+00:00:27,750 --> 00:00:31,060
+So it's designed for people who want to learn penetration testing.
+
+8
+00:00:31,130 --> 00:00:38,250
+It is designed so that it has a number of learning abilities and we're going to try to use the next
+
+9
+00:00:38,250 --> 00:00:40,910
+in order to hack to meet us floatable.
+
+10
+00:00:41,040 --> 00:00:46,560
+So this is going to be one of the target or victim machines you can download this from the following
+
+11
+00:00:46,560 --> 00:00:47,330
+link.
+
+12
+00:00:47,550 --> 00:00:50,900
+You will end up with a zip file like this one.
+
+13
+00:00:51,180 --> 00:00:54,090
+So sorry not this one like this one.
+
+14
+00:00:54,090 --> 00:00:57,690
+So once you uncompress it you'll get this directory.
+
+15
+00:00:57,690 --> 00:01:01,490
+Double click it and you'll see the following files.
+
+16
+00:01:01,740 --> 00:01:10,260
+So again you create a new machine here in virtual machine and I'm going to call it with us Teutul and
+
+17
+00:01:10,260 --> 00:01:13,540
+this is going to be a Linux machine.
+
+18
+00:01:16,380 --> 00:01:18,150
+And I'm going continue.
+
+19
+00:01:18,750 --> 00:01:21,910
+And I'm only going to give it a gigabyte of RAM should be enough
+
+20
+00:01:25,080 --> 00:01:30,950
+and then I'm going to use I remember with calisthenics we created a new virtual hard disk with this
+
+21
+00:01:30,960 --> 00:01:33,180
+we're going to use an existing one.
+
+22
+00:01:33,180 --> 00:01:40,110
+The reason for that is because the image that we have right now is actually it's designed for VM Ware
+
+23
+00:01:40,110 --> 00:01:40,830
+player.
+
+24
+00:01:41,010 --> 00:01:47,220
+So we're going to do is we're going to import the hard the hard disk file or the hard disk image in
+
+25
+00:01:47,220 --> 00:01:52,800
+here so that we're going to have a ready installation without having to install it the way we install
+
+26
+00:01:52,950 --> 00:01:53,880
+clinics.
+
+27
+00:01:53,910 --> 00:02:00,270
+So we're just going to use an existing virtual hard disk file and I'm just going to navigate to select
+
+28
+00:02:00,270 --> 00:02:01,110
+what it does.
+
+29
+00:02:01,290 --> 00:02:08,910
+I'm going to go into the Mityas portable directory and I'm going to select the dot MBK file.
+
+30
+00:02:09,000 --> 00:02:11,590
+So it's this file right here.
+
+31
+00:02:11,940 --> 00:02:13,050
+I'm going to click on open
+
+32
+00:02:15,780 --> 00:02:18,750
+and create.
+
+33
+00:02:18,750 --> 00:02:22,550
+So we're gonna start this machine right now.
+
+34
+00:02:23,990 --> 00:02:24,410
+OK.
+
+35
+00:02:24,420 --> 00:02:27,080
+So the machine has runouts completely installed.
+
+36
+00:02:27,090 --> 00:02:31,920
+As I said you don't really need to install anything we just imported a ready installation already hard
+
+37
+00:02:31,920 --> 00:02:32,510
+disk.
+
+38
+00:02:32,580 --> 00:02:43,770
+So was asking me for the username and the user name is and as admin and the password is the same so
+
+39
+00:02:43,790 --> 00:02:48,080
+it's MSF admin as well as we can see now.
+
+40
+00:02:48,080 --> 00:02:49,080
+We logged in.
+
+41
+00:02:49,080 --> 00:02:52,000
+Now this is only this machine has a terminal.
+
+42
+00:02:52,080 --> 00:02:59,120
+As you can see right now and it's giving you a warning that you should never expose this machine to
+
+43
+00:02:59,430 --> 00:03:02,730
+external internet connection because it is a very noble machine.
+
+44
+00:03:02,730 --> 00:03:04,380
+It is designed to be burnable.
+
+45
+00:03:04,440 --> 00:03:09,730
+Now right now it's only inside our lab it's only installed as a virtual machine.
+
+46
+00:03:09,810 --> 00:03:12,810
+So literally nobody outside our lab can access it.
+
+47
+00:03:12,900 --> 00:03:15,750
+So this is a really good way of using it.
+
+48
+00:03:16,050 --> 00:03:17,960
+Well now this is if the machine is installed.
+
+49
+00:03:18,150 --> 00:03:23,700
+As I said in the future we're going to talk about how we're going to try and hack into this machine
+
+50
+00:03:23,700 --> 00:03:23,970
+again.
+
+51
+00:03:23,970 --> 00:03:25,730
+Don't be intimidated by the terminal.
+
+52
+00:03:25,830 --> 00:03:30,330
+We're going to be using it a lot and we're going to learn how to use it step by step.
+
+53
+00:03:30,600 --> 00:03:35,670
+So at the moment just we have this installed and we're going to move on to the next step and we will
+
+54
+00:03:35,670 --> 00:03:39,120
+talk about this once we actually need to use it in the future.
+
+55
+00:03:39,120 --> 00:03:42,660
+So if you want to turn off this machine all you have to do is just type power off
+
+56
+00:03:45,510 --> 00:03:50,670
+and hit enter and selling you that you need to be rude.
+
+57
+00:03:50,680 --> 00:03:53,830
+So again I'll talk about this later for now.
+
+58
+00:03:53,850 --> 00:03:56,490
+You do power of.
+
+59
+00:03:57,990 --> 00:04:03,570
+So just run the command like this and asking you for the admin password
+
+60
+00:04:08,130 --> 00:04:08,750
+and that's it.
+
+61
+00:04:08,750 --> 00:04:10,490
+It's going off now.
+
+62
+00:04:11,370 --> 00:04:12,070
+And here we go.
+
+63
+00:04:12,090 --> 00:04:12,810
+The machine is off

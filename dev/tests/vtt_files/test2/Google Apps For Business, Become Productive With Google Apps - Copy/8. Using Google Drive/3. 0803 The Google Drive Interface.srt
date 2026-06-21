@@ -1,0 +1,247 @@
+1
+00:00:01,430 --> 00:00:04,140
+We have our drive install Let's go back into it.
+
+2
+00:00:04,160 --> 00:00:05,380
+I'm going to go drive.
+
+3
+00:00:05,390 --> 00:00:07,860
+And again it remembers what I did.
+
+4
+00:00:08,030 --> 00:00:12,170
+You might have to sign in if you do go ahead.
+
+5
+00:00:12,250 --> 00:00:15,090
+Now I only have one thing right now.
+
+6
+00:00:15,090 --> 00:00:16,990
+We're going to start totally from scratch.
+
+7
+00:00:17,130 --> 00:00:21,960
+And that was the meeting notes that I attached to a document in a previous chapter.
+
+8
+00:00:21,960 --> 00:00:25,950
+Let's take a look around the interface right here.
+
+9
+00:00:26,430 --> 00:00:28,130
+Over here you have a drive button.
+
+10
+00:00:28,140 --> 00:00:30,110
+If you click it knows how.
+
+11
+00:00:30,110 --> 00:00:31,890
+Kind of just refreshed itself.
+
+12
+00:00:31,920 --> 00:00:33,320
+So remember what we're doing here.
+
+13
+00:00:33,350 --> 00:00:40,200
+I think you know this but we are running off of the Google servers on a cloud and it's raining down
+
+14
+00:00:40,260 --> 00:00:40,940
+on us.
+
+15
+00:00:40,950 --> 00:00:43,030
+This is not local this is cloud.
+
+16
+00:00:43,080 --> 00:00:46,760
+And every once in awhile things can take a few seconds.
+
+17
+00:00:46,770 --> 00:00:51,600
+So if you're not sure you've got the latest you could click that button and refresh you have a search
+
+18
+00:00:51,600 --> 00:00:54,400
+area up here which is point powerful.
+
+19
+00:00:54,460 --> 00:00:58,290
+And if I click this little button you can see a lot of the things that we can look for.
+
+20
+00:00:58,290 --> 00:01:00,230
+We'll talk more about this later.
+
+21
+00:01:00,350 --> 00:01:04,190
+Over here you have an info button info and details in activity.
+
+22
+00:01:04,200 --> 00:01:05,480
+We don't have any yet.
+
+23
+00:01:05,550 --> 00:01:12,480
+We can change the view from a list like this into a grid in the grid will show you a small kind of like
+
+24
+00:01:12,570 --> 00:01:14,580
+icon of what you're looking at.
+
+25
+00:01:14,580 --> 00:01:16,710
+So we're talking about all kinds of things here.
+
+26
+00:01:16,830 --> 00:01:19,350
+We have our options under the gear.
+
+27
+00:01:19,570 --> 00:01:24,180
+We can go from comfortable to compact settings on upload settings.
+
+28
+00:01:24,270 --> 00:01:26,740
+Notice some of the options here convert.
+
+29
+00:01:26,820 --> 00:01:32,740
+There were two types of documents that you can have inside the Google Drive or I should say two types
+
+30
+00:01:32,740 --> 00:01:33,840
+of files.
+
+31
+00:01:33,840 --> 00:01:40,000
+One is native to the application that you use like Microsoft Word and the other one would be a Google
+
+32
+00:01:40,180 --> 00:01:41,120
+doc.
+
+33
+00:01:41,350 --> 00:01:46,780
+You can convert them if you want to which means you can use the Google apps to the cloud to work on
+
+34
+00:01:46,780 --> 00:01:53,860
+them or you can just keep them as they were as say on or PowerPoint presentations whatever and then
+
+35
+00:01:53,860 --> 00:01:57,310
+work with them outside of google up to you.
+
+36
+00:01:57,310 --> 00:02:01,250
+We can manage our apps keyboard shortcuts and help let's close out here.
+
+37
+00:02:01,360 --> 00:02:08,080
+Here's the only thing I have uploaded that one thing I did in the previous chapter if we come over here
+
+38
+00:02:08,080 --> 00:02:09,680
+and click the create button.
+
+39
+00:02:10,180 --> 00:02:12,310
+This is where you start organizing this thing.
+
+40
+00:02:12,310 --> 00:02:18,670
+Think of it just like any other hard drive with folders but with things like documents presentation
+
+41
+00:02:18,670 --> 00:02:23,420
+spreadsheets forms drawings and you can connect to more apps over here.
+
+42
+00:02:23,440 --> 00:02:31,460
+As a matter of fact if you remember in an earlier chapter I downloaded from Gmail apps the lab mind
+
+43
+00:02:31,470 --> 00:02:31,890
+map.
+
+44
+00:02:31,930 --> 00:02:35,100
+I love doing mind mapping and now it's over there for me.
+
+45
+00:02:35,320 --> 00:02:39,340
+You might not see this one if you didn't download it but we can connect over here and even get more
+
+46
+00:02:39,430 --> 00:02:40,920
+if we want to.
+
+47
+00:02:41,290 --> 00:02:48,580
+If we click this button we can start making files and folders and start creating our organization over
+
+48
+00:02:48,630 --> 00:02:49,250
+here.
+
+49
+00:02:49,400 --> 00:02:51,580
+You can say what's been shared by me.
+
+50
+00:02:51,620 --> 00:02:52,820
+What's been starred.
+
+51
+00:02:52,830 --> 00:02:54,950
+You do have a star over here if you want to use it.
+
+52
+00:02:54,980 --> 00:02:55,580
+What's recent.
+
+53
+00:02:55,580 --> 00:02:56,510
+What's trash.
+
+54
+00:02:56,600 --> 00:02:57,870
+You click on more.
+
+55
+00:02:57,980 --> 00:02:59,000
+You can work off line.
+
+56
+00:02:59,000 --> 00:03:00,380
+We will talk about that too.
+
+57
+00:03:00,470 --> 00:03:02,110
+All items right down there.
+
+58
+00:03:02,300 --> 00:03:07,790
+Now as we start working and we start uploading or downloading stuff you will eventually see a little
+
+59
+00:03:07,790 --> 00:03:12,750
+icon come down over here in the lower right and it will say Show all.
+
+60
+00:03:12,910 --> 00:03:18,850
+And when you say show all it will show you all of what you have done in terms of downloads Well there
+
+61
+00:03:18,850 --> 00:03:19,330
+you go.
+
+62
+00:03:19,330 --> 00:03:22,110
+In a nutshell the heart of the system.

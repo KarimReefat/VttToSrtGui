@@ -1,0 +1,139 @@
+1
+00:00:01,440 --> 00:00:05,910
+Let's go ahead and sign back into G-mail if you're not already there we're going to be here for a while.
+
+2
+00:00:06,610 --> 00:00:10,210
+I want to talk about something called conversations.
+
+3
+00:00:10,360 --> 00:00:15,590
+Now you will notice up here I've got me and Bonnie in the number four.
+
+4
+00:00:15,730 --> 00:00:18,520
+That's actually what is called a conversation.
+
+5
+00:00:18,520 --> 00:00:25,000
+We went back and forth to test our MX records and see name connections into Network Solutions just to
+
+6
+00:00:25,000 --> 00:00:26,820
+make sure they were going to work.
+
+7
+00:00:26,830 --> 00:00:33,330
+So it's a conversation where I sent her a message she replied to the message back and forth we go.
+
+8
+00:00:33,520 --> 00:00:36,580
+This can be as many people as you want it to be.
+
+9
+00:00:36,640 --> 00:00:39,340
+If we click on it it will open it up.
+
+10
+00:00:39,340 --> 00:00:42,000
+So this is a test test shows fine.
+
+11
+00:00:42,100 --> 00:00:46,770
+One more check check with I-T all things or go back and forth conversation.
+
+12
+00:00:46,780 --> 00:00:54,550
+Now if she is in her office on an almost like real time chat now over here you have a button to expand.
+
+13
+00:00:54,610 --> 00:00:57,010
+All of them if you want to read them.
+
+14
+00:00:57,190 --> 00:01:00,940
+If not you can click on them one at a time and read them that way.
+
+15
+00:01:01,000 --> 00:01:06,630
+This button allows me to print conversation and this one allows me to view it within a new window.
+
+16
+00:01:07,380 --> 00:01:13,450
+Now if I come in here and reply that becomes a new part of this conversation and the reason I want to
+
+17
+00:01:13,450 --> 00:01:15,740
+show you this I think it is a good feature.
+
+18
+00:01:15,790 --> 00:01:16,450
+I do like it.
+
+19
+00:01:16,450 --> 00:01:18,760
+Let's go back to inbox right over here.
+
+20
+00:01:18,760 --> 00:01:20,220
+But not all people do like it.
+
+21
+00:01:20,380 --> 00:01:21,440
+So can you turn it off.
+
+22
+00:01:21,450 --> 00:01:23,770
+The answer to that is yes.
+
+23
+00:01:23,770 --> 00:01:31,590
+If we come over here to our gear which is for settings and go into settings right here now it probably
+
+24
+00:01:31,590 --> 00:01:36,030
+did default to the general settings up here if it didn't go ahead and click that tab.
+
+25
+00:01:36,270 --> 00:01:42,390
+If you don't like conversations which you can do is come down here and you'll see conversation view
+
+26
+00:01:42,900 --> 00:01:45,030
+and you can turn it off.
+
+27
+00:01:45,030 --> 00:01:49,920
+Now there is a lot of stuff here in settings but if you make any changes don't forget you have to come
+
+28
+00:01:49,980 --> 00:01:56,440
+all the way down here and click save changes and you will notice it's now split up.
+
+29
+00:01:56,760 --> 00:02:01,140
+If I do click on them just like any other system it will show me replies.
+
+30
+00:02:01,140 --> 00:02:02,640
+But it splits them apart.
+
+31
+00:02:02,760 --> 00:02:06,570
+When you get into the inbox itself I do prefer conversations.
+
+32
+00:02:06,570 --> 00:02:07,330
+I do like them.
+
+33
+00:02:07,560 --> 00:02:10,230
+But if you don't it's an easy matter just turn them off.
+
+34
+00:02:10,230 --> 00:02:12,070
+Conversations help organize.
+
+35
+00:02:12,180 --> 00:02:12,980
+That's all they do.

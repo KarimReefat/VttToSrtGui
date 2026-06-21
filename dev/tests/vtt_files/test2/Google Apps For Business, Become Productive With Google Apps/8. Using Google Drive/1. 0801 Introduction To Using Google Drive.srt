@@ -1,0 +1,75 @@
+1
+00:00:01,450 --> 00:00:05,250
+Let me begin with a question Does anybody remember the group Huey Lewis and the news.
+
+2
+00:00:05,250 --> 00:00:08,050
+A very popular group years ago in the United States.
+
+3
+00:00:08,140 --> 00:00:11,560
+They did a song called The Heart of Rock and Roll is the beat.
+
+4
+00:00:11,590 --> 00:00:12,710
+So what's your point.
+
+5
+00:00:12,940 --> 00:00:16,870
+Well to me the real heart of Google Apps for business is Google Drive.
+
+6
+00:00:16,870 --> 00:00:18,850
+And that's what this chapter is all about.
+
+7
+00:00:18,850 --> 00:00:22,780
+Now it installs differently on a Mac or Windows system.
+
+8
+00:00:22,930 --> 00:00:23,920
+So we're going to cover both.
+
+9
+00:00:24,010 --> 00:00:25,510
+I want you to get this.
+
+10
+00:00:25,510 --> 00:00:26,960
+We're going to talk about its interface.
+
+11
+00:00:26,970 --> 00:00:29,030
+We're going to talk about adding and sharing folders.
+
+12
+00:00:29,080 --> 00:00:30,840
+We're talking about adding files.
+
+13
+00:00:31,000 --> 00:00:36,340
+We're going to convert documents for Google Apps so we can use them when we talk about additional drive
+
+14
+00:00:36,340 --> 00:00:38,510
+settings to control it the way you want it.
+
+15
+00:00:38,530 --> 00:00:42,060
+We're talking about sending email with Google Drive.
+
+16
+00:00:42,070 --> 00:00:44,960
+Working with collaborators I love collaborators.
+
+17
+00:00:45,070 --> 00:00:48,220
+And then we'll search inside of Google Drive.
+
+18
+00:00:48,250 --> 00:00:54,140
+So if the heart of rock and roll is the beat the heart of Google Apps is Google right.
+
+19
+00:00:54,430 --> 00:00:54,790
+Let's go.

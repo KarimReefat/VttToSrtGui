@@ -1,0 +1,127 @@
+1
+00:00:01,500 --> 00:00:03,600
+Here we are in the admin Council.
+
+2
+00:00:03,630 --> 00:00:05,090
+Go ahead get there if you're not.
+
+3
+00:00:05,280 --> 00:00:10,230
+Let's look at some of the options we have for our company profile right over here.
+
+4
+00:00:10,660 --> 00:00:17,940
+Now in profile Let's start actually with personalization if you want to you can have your own custom
+
+5
+00:00:17,940 --> 00:00:18,990
+logo as you can see.
+
+6
+00:00:18,990 --> 00:00:21,950
+I do have one real Andy and there's fearless leader.
+
+7
+00:00:22,050 --> 00:00:24,030
+The defaults are up here.
+
+8
+00:00:24,090 --> 00:00:25,220
+Now how did I get this one.
+
+9
+00:00:25,280 --> 00:00:32,850
+Well I selected here obviously and then I came down to choose the file here and chose it.
+
+10
+00:00:33,170 --> 00:00:38,400
+And then I uploaded it understand Google is like really picky about this thing.
+
+11
+00:00:38,660 --> 00:00:46,420
+It has to be a P G which I prefer or a jiff and it needs to be scaled to 143 pixels by 59.
+
+12
+00:00:46,610 --> 00:00:51,120
+If it isn't it's going to look really bad and don't include any google trademarks.
+
+13
+00:00:51,290 --> 00:00:56,580
+So if you want to customize Google Apps for business this would be one thing that you could do and show
+
+14
+00:00:56,580 --> 00:01:02,380
+this logo in all sites that users create of course save our changes here.
+
+15
+00:01:02,430 --> 00:01:03,250
+Close this out.
+
+16
+00:01:04,120 --> 00:01:11,020
+If we come to communication preferences what do you want do you want performance suggestions and updates
+
+17
+00:01:11,020 --> 00:01:16,270
+feature announcements offers from Google feedback and testing.
+
+18
+00:01:16,270 --> 00:01:20,340
+These are all on by default you can turn them off in profile.
+
+19
+00:01:20,390 --> 00:01:25,690
+We have things like the organization name which you can change contact information things like that.
+
+20
+00:01:25,750 --> 00:01:31,840
+And finally down here in Kustom you ourselves and I do like this feature we did talk about this before
+
+21
+00:01:32,440 --> 00:01:38,320
+to get to G-mail it's Melgar Google dot com forward slash a Ford slash real energy dot com that's the
+
+22
+00:01:38,320 --> 00:01:38,860
+default.
+
+23
+00:01:38,860 --> 00:01:40,880
+You can change that to make that real.
+
+24
+00:01:40,900 --> 00:01:45,470
+Andy dotcom makes life a whole lot easier doesn't it.
+
+25
+00:01:45,470 --> 00:01:48,440
+Let's go ahead and get out of here.
+
+26
+00:01:48,520 --> 00:01:55,420
+When you're working in the admin console when you're setting up Google Apps for business every single
+
+27
+00:01:55,480 --> 00:02:02,530
+one of your apps and services is going to have preferences and most of them are pretty straightforward
+
+28
+00:02:02,620 --> 00:02:04,050
+things to answer.
+
+29
+00:02:04,180 --> 00:02:10,930
+But in order to customize business to your particular organization and the needs of your users you're
+
+30
+00:02:10,930 --> 00:02:14,180
+going to need to go through these things and sort them out.
+
+31
+00:02:14,290 --> 00:02:17,140
+Not really a bad thing but that's why they pay you the big bucks.
+
+32
+00:02:17,140 --> 00:02:18,060
+You're the administrator.

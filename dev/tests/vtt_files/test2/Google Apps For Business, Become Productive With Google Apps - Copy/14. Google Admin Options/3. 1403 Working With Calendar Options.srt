@@ -1,0 +1,235 @@
+1
+00:00:01,570 --> 00:00:04,340
+If you're not in the admin Council go ahead and get there.
+
+2
+00:00:04,620 --> 00:00:06,610
+And let's go back into Google Apps again.
+
+3
+00:00:06,610 --> 00:00:09,300
+I want to show you this time calendar settings.
+
+4
+00:00:09,400 --> 00:00:10,910
+Some interesting stuff in here.
+
+5
+00:00:11,170 --> 00:00:19,810
+Let's go to calendar I've had six active users in the last seven days 66 percent of my users are using
+
+6
+00:00:19,810 --> 00:00:20,930
+this application.
+
+7
+00:00:20,950 --> 00:00:23,810
+I can come over here and turn it off if I want to.
+
+8
+00:00:24,160 --> 00:00:26,510
+Let's start with sharing settings right here.
+
+9
+00:00:26,550 --> 00:00:32,920
+And number one if your calendar is going outside of one of the productions What do you want to show
+
+10
+00:00:32,920 --> 00:00:38,100
+people as far as I'm concerned only free busy and hide event details.
+
+11
+00:00:38,110 --> 00:00:41,130
+I don't need the world understanding what my company is doing.
+
+12
+00:00:41,500 --> 00:00:45,100
+If it's internal I have no problem with sharing all information.
+
+13
+00:00:45,100 --> 00:00:52,360
+We're one big family and do you want to automatically add video calls to events created by user.
+
+14
+00:00:52,570 --> 00:00:53,970
+And that's up to you.
+
+15
+00:00:54,040 --> 00:00:55,960
+I'm going to skip resources for a second.
+
+16
+00:00:55,960 --> 00:00:57,280
+We will come back to that.
+
+17
+00:00:57,430 --> 00:00:59,550
+Let's go into general settings right here.
+
+18
+00:00:59,830 --> 00:01:07,440
+In general settings we can change the rl of how the calendar is access to something as simple as calendar
+
+19
+00:01:07,490 --> 00:01:09,470
+dot real Indy dot com.
+
+20
+00:01:09,580 --> 00:01:13,950
+Do you want to any external sharing options for secondary calendars.
+
+21
+00:01:14,080 --> 00:01:15,460
+Give them all information.
+
+22
+00:01:15,490 --> 00:01:16,530
+Again no.
+
+23
+00:01:16,540 --> 00:01:21,330
+As far as I'm concerned only free busy go down a little bit here.
+
+24
+00:01:21,400 --> 00:01:27,460
+You do have the ability to set up what are called free busy services and you can learn more about that
+
+25
+00:01:27,460 --> 00:01:29,580
+here like Microsoft Exchange et cetera.
+
+26
+00:01:29,770 --> 00:01:37,300
+And you can uninstalls right here and come back over here is your labs and you turned them on and off
+
+27
+00:01:37,310 --> 00:01:38,320
+now labs are cool.
+
+28
+00:01:38,320 --> 00:01:43,900
+We did talk about him several different times and they add functionality to things like your calendar.
+
+29
+00:01:43,990 --> 00:01:48,370
+But if you think people are having just too much fun I guess you could turn those off go down a little
+
+30
+00:01:48,370 --> 00:01:48,790
+bit more.
+
+31
+00:01:48,790 --> 00:01:55,660
+Here you have what's called calendar interrupt management and you can set this up so that Google can
+
+32
+00:01:55,660 --> 00:02:01,810
+access the calendars and perform selected calendar interrupt functions if you want to learn more about
+
+33
+00:02:01,810 --> 00:02:02,020
+that.
+
+34
+00:02:02,020 --> 00:02:06,220
+You can let's go back up here to resource.
+
+35
+00:02:06,400 --> 00:02:08,660
+That's going to make me re-enter my password.
+
+36
+00:02:10,260 --> 00:02:12,230
+That's why I want to save this one to last.
+
+37
+00:02:12,540 --> 00:02:18,030
+What's a resource where a resource can be literally anything it can be a meeting room.
+
+38
+00:02:18,030 --> 00:02:19,890
+It can be a wireless microphone.
+
+39
+00:02:19,950 --> 00:02:22,790
+It can be a telephone communication system.
+
+40
+00:02:22,860 --> 00:02:24,510
+It could be a projector.
+
+41
+00:02:24,520 --> 00:02:31,170
+Now I've got one set up right here the Atlantis room a meeting room seats 20 has a projector in V-J
+
+42
+00:02:31,170 --> 00:02:32,490
+cabling.
+
+43
+00:02:32,760 --> 00:02:39,780
+If you want to create more you come up here and say create a new resource give it a name type in a description
+
+44
+00:02:41,200 --> 00:02:42,950
+you can have as many of these as you want.
+
+45
+00:02:42,970 --> 00:02:47,820
+And again resources are everything from a meeting room to a microphone to a projector.
+
+46
+00:02:47,830 --> 00:02:48,770
+How is it used.
+
+47
+00:02:48,880 --> 00:02:50,040
+Let me show you this.
+
+48
+00:02:50,080 --> 00:02:52,300
+I'm going to come up here and go to my calendar.
+
+49
+00:02:52,590 --> 00:02:53,950
+It's actually pretty cool.
+
+50
+00:02:53,980 --> 00:02:59,780
+I come over here and I say hmm I want to conduct a meeting on this date.
+
+51
+00:02:59,890 --> 00:03:03,100
+So I click it we go to EDID event.
+
+52
+00:03:03,120 --> 00:03:07,140
+Now if I go over to rooms etc. There it is.
+
+53
+00:03:07,260 --> 00:03:11,260
+Now notice the checkmark the tick show only available.
+
+54
+00:03:11,270 --> 00:03:17,120
+The cool thing about this is if somebody else is book the microphone or the Atlantas room or the projector
+
+55
+00:03:17,120 --> 00:03:21,450
+or whatever it is I won't be able to book it because it would be a conflict.
+
+56
+00:03:21,590 --> 00:03:28,700
+I would then be able to go into a calendar and maybe reassess where my meeting will be so I can have.
+
+57
+00:03:28,700 --> 00:03:31,060
+In this case the Atlantas room resources.
+
+58
+00:03:31,220 --> 00:03:38,420
+So remember when you're working inside of calendar as the administrator you have a lot of control over
+
+59
+00:03:38,420 --> 00:03:40,730
+how people work in react with the calendar.

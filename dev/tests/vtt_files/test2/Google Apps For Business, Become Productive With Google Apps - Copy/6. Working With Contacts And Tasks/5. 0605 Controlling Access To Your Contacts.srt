@@ -1,0 +1,143 @@
+1
+00:00:01,410 --> 00:00:05,460
+We've got our contact set up you've got about six like I've got are 600.
+
+2
+00:00:05,460 --> 00:00:12,030
+Does it matter the time might come that you might need to give someone access to your contacts.
+
+3
+00:00:12,430 --> 00:00:13,530
+Well you're in a group.
+
+4
+00:00:13,860 --> 00:00:19,590
+And one of the exec's requests say for example access to your contacts so he can kind of watch the whole
+
+5
+00:00:19,590 --> 00:00:20,640
+discussion.
+
+6
+00:00:20,640 --> 00:00:22,800
+There are a lot of reasons why you might want to do this.
+
+7
+00:00:22,830 --> 00:00:24,860
+I want to give access to my wife.
+
+8
+00:00:25,070 --> 00:00:25,560
+Why.
+
+9
+00:00:25,650 --> 00:00:26,210
+I don't know.
+
+10
+00:00:26,220 --> 00:00:26,920
+She's my wife.
+
+11
+00:00:26,940 --> 00:00:28,830
+But she's also my business partner.
+
+12
+00:00:28,980 --> 00:00:32,570
+And so well she needs access and so I'm going to give her access.
+
+13
+00:00:32,640 --> 00:00:33,490
+How do I do that.
+
+14
+00:00:33,630 --> 00:00:39,140
+Well number one she does have to have a Google account with real and it has to be that.
+
+15
+00:00:39,330 --> 00:00:43,960
+So let's go up to the word more and go down to manage delegation's settings.
+
+16
+00:00:44,870 --> 00:00:47,990
+Come down into invite people and begin typing.
+
+17
+00:00:47,990 --> 00:00:53,010
+In my case Bonnie now she has several domains and accounts.
+
+18
+00:00:53,030 --> 00:00:54,690
+This is the one I want.
+
+19
+00:00:54,800 --> 00:00:57,110
+You can add a message which I want to do.
+
+20
+00:00:57,110 --> 00:00:59,800
+Bonnie dearest love of my life.
+
+21
+00:01:00,530 --> 00:01:03,270
+Here are my contacts.
+
+22
+00:01:03,290 --> 00:01:05,060
+Treat them with care.
+
+23
+00:01:05,120 --> 00:01:06,820
+I'm going to send one to myself.
+
+24
+00:01:06,830 --> 00:01:07,300
+Why.
+
+25
+00:01:07,370 --> 00:01:10,370
+Well it gives me a record so I know.
+
+26
+00:01:10,370 --> 00:01:11,480
+Click send.
+
+27
+00:01:11,630 --> 00:01:13,370
+And there it goes.
+
+28
+00:01:13,370 --> 00:01:15,670
+She can now edit like done.
+
+29
+00:01:15,920 --> 00:01:18,010
+And she now has access now.
+
+30
+00:01:18,050 --> 00:01:25,520
+Any time I want to I can come back into more and go into managed delegation settings and click here
+
+31
+00:01:25,760 --> 00:01:26,840
+and remove those.
+
+32
+00:01:27,110 --> 00:01:30,260
+You'll have to come down here and say save changes.
+
+33
+00:01:30,470 --> 00:01:31,340
+Click done.
+
+34
+00:01:31,340 --> 00:01:33,730
+And now she doesn't have access anymore.
+
+35
+00:01:33,740 --> 00:01:37,910
+There are times when you want to give people access to your contacts.
+
+36
+00:01:38,000 --> 00:01:38,800
+That's how you do it.

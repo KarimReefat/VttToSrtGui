@@ -1,0 +1,143 @@
+1
+00:00:01,510 --> 00:00:06,630
+In this lesson let's look at exactly how Google apps work.
+
+2
+00:00:06,680 --> 00:00:10,220
+Now I tell people this all the time but nobody ever believes me.
+
+3
+00:00:10,220 --> 00:00:12,770
+Technical Information is going to be disseminated.
+
+4
+00:00:12,770 --> 00:00:14,860
+Please stay alert at all times.
+
+5
+00:00:15,530 --> 00:00:23,740
+We are talking about cloud computing cloud computing starts with the Google server.
+
+6
+00:00:23,780 --> 00:00:28,200
+Now that's where all our stuff is and we will talk about backing up our own stuff.
+
+7
+00:00:28,520 --> 00:00:36,420
+But Google's got my stuff any where I am on almost any kind of device.
+
+8
+00:00:36,450 --> 00:00:39,900
+All I need is a connection to the Internet.
+
+9
+00:00:40,020 --> 00:00:43,090
+Now could be hard wired into a business system.
+
+10
+00:00:43,170 --> 00:00:45,670
+It could be a laptop it could be a smartphone.
+
+11
+00:00:45,720 --> 00:00:48,420
+It doesn't matter if I have that connection.
+
+12
+00:00:48,510 --> 00:00:54,750
+I can do my G-mail I can chat I can video chat if I want to.
+
+13
+00:00:55,290 --> 00:00:59,810
+I can organize my personal and business information.
+
+14
+00:01:00,010 --> 00:01:07,060
+I can create information in a variety of forms and then share it with others all while sitting down
+
+15
+00:01:07,390 --> 00:01:14,460
+with an espresso and a piece of chocolate pie in my favorite coffee bistro which is kind of how I hang.
+
+16
+00:01:14,560 --> 00:01:16,980
+If you've got a connection you've got it made.
+
+17
+00:01:17,050 --> 00:01:25,350
+But that leads me to another question and that's a question of security how safe is my stuff.
+
+18
+00:01:25,510 --> 00:01:29,220
+Now the answer to that question is it's not your problem.
+
+19
+00:01:29,410 --> 00:01:31,210
+Not really I mean there are things we can do.
+
+20
+00:01:31,240 --> 00:01:32,220
+We'll talk about that.
+
+21
+00:01:32,410 --> 00:01:34,080
+But it's Google's problem.
+
+22
+00:01:34,090 --> 00:01:36,230
+So let's talk a little bit more about that.
+
+23
+00:01:36,430 --> 00:01:38,290
+What does Google do.
+
+24
+00:01:38,290 --> 00:01:40,780
+Well there are cloud based.
+
+25
+00:01:40,780 --> 00:01:42,840
+They discover a problem.
+
+26
+00:01:42,850 --> 00:01:49,240
+Let's say they discover a hole in their programming that a potential hacker could get through and they
+
+27
+00:01:49,240 --> 00:01:53,650
+close the hole they put that out onto the cloud in like rain.
+
+28
+00:01:53,650 --> 00:01:57,630
+It all comes down to US security updates are automatic.
+
+29
+00:01:57,760 --> 00:02:01,480
+But that's also true of your applications.
+
+30
+00:02:01,480 --> 00:02:03,930
+They come up with a better way to do something.
+
+31
+00:02:04,090 --> 00:02:05,410
+They put it on the cloud.
+
+32
+00:02:05,470 --> 00:02:13,630
+It rains down on top of us and that allows me to relax and conduct business with an espresso and a piece
+
+33
+00:02:13,630 --> 00:02:17,340
+of chocolate pie in my favorite coffee bistro.
+
+34
+00:02:17,410 --> 00:02:22,480
+So now that you know with Google Apps for business is all about it's time to get serious.
+
+35
+00:02:22,540 --> 00:02:27,040
+And they do say a journey of a thousand kilometers or miles begins with the first step.
+
+36
+00:02:27,040 --> 00:02:32,640
+And our first step is setting up an account to tell you what I'll see you in the next chapter.

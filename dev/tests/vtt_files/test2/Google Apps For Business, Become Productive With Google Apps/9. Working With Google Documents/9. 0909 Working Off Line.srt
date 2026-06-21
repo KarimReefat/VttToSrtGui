@@ -1,0 +1,107 @@
+1
+00:00:01,540 --> 00:00:08,050
+The advantage to using Google Apps for business sometimes can actually be a disadvantage.
+
+2
+00:00:08,050 --> 00:00:09,270
+Let me explain that.
+
+3
+00:00:09,430 --> 00:00:15,480
+We work on servers the Google servers the servers are in the cloud the cloud rains down on us anywhere
+
+4
+00:00:15,490 --> 00:00:19,390
+we are that has a wireless connection and we can work anywhere we want.
+
+5
+00:00:19,390 --> 00:00:21,200
+We can communicate with our coworkers.
+
+6
+00:00:21,280 --> 00:00:25,070
+We can send them stuff spreadsheets whatever.
+
+7
+00:00:25,090 --> 00:00:27,030
+That is the advantage.
+
+8
+00:00:27,070 --> 00:00:33,100
+The disadvantage is in my opinion what if you want to work on something but you don't have a connection
+
+9
+00:00:33,100 --> 00:00:38,650
+to the Google servers if you're on an airplane and you don't want to spend the extra money for the new
+
+10
+00:00:38,830 --> 00:00:40,250
+wireless service.
+
+11
+00:00:40,420 --> 00:00:41,830
+And I don't blame you.
+
+12
+00:00:41,900 --> 00:00:44,180
+Maybe you're going to be on the airplane for an hour or two.
+
+13
+00:00:44,260 --> 00:00:47,790
+You just want to catch up on a document if you're off line.
+
+14
+00:00:47,830 --> 00:00:50,840
+You can view stuff but you can't change it.
+
+15
+00:00:50,870 --> 00:00:54,520
+Let me show you something if we go into more right here.
+
+16
+00:00:54,520 --> 00:00:57,970
+Now this will be in any one of the Google Apps.
+
+17
+00:00:57,970 --> 00:01:00,570
+There is an option for off line.
+
+18
+00:01:00,580 --> 00:01:06,190
+Now we have already installed the drive but if I go to off line it'll tell me I already have the web
+
+19
+00:01:06,190 --> 00:01:06,910
+app.
+
+20
+00:01:06,910 --> 00:01:15,980
+Basically what this does is it puts editable copies of my documents on my computer and if I enable offline
+
+21
+00:01:16,000 --> 00:01:16,930
+that's what it will do.
+
+22
+00:01:16,930 --> 00:01:20,030
+So you have to be online now to get it done.
+
+23
+00:01:20,140 --> 00:01:26,080
+But the process then goes this way I can say get on the airplane or whatever I can do any work that
+
+24
+00:01:26,080 --> 00:01:32,760
+I want to and when I get back online the updates will be transferred to the Google servers.
+
+25
+00:01:32,770 --> 00:01:40,870
+So the advantage of having Google business which is good can also be a disadvantage but not if you enable
+
+26
+00:01:41,110 --> 00:01:42,570
+off line editing.
+
+27
+00:01:42,640 --> 00:01:44,040
+It's as easy as that.

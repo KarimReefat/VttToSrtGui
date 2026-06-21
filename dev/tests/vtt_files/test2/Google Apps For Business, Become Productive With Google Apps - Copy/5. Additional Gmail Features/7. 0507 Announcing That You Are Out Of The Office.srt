@@ -1,0 +1,155 @@
+1
+00:00:01,420 --> 00:00:07,420
+Believe it or not there are people according to studies that are so hung up on things like email that
+
+2
+00:00:07,420 --> 00:00:12,810
+they literally check to see if somebody has sent them a message every five to eight minutes.
+
+3
+00:00:13,030 --> 00:00:15,870
+I would call that obsessive compulsive.
+
+4
+00:00:15,880 --> 00:00:21,580
+There are times when I don't want to check e-mail but if I'm in my business I'm kind of obligated to
+
+5
+00:00:21,580 --> 00:00:22,120
+do that.
+
+6
+00:00:22,300 --> 00:00:27,490
+But what if you're taking a week off to do something maybe it's a business trip and you want to be courteous
+
+7
+00:00:27,490 --> 00:00:32,440
+to the people that are sending you e-mails who think you're ignoring them by giving them something.
+
+8
+00:00:32,440 --> 00:00:33,660
+We have all seen.
+
+9
+00:00:34,120 --> 00:00:36,520
+Hi I'm out of the office I'll be back on.
+
+10
+00:00:36,670 --> 00:00:39,750
+And when I get back I'll respond to your e-mail kind of message.
+
+11
+00:00:39,850 --> 00:00:41,300
+Very easy to set up.
+
+12
+00:00:41,500 --> 00:00:45,460
+Go into G-mail of course go up to our gear and go into settings.
+
+13
+00:00:45,490 --> 00:00:49,210
+We've been spending a lot of time in settings and that's fine.
+
+14
+00:00:49,510 --> 00:00:57,880
+It should default to the general down down down until you get to vacation responder It doesn't necessarily
+
+15
+00:00:57,880 --> 00:00:58,870
+have to be a vacation.
+
+16
+00:00:58,870 --> 00:01:01,620
+It could be a business trip but we'll go ahead and turn that on.
+
+17
+00:01:01,990 --> 00:01:06,550
+Now it defaults to the first day today's day and so on going on holiday.
+
+18
+00:01:06,610 --> 00:01:08,550
+OK when's the last day.
+
+19
+00:01:08,680 --> 00:01:15,170
+I'm going to put in say the 21st a short hop kind of vacation come in here.
+
+20
+00:01:15,180 --> 00:01:17,720
+Now the message can be obviously anything you want.
+
+21
+00:01:17,910 --> 00:01:21,060
+I'll be out of the office until the 21st when I return.
+
+22
+00:01:21,060 --> 00:01:23,440
+I will respond to your e-mail so leave me alone.
+
+23
+00:01:24,910 --> 00:01:26,390
+Maybe something like this.
+
+24
+00:01:26,500 --> 00:01:28,930
+Why would you want to put this in the plain text.
+
+25
+00:01:28,930 --> 00:01:33,630
+Would it be better if it was on olds and had maybe an image and even a link or something.
+
+26
+00:01:33,640 --> 00:01:36,840
+Not everybody has the ability to see that stuff.
+
+27
+00:01:36,970 --> 00:01:44,920
+If I only send the response to people in my contacts or the people in my company one of a kind I know
+
+28
+00:01:44,920 --> 00:01:50,740
+the browsers they have I know their capabilities but if I'm sending it to anybody that I'm the one off
+
+29
+00:01:50,740 --> 00:01:54,750
+might send me an e-mail I might want to put that in plain text that's up to you.
+
+30
+00:01:54,980 --> 00:01:57,780
+I am going to send it to everybody so I'll leave these on check.
+
+31
+00:01:58,550 --> 00:02:00,190
+And I'll click save changes.
+
+32
+00:02:01,810 --> 00:02:09,160
+You'll notice a nice bright yellow bar up here which lets me know I'm on vacation settings.
+
+33
+00:02:09,160 --> 00:02:14,320
+Anybody that e-mails me I will get the e-mail but they will get that response.
+
+34
+00:02:14,320 --> 00:02:16,250
+Now let's say I get home early.
+
+35
+00:02:16,630 --> 00:02:22,470
+I can end it now just by clicking here or I can reset it in vacation's settings up to you.
+
+36
+00:02:22,690 --> 00:02:23,260
+I'm done.
+
+37
+00:02:23,260 --> 00:02:24,980
+Vacation's over.
+
+38
+00:02:25,010 --> 00:02:31,070
+So if you need to put an out of office responding messaging it's actually pretty easy and you've got
+
+39
+00:02:31,070 --> 00:02:34,340
+that big yellow bar at the top reminding you that it's active.
